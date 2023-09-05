@@ -1,0 +1,59 @@
+{
+   "messages":[
+      {
+         "timestamp":"13:36:59",
+         "speaker":"User",
+         "content":"Hi PERSON_FIRSTNAME_2 PERSON_LASTNAME_4!"
+      },
+      {
+         "timestamp":"13:37:02",
+         "speaker":"User",
+         "content":"This is PERSON_LASTNAME_1 from SMU Libraries. How may I help you?"
+      },
+      {
+         "timestamp":"13:37:15",
+         "speaker":"User",
+         "content":"Hi PERSON_LASTNAME_1, good afternoon!"
+      },
+      {
+         "timestamp":"13:37:24",
+         "speaker":"User",
+         "content":"Good afternoon :)"
+      },
+      {
+         "timestamp":"13:41:46",
+         "speaker":"User",
+         "content":"I am working with my feature piece, which topic is about dream interpretation. I plan to interview someone to share their opinions, and then I think it might be a fair idea to interview psychology profs in SMU (once I see the emailers to conduct psychology surveys etc.) I want to know if it is appropriate to contact the prof for that? just send invitation emails to have a try......"
+      },
+      {
+         "timestamp":"13:46:31",
+         "speaker":"User",
+         "content":"PERSON_LASTNAME_3! thanks for your help!"
+      },
+      {
+         "timestamp":"13:43:35",
+         "speaker":"Help Desk",
+         "content":"I see. I'd suggest you to get in touch with SMU's Institutional Review Board on your intended interviews."
+      },
+      {
+         "timestamp":"13:43:41",
+         "speaker":"Help Desk",
+         "content":"https://research.smu.edu.sg/smu-institutional-review-board"
+      },
+      {
+         "timestamp":"13:44:41",
+         "speaker":"Help Desk",
+         "content":"It doesn't matter if your intended interviewees are from SMU or external, I think you prorbably have to submit an IRB application."
+      },
+      {
+         "timestamp":"13:45:47",
+         "speaker":"Help Desk",
+         "content":"You may drop them an email to irb@smu.edu.sg to check before you go ahead with the IRB application."
+      },
+      {
+         "timestamp":"13:46:35",
+         "speaker":"Help Desk",
+         "content":"You're welcome!"
+      }
+   ]
+}

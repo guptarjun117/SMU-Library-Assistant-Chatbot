@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "timestamp": "12:25:05",
+      "speaker": "USER",
+      "message": "hi"
+    },
+    {
+      "timestamp": "12:25:11",
+      "speaker": "USER",
+      "message": "how can i assist?"
+    },
+    {
+      "timestamp": "12:25:22",
+      "speaker": "USER",
+      "message": "Hi, I'm unable to download a book from smu library"
+    },
+    {
+      "timestamp": "12:25:34",
+      "speaker": "USER",
+      "message": "attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107890&amp;preview=true\" target=\"_blank\" class=\"s-la-cfile\" data-preview=\"inline\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107890&amp;preview=true</a>"
+    },
+    {
+      "timestamp": "12:26:03",
+      "speaker": "USER",
+      "message": "hmm..."
+    },
+    {
+      "timestamp": "12:26:38",
+      "speaker": "USER",
+      "message": "can you try to clear your browser cookie and cache first?<br /><a href=\"https://libfaq.smu.edu.sg/faq/266392\" target=\"_blank\">https://libfaq.smu.edu.sg/faq/266392</a><br />"
+    },
+    {
+      "timestamp": "12:28:28",
+      "speaker": "USER",
+      "message": "can?"
+    },
+    {
+      "timestamp": "12:30:00",
+      "speaker": "USER",
+      "message": "trying"
+    },
+    {
+      "timestamp": "12:37:50",
+      "speaker": "USER",
+      "message": "works now! thanku"
+    },
+    {
+      "timestamp": "12:38:02",
+      "speaker": "USER",
+      "message": "That's good to hear<br />"
+    },
+    {
+      "timestamp": "12:38:14",
+      "speaker": "USER",
+      "message": "Is there anything else that I can assist you before i close this chat?"
+    },
+    {
+      "timestamp": "12:40:38",
+      "speaker": "USER",
+      "message": "I will end this chat now. Thank you for using our chat service. Bye.<br />"
+    },
+    {
+      "timestamp": "12:40:41",
+      "speaker": "USER",
+      "message": "nope, thanks!"
+    }
+  ]
+}

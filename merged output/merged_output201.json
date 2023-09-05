@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "11:05:15",
+    "speaker": "User",
+    "message": "[name4] : Hi PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "11:05:15",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Hi PERSON_FIRSTNAME_2 He"
+  },
+  {
+    "timestamp": "11:05:54",
+    "speaker": "User",
+    "message": "[name4] : I'm downloading data from datastream database in investment studio. But I have some issues, need a librarian's help."
+  },
+  {
+    "timestamp": "11:05:54",
+    "speaker": "User",
+    "message": "[name4] : I don't know how to find any of them..."
+  },
+  {
+    "timestamp": "11:08:15",
+    "speaker": "User",
+    "message": "[name4] : okay"
+  },
+  {
+    "timestamp": "11:09:28",
+    "speaker": "User",
+    "message": "[name4] : got it"
+  },
+  {
+    "timestamp": "11:09:31",
+    "speaker": "User",
+    "message": "[name4] : thanks"
+  },
+  {
+    "timestamp": "11:05:19",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : how can we help you today"
+  },
+  {
+    "timestamp": "11:06:05",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : oh sure, let me check if the finance librarian is free to drop by"
+  },
+  {
+    "timestamp": "11:06:20",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : thank you very much"
+  },
+  {
+    "timestamp": "11:08:08",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Would it be ok if he pops by at 1130"
+  },
+  {
+    "timestamp": "11:08:16",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : he is just settling something now"
+  },
+  {
+    "timestamp": "11:08:17",
+    "speaker": "Help Desk",
+    "message": "[name4] : that's great"
+  },
+  {
+    "timestamp": "11:08:21",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : ok thanks"
+  },
+  {
+    "timestamp": "11:08:24",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I will let him know"
+  },
+  {
+    "timestamp": "11:09:00",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I will remind him to pop by at around 1130"
+  },
+  {
+    "timestamp": "11:09:17",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : but if by 1140 he hasn't come by, please let me know via a new chat!"
+  },
+  {
+    "timestamp": "11:09:21",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : thank you"
+  },
+  {
+    "timestamp": "11:09:41",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "11:10:33",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : if there isn't, I will end the chat"
+  },
+  {
+    "timestamp": "11:10:34",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : thanks"
+  }
+]

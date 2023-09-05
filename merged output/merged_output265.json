@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "timestamp": "12:26:10",
+      "speaker": "User",
+      "message": "Hi, I would like to ask how do I cite infographics? I cant seem to find in the research guide"
+    },
+    {
+      "timestamp": "12:26:25",
+      "speaker": "User",
+      "message": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/Evolution-of-Streaming.pdf"
+    },
+    {
+      "timestamp": "12:26:33",
+      "speaker": "User",
+      "message": "This is the pdf file"
+    },
+    {
+      "timestamp": "12:25:17",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "12:27:40",
+      "speaker": "Help Desk",
+      "message": "Sure, you can refer to this section in the research guide:<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627446\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627446</a> There is a section Infographic there, under \"Infographic from a website\""
+    },
+    {
+      "timestamp": "12:28:48",
+      "speaker": "Help Desk",
+      "message": "ah ok, found it thank you so much!"
+    }
+  ]
+}

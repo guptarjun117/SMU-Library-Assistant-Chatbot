@@ -1,0 +1,112 @@
+[
+    {
+        "timestamp": "15:36:38",
+        "speaker": "user",
+        "message": "Hello, again!"
+    },
+    {
+        "timestamp": "15:37:01",
+        "speaker": "user",
+        "message": "hi PERSON_LASTNAME_3! so sorry, i got disconnected, but i hope you saw the message explaining why my scope was so broad haha"
+    },
+    {
+        "timestamp": "15:37:36",
+        "speaker": "user",
+        "message": "I may not be an expert, but would you consider taking another approach if the succesful rate data is not available or not able to be located?"
+    },
+    {
+        "timestamp": "15:39:26",
+        "speaker": "user",
+        "message": "Which source did you look at/"
+    },
+    {
+        "timestamp": "15:39:28",
+        "speaker": "user",
+        "message": "?"
+    },
+    {
+        "timestamp": "15:43:09",
+        "speaker": "user",
+        "message": "I see. I would think the Harvard source should be credible."
+    },
+    {
+        "timestamp": "15:44:27",
+        "speaker": "user",
+        "message": "But the stat may be outdated. Look at the info at the bottom of the page:"
+    },
+    {
+        "timestamp": "15:44:29",
+        "speaker": "user",
+        "message": "<p>Adapted from Get the Best Deal Possible in Mediation, by Stephen B. PERSON_LASTNAME_4 (professor, Northwestern Law School), first published in the<em><a href=\"http://www.pon.harvard.edu/category/publication/negotiation-briefings/\" target=\"_blank\">Negotiation</a></em>newsletter, November 2006.</p><p><em>Originally published in 2012.</em></p>"
+    },
+    {
+        "timestamp": "15:45:54",
+        "speaker": "user",
+        "message": "For the first source from Civil Mediation, it says\nAll Data provided by CEDR Centre for Effective Dispute Resolution.CEDRs 2018 study The Eighth Mediation Audit"
+    },
+    {
+        "timestamp": "15:47:33",
+        "speaker": "user",
+        "message": "ok!"
+    },
+    {
+        "timestamp": "15:47:51",
+        "speaker": "user",
+        "message": "I've found it haha<a href=\"https://www.cedr.com/wp-content/uploads/2019/10/The_Eighth_Mediation_Audit_2018.pdf\" target=\"_blank\">https://www.cedr.com/wp-content/uploads/2019/10/The_Eighth_Mediation_Audit_2018.pdf</a>"
+    },
+    {
+        "timestamp": "15:49:45",
+        "speaker": "user",
+        "message": "Btw, I realise CEDR does biannual mediation survey and the latest was the 10th survey which will be more up-to-date:<a href=\"https://www.cedr.com/foundation/mediation-audit/\" target=\"_blank\">https://www.cedr.com/foundation/mediation-audit/</a>"
+    },
+    {
+        "timestamp": "15:51:50",
+        "speaker": "user",
+        "message": "Is there anything else I could help you here? :)"
+    },
+    {
+        "timestamp": "15:54:57",
+        "speaker": "user",
+        "message": "No problem, PERSON_FIRSTNAME_2! Have a good day ahead!"
+    },
+    {
+        "timestamp": "15:38:09",
+        "speaker": "helpdesk",
+        "message": "i can...but with a quick google search, im able to fit statistics online"
+    },
+    {
+        "timestamp": "15:38:15",
+        "speaker": "helpdesk",
+        "message": "just not really sure how reliable it might be"
+    },
+    {
+        "timestamp": "15:41:30",
+        "speaker": "helpdesk",
+        "message": "<a href=\"https://civilmediation.org/facts-about-mediation/#:~:text=Around%2075%2D80%25%20of%20cases,%2D15%25%20settle%20shortly%20after\" target=\"_blank\">https://civilmediation.org/facts-about-mediation/#:~:text=Around%2075%2D80%25%20of%20cases,%2D15%25%20settle%20shortly%20after</a>."
+    },
+    {
+        "timestamp": "15:41:59",
+        "speaker": "helpdesk",
+        "message": "but more of this which states that \"ultimately, mediation leads to resolution in approximately 80% of all mediated disputes."
+    },
+    {
+        "timestamp": "15:45:06",
+        "speaker": "helpdesk",
+        "message": "ohhh right"
+    },
+    {
+        "timestamp": "15:50:39",
+        "speaker": "helpdesk",
+        "message": "but still thank you for supporting me and providng me with other sources/inputs to check out :&gt;"
+    },
+    {
+        "timestamp": "15:50:56",
+        "speaker": "helpdesk",
+        "message": "and thank you for the more updated edition!"
+    },
+    {
+        "timestamp": "15:54:34",
+        "speaker": "helpdesk",
+        "message": "nope, that is all! (: thank u so much again"
+    }
+]

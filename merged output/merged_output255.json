@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "14:45:04",
+    "speaker": "User",
+    "message": "hi, how do i cite more than 3 authors? do i write down all their names or use et al?"
+  },
+  {
+    "timestamp": "14:47:32",
+    "speaker": "User",
+    "message": "thanks!"
+  },
+  {
+    "timestamp": "14:44:41",
+    "speaker": "Help Desk",
+    "message": "hi how can i assist?"
+  },
+  {
+    "timestamp": "14:46:39",
+    "speaker": "Help Desk",
+    "message": "you can refer this guide"
+  },
+  {
+    "timestamp": "14:46:39",
+    "speaker": "Help Desk",
+    "message": "<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627447\">In-text Citations - How do I use APA Citation Style - Research Guides at Singapore Management University (smu.edu.sg)</a>"
+  },
+  {
+    "timestamp": "14:47:40",
+    "speaker": "Help Desk",
+    "message": "if you have further citation queries for WR, please approach your matched librarian<br /><a href=\"https://researchguides.smu.edu.sg/c.php?g=948631&amp;p=6875467\">COR1100 Writing and Reasoning - Matched Librarians - Research Guides at Singapore Management University (smu.edu.sg)</a><br />"
+  },
+  {
+    "timestamp": "14:47:42",
+    "speaker": "Help Desk",
+    "message": "good luck!"
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "timestamp": "16:44:16",
+      "speaker": "User",
+      "message": "hi, how would I cite this: The economy of malaysia Present, Problems, Prospects\nISEAS Ishak Institute\n<a href=\"https://bookshop.iseas.edu.sg\" target=\"_blank\">https://bookshop.iseas.edu.sg</a> component get"
+    },
+    {
+      "timestamp": "16:46:41",
+      "speaker": "User",
+      "message": "file:///Users/grace/Downloads/9789814459686C01%20%E2%80%93%201.%20The%20Economy%20of%20Malaysia_%20Present,%20Problems,%20Prospects.pdf"
+    },
+    {
+      "timestamp": "16:47:10",
+      "speaker": "User",
+      "message": "does this work? When I click on the link, it directly leads to a downloaded pdf file"
+    },
+    {
+      "timestamp": "16:52:06",
+      "speaker": "User",
+      "message": "okay thanks"
+    },
+    {
+      "timestamp": "16:44:10",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "16:45:33",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_3, the page has a list of different books. Do you have a more direct link?"
+    },
+    {
+      "timestamp": "16:47:25",
+      "speaker": "Help Desk",
+      "message": "Let me try"
+    },
+    {
+      "timestamp": "16:49:24",
+      "speaker": "Help Desk",
+      "message": "Yes, it works. Okay so this looks like a book chapter from an edited book. I managed to get the citation here:"
+    },
+    {
+      "timestamp": "16:49:26",
+      "speaker": "Help Desk",
+      "message": "Das, S., &amp; PERSON_LASTNAME_1, L. (2014). The Economy of Malaysia: Present, Problems, Prospects. In<i>Malaysia's Socio-Economic Transformation: Ideas for the Next Decade</i>(pp. 1-26). ISEASYusof Ishak Institute."
+    },
+    {
+      "timestamp": "16:50:20",
+      "speaker": "Help Desk",
+      "message": "Generally, the first step is to identify the type of resource you are citing"
+    },
+    {
+      "timestamp": "16:50:56",
+      "speaker": "Help Desk",
+      "message": "And then follow the format from here:<a href=\"https://researchguides.smu.edu.sg/apastyle\" target=\"_blank\">https://researchguides.smu.edu.sg/apastyle</a>"
+    },
+    {
+      "timestamp": "16:52:27",
+      "speaker": "Help Desk",
+      "message": "You're welcome"
+    }
+  ]
+}

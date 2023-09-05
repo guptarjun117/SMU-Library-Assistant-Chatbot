@@ -1,0 +1,112 @@
+[
+   {
+      "timestamp":"11:33:42",
+      "speaker":"User",
+      "message":"Hi! Im not quite sure how I can cite bar graphs from statista such as the one in this link <a href=\"https://www-statista-com.libproxy.smu.edu.sg/statistics/489234/number-of-social-network-users-in-singapore/?locale=en\" target=\"_blank\">https://www-statista-com.libproxy.smu.edu.sg/statistics/489234/number-of-social-network-users-in-singapore/?locale=en</a>"
+   },
+   {
+      "timestamp":"11:34:27",
+      "speaker":"User",
+      "message":"yep"
+   },
+   {
+      "timestamp":"11:34:52",
+      "speaker":"User",
+      "message":"yep i will be including a picture of the bar graph in my A3"
+   },
+   {
+      "timestamp":"11:41:11",
+      "speaker":"User",
+      "message":"oh actually I think I found examples of how to do that part already on this website but im not sure how to cite it in my reference list"
+   },
+   {
+      "timestamp":"11:53:11",
+      "speaker":"User",
+      "message":"alright thank you so much!"
+   },
+   {
+      "timestamp":"11:55:47",
+      "speaker":"User",
+      "message":"for now nope thank you for your help! :)"
+   },
+   {
+      "timestamp":"11:57:07",
+      "speaker":"User",
+      "message":"oh! okays got it"
+   },
+   {
+      "timestamp":"11:58:10",
+      "speaker":"User",
+      "message":"okays thank you so much!"
+   },
+   {
+      "timestamp":"11:58:50",
+      "speaker":"User",
+      "message":"you too! I shall end the chat here :D"
+   },
+   {
+      "timestamp":"11:33:02",
+      "speaker":"Help Desk",
+      "message":"Hello, how may I help you?"
+   },
+   {
+      "timestamp":"11:34:15",
+      "speaker":"Help Desk",
+      "message":"Is this for WR A3?"
+   },
+   {
+      "timestamp":"11:34:31",
+      "speaker":"Help Desk",
+      "message":"are you reproducing the bar graphs in your assignment?"
+   },
+   {
+      "timestamp":"11:39:18",
+      "speaker":"Help Desk",
+      "message":"When reproducing or adapting information from a table, chart or figure from another source, add in a note below the chart to include the details of the source. please hold on, let me find an example"
+   },
+   {
+      "timestamp":"11:50:46",
+      "speaker":"Help Desk",
+      "message":"hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1, for citing in the reference list, you can refer to this example, look under \"library database\" :<a href=\"https://aut.ac.nz.libguides.com/APA7th/figures\" target=\"_blank\">https://aut.ac.nz.libguides.com/APA7th/figures</a> ,eg: The Nielsen Company. (2011). The market location and dollar sales of meat pies in New Zealand, March 2009-March 2011 [Graph]. Nielsen Market Information Digest New Zealand.<br />"
+   },
+   {
+      "timestamp":"11:51:29",
+      "speaker":"Help Desk",
+      "message":"in this case, the source is statista, so you can take Statista to be the author"
+   },
+   {
+      "timestamp":"11:53:28",
+      "speaker":"Help Desk",
+      "message":"inside the statista page, on the right of the graph, there is a \" icon, if you click that , you can see a citation suggestion. can use that and modify it to fit the APA format. Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=108497&amp;preview=true\" class=\"s-la-cfile\" data-preview=\"inline\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=108497&amp;preview=true</a>"
+   },
+   {
+      "timestamp":"11:54:45",
+      "speaker":"User",
+      "message":"yep I saw that but was not sure how to modify it but I think i got a clearer idea now thank you"
+   },
+   {
+      "timestamp":"11:55:31",
+      "speaker":"Help Desk",
+      "message":"great! is there anything else you want to clarify?"
+   },
+   {
+      "timestamp":"11:56:00",
+      "speaker":"Help Desk",
+      "message":"no prob! thanks and all the best for your A3!"
+   },
+   {
+      "timestamp":"11:56:43",
+      "speaker":"Help Desk",
+      "message":"another thing, note that in the url, remove the librpxoxy part"
+   },
+   {
+      "timestamp":"11:57:48",
+      "speaker":"Help Desk",
+      "message":"<a href=\"https://www.statista.com/statistics/489234/number-of-social-network-users-in-singapore/\" target=\"_blank\">https://www.statista.com/statistics/489234/number-of-social-network-users-in-singapore/</a>"
+   },
+   {
+      "timestamp":"11:58:25",
+      "speaker":"Help Desk",
+      "message":"no prob! have a great day ahead :)"
+   }
+]

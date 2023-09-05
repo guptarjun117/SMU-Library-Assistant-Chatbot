@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "17:12:30",
+        "speaker": "User",
+        "message": "hello! sorry i got disconnected"
+    },
+    {
+        "timestamp": "17:12:40",
+        "speaker": "User",
+        "message": "I am looking for this article by prof PERSON_FIRSTNAME_3 PERSON_LASTNAME_3"
+    },
+    {
+        "timestamp": "17:12:40",
+        "speaker": "User",
+        "message": "Duty of Care in Psychiatric Harm in Singapore"
+    },
+    {
+        "timestamp": "17:12:51",
+        "speaker": "User",
+        "message": "unable to locate it from this link - <a href=\"https://ink.library.smu.edu.sg/sol_research/1379/\" target=\"_blank\">https://ink.library.smu.edu.sg/sol_research/1379/</a>"
+    },
+    {
+        "timestamp": "17:13:03",
+        "speaker": "User",
+        "message": "are you able to help me check if there is another location to find this particular article?"
+    },
+    {
+        "timestamp": "17:13:16",
+        "speaker": "User",
+        "message": "thank you!"
+    },
+    {
+        "timestamp": "17:12:30",
+        "speaker": "Help Desk",
+        "message": "Hi PERSON_FIRSTNAME_2"
+    },
+    {
+        "timestamp": "17:12:33",
+        "speaker": "Help Desk",
+        "message": "No worries"
+    },
+    {
+        "timestamp": "17:13:07",
+        "speaker": "Help Desk",
+        "message": "Just a moment please. Let me look into this."
+    },
+    {
+        "timestamp": "17:14:41",
+        "speaker": "Help Desk",
+        "message": "This may a little time. Please hang on for a while"
+    },
+    {
+        "timestamp": "17:15:35",
+        "speaker": "Help Desk",
+        "message": "Hi PERSON_FIRSTNAME_2, I will need to get back to you via email on this"
+    },
+    {
+        "timestamp": "17:15:50",
+        "speaker": "Help Desk",
+        "message": "It may need a bit of searching"
+    },
+    {
+        "timestamp": "17:19:09",
+        "speaker": "Help Desk",
+        "message": "Is it alright if I get back to you via email?"
+    },
+    {
+        "timestamp": "17:33:00",
+        "speaker": "Help Desk",
+        "message": "Hi PERSON_FIRSTNAME_2, I will close this chat for now and will reply to you via email on this. I will need to seek the help of the law research librarian for this."
+    }
+]

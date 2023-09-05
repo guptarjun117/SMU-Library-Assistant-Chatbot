@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "17:52:36",
+        "speaker": "User",
+        "message": "Hi PERSON_FIRSTNAME_1 En!"
+    },
+    {
+        "timestamp": "17:53:18",
+        "speaker": "User",
+        "message": "Hi!"
+    },
+    {
+        "timestamp": "17:54:51",
+        "speaker": "User",
+        "message": "Ohhhhhhh so it is always the copyright that determines the author?"
+    },
+    {
+        "timestamp": "17:55:57",
+        "speaker": "User",
+        "message": "I see!"
+    },
+    {
+        "timestamp": "17:56:40",
+        "speaker": "User",
+        "message": "I see thanks v much PERSON_LASTNAME_1 for ur help!"
+    },
+    {
+        "timestamp": "17:52:39",
+        "speaker": "Help Desk",
+        "message": "This is PERSON_LASTNAME_1 from SMU Libraries. How may I help you?"
+    },
+    {
+        "timestamp": "17:54:24",
+        "speaker": "Help Desk",
+        "message": "You may refer to the copyright information, which points to IFRS Foundation."
+    },
+    {
+        "timestamp": "17:55:46",
+        "speaker": "Help Desk",
+        "message": "I won't say always. But definitely copyright information is one you could refer to as the author."
+    },
+    {
+        "timestamp": "17:56:19",
+        "speaker": "Help Desk",
+        "message": "Exceptions for example a journal article's copyright may belong to a journal publisher, but the article was authored by individuals."
+    },
+    {
+        "timestamp": "17:56:45",
+        "speaker": "Help Desk",
+        "message": "You're welcome!"
+    }
+]

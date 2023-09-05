@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "timestamp": "16:22:27",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Hello PERSON_FIRSTNAME_2..."
+    },
+    {
+      "timestamp": "16:22:51",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I need articles and research paper regarding sustainable/green logistics!"
+    },
+    {
+      "timestamp": "16:24:01",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I am not sure of the database to use, is there specific database that you would recommend?"
+    },
+    {
+      "timestamp": "16:25:58",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Ok, sure!"
+    },
+    {
+      "timestamp": "16:31:42",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Alright!"
+    },
+    {
+      "timestamp": "16:32:25",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thank you!"
+    },
+    {
+      "timestamp": "16:22:18",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hi good day to you! Thank you for contacting SMU Libraries.<br />My name is PERSON_FIRSTNAME_2, how can I help you today?"
+    },
+    {
+      "timestamp": "16:22:53",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hello PERSON_FIRSTNAME_1"
+    },
+    {
+      "timestamp": "16:23:20",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : have you tried searching our catalogue or any database so far?"
+    },
+    {
+      "timestamp": "16:25:51",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Let me check and share with you.. give me some time.."
+    },
+    {
+      "timestamp": "16:30:29",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hello PERSON_FIRSTNAME_1, thank you for your patience."
+    },
+    {
+      "timestamp": "16:31:02",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : You can try science direct database to search for green logistics<a href=\"https://www-sciencedirect-com.libproxy.smu.edu.sg/\">https://www-sciencedirect-com.libproxy.smu.edu.sg/</a>"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "13:22:10",
+    "speaker": "User",
+    "message_content": "Hi good morning, I would like to check how to cite tables that are taken from a report."
+  },
+  {
+    "timestamp": "13:23:35",
+    "speaker": "User",
+    "message_content": "yup I have referred but sorry because the section doesn't specifically mention anything with regards to report so I am not sure if my attribution statement is correct"
+  },
+  {
+    "timestamp": "13:26:26",
+    "speaker": "User",
+    "message_content": "okay sure thank you"
+  },
+  {
+    "timestamp": "13:21:40",
+    "speaker": "Help Desk",
+    "message_content": "hi there, how can i help"
+  },
+  {
+    "timestamp": "13:22:26",
+    "speaker": "Help Desk",
+    "message_content": "<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627445\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627445</a>"
+  },
+  {
+    "timestamp": "13:22:32",
+    "speaker": "Help Desk",
+    "message_content": "you can refer to this section here"
+  },
+  {
+    "timestamp": "13:25:31",
+    "speaker": "Help Desk",
+    "message_content": "Would you like to check on this with your matched librarian?"
+  }
+]

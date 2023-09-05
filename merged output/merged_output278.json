@@ -1,0 +1,69 @@
+{
+  "messages": [
+    {
+      "timestamp": "17:20:32",
+      "speaker": "user",
+      "content": "Hi, for apa citation am I allowed to do 'Jones (1998) argued that ...' without directly quoting the source?"
+    },
+    {
+      "timestamp": "17:23:38",
+      "speaker": "user",
+      "content": "for example. I am only paraphrasing the source and won't be directly lifting from it, is such a format acceptable or do i have to stick to the (Jones, 1998) at the end of the sentence?"
+    },
+    {
+      "timestamp": "17:26:03",
+      "speaker": "user",
+      "content": "okay noted, thank you!"
+    },
+    {
+      "timestamp": "17:27:32",
+      "speaker": "user",
+      "content": "not at the moment, thank you for your help!"
+    },
+    {
+      "timestamp": "17:21:51",
+      "speaker": "helpdesk",
+      "content": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1!"
+    },
+    {
+      "timestamp": "17:22:18",
+      "speaker": "helpdesk",
+      "content": "May I clarify further what you mean by without directly quoting the source?"
+    },
+    {
+      "timestamp": "17:22:41",
+      "speaker": "helpdesk",
+      "content": "what you put in between the quotation marks looks good to me"
+    },
+    {
+      "timestamp": "17:24:14",
+      "speaker": "helpdesk",
+      "content": "okay first of all paraphrasing is always recommended over directly quoting"
+    },
+    {
+      "timestamp": "17:24:30",
+      "speaker": "helpdesk",
+      "content": "only quote when it is necessary and helps the argument in your writing."
+    },
+    {
+      "timestamp": "17:25:09",
+      "speaker": "helpdesk",
+      "content": "Secondly, (Jones, 1998), Jones (1998) argued that... are both acceptable formats of APA in-text citation"
+    },
+    {
+      "timestamp": "17:25:23",
+      "speaker": "helpdesk",
+      "content": "whether you paraphrase or not"
+    },
+    {
+      "timestamp": "17:26:10",
+      "speaker": "helpdesk",
+      "content": "Feel free to use them in the way you see fit. sometimes it helps to make the writing more fluent and readable"
+    },
+    {
+      "timestamp": "17:26:45",
+      "speaker": "helpdesk",
+      "content": "okay. do you have any other questions?"
+    }
+  ]
+}

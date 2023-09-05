@@ -1,0 +1,52 @@
+[
+   {
+      "timestamp":"17:31:49",
+      "speaker":"User",
+      "message":"Hi how can we assist u?"
+   },
+   {
+      "timestamp":"17:35:08",
+      "speaker":"User",
+      "message":"Hi PERSON_LASTNAME_1, good afternoon. I am looking for an economics book written by PERSON_FIRSTNAME_3 PERSON_LASTNAME_2 and there are two versions. one is \"wealth of nations\", and the other is \"an inquiry into the nature and causes of the wealth of nations\", which is much thicker. May I confirm that the only difference between the two is that the latter one contains many notes and explanations written by other economists?"
+   },
+   {
+      "timestamp":"17:38:11",
+      "speaker":"User",
+      "message":"Did you want to do something fr these sources?"
+   },
+   {
+      "timestamp":"17:38:39",
+      "speaker":"User",
+      "message":"not really. just for personal interests hahaha......"
+   },
+   {
+      "timestamp":"17:39:07",
+      "speaker":"User",
+      "message":"oki then I'll start with the brief one. Thanks so much for your help!"
+   },
+   {
+      "timestamp":"17:40:01",
+      "speaker":"User",
+      "message":"have a good weekend :-D"
+   },
+   {
+      "timestamp":"17:37:15",
+      "speaker":"Help Desk",
+      "message":"Honestly PERSON_FIRSTNAME_1 PERSON_LASTNAME_3, I wouldn't be able to have a direct answer on this. These could be totally different books written by PERSON_FIRSTNAME_3 and the other perhaps a critique of the book."
+   },
+   {
+      "timestamp":"17:38:44",
+      "speaker":"Help Desk",
+      "message":"Ok"
+   },
+   {
+      "timestamp":"17:39:35",
+      "speaker":"Help Desk",
+      "message":"Wasn't much of a help here, but yeah, all the best!"
+   },
+   {
+      "timestamp":"17:39:46",
+      "speaker":"User",
+      "message":"no prob!"
+   }
+]

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "timestamp": "17:23:19",
+      "speaker": "User",
+      "message": "Hi, i would like to know which citation style should i use for citing a graph as i was not able to find it in the research guide"
+    },
+    {
+      "timestamp": "17:26:06",
+      "speaker": "User",
+      "message": "Thank you"
+    },
+    {
+      "timestamp": "17:29:48",
+      "speaker": "User",
+      "message": "Yes, another question would for the green highlighted portion is the description of the figure, so if the graph has a title at the top should i just copy the text when i cite it ?"
+    },
+    {
+      "timestamp": "17:35:06",
+      "speaker": "User",
+      "message": "I am citing from a blog"
+    },
+    {
+      "timestamp": "17:35:58",
+      "speaker": "User",
+      "message": "I just follow the citation from the website ?"
+    },
+    {
+      "timestamp": "17:36:08",
+      "speaker": "User",
+      "message": "okay"
+    },
+    {
+      "timestamp": "17:36:44",
+      "speaker": "User",
+      "message": "Thank you."
+    },
+    {
+      "timestamp": "17:37:37",
+      "speaker": "User",
+      "message": "That should be all from me"
+    },
+    {
+      "timestamp": "17:21:48",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "17:25:10",
+      "speaker": "Help Desk",
+      "message": "graphs can be treated as figures, so you can follow the format for citing a figure in APA in this case"
+    },
+    {
+      "timestamp": "17:25:25",
+      "speaker": "Help Desk",
+      "message": "\"Figures\" generally refer to graphs and images"
+    },
+    {
+      "timestamp": "17:26:11",
+      "speaker": "Help Desk",
+      "message": "you're welcome :)"
+    },
+    {
+      "timestamp": "17:27:11",
+      "speaker": "Help Desk",
+      "message": "Is there anything else I can assist?"
+    },
+    {
+      "timestamp": "17:33:06",
+      "speaker": "Help Desk",
+      "message": "the green part should your summary of what the graph is about i.e. how is it relevant to your current argument. The title of the graph is usually put on the blue section. Perhaps you can look at this libguide for more examples:<a href=\"https://aut.ac.nz.libguides.com/APA7th/figures\" target=\"_blank\">https://aut.ac.nz.libguides.com/APA7th/figures</a>"
+    },
+    {
+      "timestamp": "17:34:25",
+      "speaker": "Help Desk",
+      "message": "if you're citing this graph from a journal article, you can look at the second example in the above link :)"
+    },
+    {
+      "timestamp": "17:36:01",
+      "speaker": "Help Desk",
+      "message": "in that case I think you can treat the blog as a website and follow the outline there"
+    },
+    {
+      "timestamp": "17:36:04",
+      "speaker": "Help Desk",
+      "message": "yup :)"
+    },
+    {
+      "timestamp": "17:37:08",
+      "speaker": "Help Desk",
+      "message": "you're most welcome :)"
+    }
+  ]
+}

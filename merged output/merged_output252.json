@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "13:51:14",
+    "speaker": "USER",
+    "message": "hi, i would like to cite this site <a href=\"https://first.media/blog/how-the-tiktok-algorithm-works/#:~:text=Consistency%2C%20consistency%2C%20consistency,rewarding%20them%20for%20consistent%20usage\" target=\"_blank\">https://first.media/blog/how-the-tiktok-algorithm-works/#:~:text=Consistency%2C%20consistency%2C%20consistency,rewarding%20them%20for%20consistent%20usage</a>."
+  },
+  {
+    "timestamp": "13:51:20",
+    "speaker": "USER",
+    "message": "however, i am not sure of the authors name"
+  },
+  {
+    "timestamp": "13:51:23",
+    "speaker": "USER",
+    "message": "can i use the org name?"
+  },
+  {
+    "timestamp": "13:51:28",
+    "speaker": "USER",
+    "message": "i will send u my cite in a min"
+  },
+  {
+    "timestamp": "13:52:25",
+    "speaker": "USER",
+    "message": "First Media. (n.d.) The TikTok Algorithm: How it Works and How to Leverage it. First Media. <a href=\"https://first.media/blog/how-the-tiktok-algorithm-works/#:~:text=Consistency%2C%20consistency%2C%20consistency,rewarding%20them%20for%20consistent%20usage\" target=\"_blank\">https://first.media/blog/how-the-tiktok-algorithm-works/#:~:text=Consistency%2C%20consistency%2C%20consistency,rewarding%20them%20for%20consistent%20usage</a>."
+  },
+  {
+    "timestamp": "13:52:37",
+    "speaker": "USER",
+    "message": "yup"
+  },
+  {
+    "timestamp": "13:52:54",
+    "speaker": "USER",
+    "message": "you can shorted the URL to<a href=\"https://first.media/blog/how-the-tiktok-algorithm-works/\" target=\"_blank\">https://first.media/blog/how-the-tiktok-algorithm-works/</a>"
+  },
+  {
+    "timestamp": "13:53:08",
+    "speaker": "USER",
+    "message": "thank u"
+  },
+  {
+    "timestamp": "13:53:41",
+    "speaker": "USER",
+    "message": "oh but it is a blog post, so the title should not be italicised but the site name should be"
+  },
+  {
+    "timestamp": "13:53:42",
+    "speaker": "USER",
+    "message": "is it?"
+  },
+  {
+    "timestamp": "13:55:51",
+    "speaker": "USER",
+    "message": "hmm... it doesnt even have a date so hard to call it a blog even though its self-classified as a blog"
+  },
+  {
+    "timestamp": "13:56:08",
+    "speaker": "USER",
+    "message": "oh"
+  },
+  {
+    "timestamp": "13:56:09",
+    "speaker": "USER",
+    "message": "okay"
+  },
+  {
+    "timestamp": "13:56:11",
+    "speaker": "USER",
+    "message": "thank u"
+  },
+  {
+    "timestamp": "13:56:19",
+    "speaker": "USER",
+    "message": "so i cite it as a general website?"
+  },
+  {
+    "timestamp": "14:01:40",
+    "speaker": "USER",
+    "message": "ok"
+  },
+  {
+    "timestamp": "14:04:15",
+    "speaker": "USER",
+    "message": "thank you"
+  },
+  {
+    "timestamp": "13:50:23",
+    "speaker": "HELPDESK",
+    "message": "hi"
+  },
+  {
+    "timestamp": "13:51:02",
+    "speaker": "HELPDESK",
+    "message": "how can i help ya?"
+  },
+  {
+    "timestamp": "13:52:03",
+    "speaker": "HELPDESK",
+    "message": "in absence of a person author, the organisation name can be used"
+  },
+  {
+    "timestamp": "13:52:12",
+    "speaker": "HELPDESK",
+    "message": "if you think that the organisation is credible"
+  },
+  {
+    "timestamp": "13:52:32",
+    "speaker": "HELPDESK",
+    "message": "the title can to be in italics"
+  },
+  {
+    "timestamp": "13:53:06",
+    "speaker": "HELPDESK",
+    "message": "okay"
+  },
+  {
+    "timestamp": "13:53:27",
+    "speaker": "HELPDESK",
+    "message": "anything else i can assist?"
+  },
+  {
+    "timestamp": "13:53:08",
+    "speaker": "HELPDESK",
+    "message": "you can shorted the URL to<a href=\"https://first.media/blog/how-the-tiktok-algorithm-works/\" target=\"_blank\">https://first.media/blog/how-the-tiktok-algorithm-works/</a>"
+  },
+  {
+    "timestamp": "13:55:51",
+    "speaker": "HELPDESK",
+    "message": "hmm... it doesnt even have a date so hard to call it a blog even though its self-classified as a blog"
+  },
+  {
+    "timestamp": "14:01:40",
+    "speaker": "HELPDESK",
+    "message": "ok?"
+  },
+  {
+    "timestamp": "14:02:57",
+    "speaker": "HELPDESK",
+    "message": "if there are further citation queries for your WR assignment, do approach your Matched Librarian as well.<br /><a href=\"https://researchguides.smu.edu.sg/c.php?g=948631&amp;p=6875467\">COR1100 Writing and Reasoning - Matched Librarians - Research Guides at Singapore Management University (smu.edu.sg)</a>"
+  }
+]

@@ -1,0 +1,270 @@
+[{
+  "timestamp": "14:43:41",
+  "speaker": "Help Desk",
+  "message": "Hi PERSON_FIRSTNAME_1, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_5. How may I help you today?"
+},
+{
+  "timestamp": "14:44:24",
+  "speaker": "User",
+  "message": "hi PERSON_FIRSTNAME_5"
+},
+{
+  "timestamp": "14:44:51",
+  "speaker": "User",
+  "message": "would like to check if any fixed income research coverage based on the existing database"
+},
+{
+  "timestamp": "14:46:19",
+  "speaker": "Help Desk",
+  "message": "You can try Bloomberg Terminal. There is a Bloomberg Intelligence (BI) function."
+},
+{
+  "timestamp": "14:48:11",
+  "speaker": "Help Desk",
+  "message": "Would you like to share more details?"
+},
+{
+  "timestamp": "14:49:49",
+  "speaker": "User",
+  "message": "for uk bond market overview research"
+},
+{
+  "timestamp": "14:50:27",
+  "speaker": "User",
+  "message": "checked the bbg terminal ytd but is not very fruitful in terms of the findings"
+},
+{
+  "timestamp": "14:50:46",
+  "speaker": "Help Desk",
+  "message": "Are you looking for textual data or number data?"
+},
+{
+  "timestamp": "14:51:11",
+  "speaker": "User",
+  "message": "analysis and numbers"
+},
+{
+  "timestamp": "14:51:31",
+  "speaker": "User",
+  "message": "may not need academic research"
+},
+{
+  "timestamp": "14:53:57",
+  "speaker": "Help Desk",
+  "message": "Have you tried the BI function?"
+},
+{
+  "timestamp": "14:55:00",
+  "speaker": "User",
+  "message": "maybe not well explored"
+},
+{
+  "timestamp": "14:55:30",
+  "speaker": "User",
+  "message": "but most likely it will be the short analysis? and cannot download in a bulk?"
+},
+{
+  "timestamp": "14:58:50",
+  "speaker": "Help Desk",
+  "message": "Could you email me the specifics/details? It may not be that straightforward. It depends on what data item you are looking at. I would suggest you give Bloomberg another try as well. Also, the Eikon terminal."
+},
+{
+  "timestamp": "14:59:29",
+  "speaker": "User",
+  "message": "ok sounds good, i will try again these two terminals"
+},
+{
+  "timestamp": "14:59:41",
+  "speaker": "User",
+  "message": "meanwhile, can i have your email address"
+},
+{
+  "timestamp": "14:59:42",
+  "speaker": "Help Desk",
+  "message": "My email is lhtee@smu.edu.sg"
+},
+{
+  "timestamp": "15:00:04",
+  "speaker": "Help Desk",
+  "message": "All the best in your research. Please do email me."
+},
+{
+  "timestamp": "15:00:25",
+  "speaker": "User",
+  "message": "sure thanks again!"
+},
+{
+  "timestamp": "15:01:32",
+  "speaker": "Help Desk",
+  "message": "Ok, take care. Thank you for reaching out. I'll be at the Studio today from 430pm-530. If you are around, we can have a quick chat as well."
+},
+{
+  "timestamp": "15:02:07",
+  "speaker": "User",
+  "message": "how about tmr? will you be at studio?"
+},
+{
+  "timestamp": "15:03:29",
+  "speaker": "User",
+  "message": "how about next wed? what time will be convenient for you?"
+},
+{
+  "timestamp": "15:03:42",
+  "speaker": "Help Desk",
+  "message": "My schedule for tomorrow is full. You can email me the details for me to do some researching."
+},
+{
+  "timestamp": "15:07:04",
+  "speaker": "Help Desk",
+  "message": "Hi PERSON_FIRSTNAME_1, you may want to also give S&P Capital IQ a try."
+},
+{
+  "timestamp": "15:07:25",
+  "speaker": "User",
+  "message": "oh i did, i am more familiar with this platform but the research function is not appilicable for school subscription"
+},
+{
+  "timestamp": "15:08:23",
+  "speaker": "User",
+  "message": "applicable*"
+},
+{
+  "timestamp": "15:08:47",
+  "speaker": "User",
+  "message": "but it definitely can build charts for indices"
+},
+{
+  "timestamp": "15:10:40",
+  "speaker": "Help Desk",
+  "message": "Hi PERSON_FIRSTNAME_1, could you clarify the research function? Are you not able to do a Quick or Advanced Search under the Research tab?"
+},
+{
+  "timestamp": "15:10:50",
+  "speaker": "User",
+  "message": "yes can but cannot download the reports"
+},
+{
+  "timestamp": "15:16:33",
+  "speaker": "Help Desk",
+  "message": "You can email me the error/restriction shown in Capital IQ and I will do a check."
+},
+{
+  "timestamp": "15:21:10",
+  "speaker": "User",
+  "message": "ok sure"
+},
+{
+  "timestamp": "15:23:43",
+  "speaker": "User",
+  "message": "ok, i just sent the email"
+},
+{
+  "timestamp": "15:23:43",
+  "speaker": "Help Desk",
+  "message": "Ok, I will wait for your email. Is there anything else I may assist you with?"
+},
+{
+  "timestamp": "15:25:15",
+  "speaker": "Help Desk",
+  "message": "If you are looking for a more macro level fixed income data/trend, you may also give Statista a try. Please make sure you access via SMU Libraries > A-Z Databases."
+},
+{
+  "timestamp": "15:29:19",
+  "speaker": "Help Desk",
+  "message": "You're welcome."
+},
+{
+  "timestamp": "15:30:00",
+  "speaker": "Help Desk",
+  "message": "Market value of gilts UK 2021 | Statista (smu.edu.sg)"
+},
+{
+  "timestamp": "15:30:04",
+  "speaker": "Help Desk",
+  "message": "Here's an example."
+},
+{
+  "timestamp": "15:38:05",
+  "speaker": "Help Desk",
+  "message": "Hi PERSON_FIRSTNAME_1, is there anything else I may assist you with?"
+},
+{
+  "timestamp": "15:49:05",
+  "speaker": "Help Desk",
+  "message": "ok. I shall conclude this chat for now while leaving your query open. I shall await your email for follow up. Cheers."
+},
+{
+  "timestamp": "15:52:50",
+  "speaker": "User",
+  "message": "may i check if you have any slot avail this week or early next week for the use of terminals ?"
+},
+{
+  "timestamp": "15:55:13",
+  "speaker": "Help Desk",
+  "message": "Hi PERSON_FIRSTNAME_1, yes. Please make an advance booking so that your use of the terminal is not interrupted. Go to SMU Libraries > Book a Computer."
+},
+{
+  "timestamp": "15:56:34",
+  "speaker": "User",
+  "message": "ok sure, can i have your \"consultation\" slot beforehand?"
+},
+{
+  "timestamp": "15:56:54",
+  "speaker": "Help Desk",
+  "message": "I'm available next Tue and Wed."
+},
+{
+  "timestamp": "15:57:07",
+  "speaker": "User",
+  "message": "hope i convey my point clearly haha"
+},
+{
+  "timestamp": "16:03:29",
+  "speaker": "User",
+  "message": "how about next wed? what time will be convenient for you?"
+},
+{
+  "timestamp": "16:04:10",
+  "speaker": "User",
+  "message": "ok 11am works for me!"
+},
+{
+  "timestamp": "16:07:13",
+  "speaker": "Help Desk",
+  "message": "How about 11am or 3pm?"
+},
+{
+  "timestamp": "16:10:36",
+  "speaker": "Help Desk",
+  "message": "ok then. See you."
+},
+{
+  "timestamp": "16:11:09",
+  "speaker": "User",
+  "message": "thanks i will book the terminal accordingly"
+},
+{
+  "timestamp": "16:12:55",
+  "speaker": "Help Desk",
+  "message": "Ok. Is there anything else I may assist you with?"
+},
+{
+  "timestamp": "16:13:04",
+  "speaker": "Help Desk",
+  "message": "If not, I shall see you next Wed at 11am."
+},
+{
+  "timestamp": "16:13:07",
+  "speaker": "User",
+  "message": "thats all for me!"
+},
+{
+  "timestamp": "16:13:11",
+  "speaker": "User",
+  "message": "thanks !!"
+},
+{
+  "timestamp": "16:13:27",
+  "speaker": "Help Desk",
+  "message": "See you. I'm closing this chat now. Thanks."
+}]

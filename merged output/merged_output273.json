@@ -1,0 +1,144 @@
+{
+   "conversations":[
+      {
+         "timestamp":"15:55:35",
+         "speaker":"Help Desk",
+         "message":"Hello, how may I help you?"
+      },
+      {
+         "timestamp":"15:55:42",
+         "speaker":"User",
+         "message":"Hello, I am PERSON_FIRSTNAME_3 PERSON_LASTNAME_2 from MAF"
+      },
+      {
+         "timestamp":"15:56:10",
+         "speaker":"User",
+         "message":"I was trying to use the school email address to register the Financial Times"
+      },
+      {
+         "timestamp":"15:56:49",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2"
+      },
+      {
+         "timestamp":"15:57:05",
+         "speaker":"User",
+         "message":"are you able to register?"
+      },
+      {
+         "timestamp":"15:57:07",
+         "speaker":"User",
+         "message":"but yesterday I tried at Li Ka Shing lib and today I am currently at Kwa Geok Choo Law lib"
+      },
+      {
+         "timestamp":"15:57:42",
+         "speaker":"User",
+         "message":"and when I click the link it appears that"
+      },
+      {
+         "timestamp":"15:57:48",
+         "speaker":"User",
+         "message":"Please ensure that you are connected to your organisation's network."
+      },
+      {
+         "timestamp":"15:58:14",
+         "speaker":"User",
+         "message":"Thank you for confirming your details. Great news, your organisation has a subscription that you can join, here is the sign-up link for you to create your FT.com account: <a href=\"https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7\" target=\"_blank\">https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7</a>"
+      },
+      {
+         "timestamp":"15:58:20",
+         "speaker":"User",
+         "message":"Thank you for confirming your details. Great news, your organisation has a subscription that you can join, here is the sign-up link for you to create your FT.com account: <a href=\"https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7\" target=\"_blank\">https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7</a>"
+      },
+      {
+         "timestamp":"15:58:39",
+         "speaker":"User",
+         "message":"oh it seems that links for yesterday and today are the same"
+      },
+      {
+         "timestamp":"15:58:40",
+         "speaker":"User",
+         "message":"is this the first time you are trying to access FT?"
+      },
+      {
+         "timestamp":"15:58:50",
+         "speaker":"User",
+         "message":"have you registered before?"
+      },
+      {
+         "timestamp":"15:59:01",
+         "speaker":"User",
+         "message":"to be honest I can't remember"
+      },
+      {
+         "timestamp":"15:59:11",
+         "speaker":"User",
+         "message":"but I tried with forget password"
+      },
+      {
+         "timestamp":"15:59:18",
+         "speaker":"User",
+         "message":"and didn't receive any email"
+      },
+      {
+         "timestamp":"16:00:20",
+         "speaker":"User",
+         "message":"Yes I was uss this link"
+      },
+      {
+         "timestamp":"16:00:34",
+         "speaker":"User",
+         "message":"for the last two times"
+      },
+      {
+         "timestamp":"16:00:54",
+         "speaker":"User",
+         "message":"and I just double checked my email I didn't create account for FT before"
+      },
+      {
+         "timestamp":"16:03:23",
+         "speaker":"User",
+         "message":"can you open an incognito window on your browser, try this again"
+      },
+      {
+         "timestamp":"16:08:03",
+         "speaker":"User",
+         "message":"it seems success, thank you!"
+      },
+      {
+         "timestamp":"16:08:37",
+         "speaker":"User",
+         "message":"Thank you so much, and have a great day!"
+      },
+      {
+         "timestamp":"16:08:48",
+         "speaker":"User",
+         "message":"sure thank you"
+      },
+      {
+         "timestamp":"15:55:35",
+         "speaker":"Help Desk",
+         "message":"Hello, how may I help you?"
+      },
+      {
+         "timestamp":"15:59:32",
+         "speaker":"Help Desk",
+         "message":"try this link, click on \"Registration Required\"<a href=\"https://researchguides.smu.edu.sg/az.php?q=financial%20times&amp;p=1\" target=\"_blank\">https://researchguides.smu.edu.sg/az.php?q=financial%20times&amp;p=1</a>"
+      },
+      {
+         "timestamp":"16:08:15",
+         "speaker":"Help Desk",
+         "message":"oh great!"
+      },
+      {
+         "timestamp":"16:08:40",
+         "speaker":"Help Desk",
+         "message":"if you still encounter any issues, you can drop us an email at library@smu.edu.sg"
+      },
+      {
+         "timestamp":"16:08:51",
+         "speaker":"Help Desk",
+         "message":"thanks and have a great day!"
+      }
+   ]
+}

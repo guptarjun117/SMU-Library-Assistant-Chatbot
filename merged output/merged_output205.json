@@ -1,0 +1,39 @@
+{
+  "messages": [
+    {
+      "timestamp": "16:36:43",
+      "speaker": "User",
+      "content": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Hi there"
+    },
+    {
+      "timestamp": "16:36:52",
+      "speaker": "User",
+      "content": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : How can I help you today?"
+    },
+    {
+      "timestamp": "16:37:16",
+      "speaker": "User",
+      "content": "TU YIN : Hi, may I know how I could use the linkedin learning for free?"
+    },
+    {
+      "timestamp": "16:37:57",
+      "speaker": "User",
+      "content": "TU YIN : ok, I see. thanks a lot!"
+    },
+    {
+      "timestamp": "16:37:43",
+      "speaker": "Help desk",
+      "content": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Access from here<a href=\"https://login2.smu.edu.sg/adfs/ls/IdpInitiatedSignon.aspx?loginToRp=linkedin-learning\" target=\"_blank\">https://login2.smu.edu.sg/adfs/ls/IdpInitiatedSignon.aspx?loginToRp=linkedin-learning</a>"
+    },
+    {
+      "timestamp": "16:38:07",
+      "speaker": "Help desk",
+      "content": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : No worries."
+    },
+    {
+      "timestamp": "16:38:12",
+      "speaker": "Help desk",
+      "content": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Have a good afternoon."
+    }
+  ]
+}

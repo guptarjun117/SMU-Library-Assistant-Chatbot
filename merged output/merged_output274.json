@@ -1,0 +1,39 @@
+{
+  "messages": [
+    {
+      "timestamp": "17:24:46",
+      "speaker": "User",
+      "content": "Hi PERSON_FIRSTNAME_1!"
+    },
+    {
+      "timestamp": "17:25:04",
+      "speaker": "User",
+      "content": "hello! do you know if we as SMU students can access this resource in NUS? \"https://scholarbank.nus.edu.sg/handle/10635/165175?mode=full\""
+    },
+    {
+      "timestamp": "17:25:22",
+      "speaker": "User",
+      "content": "I'm trying to refer to this particular thesis paper written by a NUS student but im not sure how to access it"
+    },
+    {
+      "timestamp": "17:29:06",
+      "speaker": "User",
+      "content": "I see, thank you!"
+    },
+    {
+      "timestamp": "17:24:49",
+      "speaker": "Help Desk",
+      "content": "This is PERSON_LASTNAME_2 from SMU Libraries. How may I help you?"
+    },
+    {
+      "timestamp": "17:28:06",
+      "speaker": "Help Desk",
+      "content": "Generally, we don't have access to their resources. For their subscribed resources, we may have a chance to get through inter-library loan. However, I see that this is a bachelor's thesis, which may be restricted to access by NUS community only."
+    },
+    {
+      "timestamp": "17:29:00",
+      "speaker": "Help Desk",
+      "content": "I also see that you're currently a Year One student. If you'd wish to use the inter-library loan services, you will need to get in touch with your Research Librarian to get approval."
+    }
+  ]
+}

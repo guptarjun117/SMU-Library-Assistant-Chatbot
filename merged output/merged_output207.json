@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "timestamp": "2022-01-01T00:00:00",
+      "speaker": "User",
+      "message": "hi! how can i help you?"
+    },
+    {
+      "timestamp": "2022-01-01T00:01:00",
+      "speaker": "User",
+      "message": "hello! i require assistance finding this article: Hock Lai Ho,\n Policies Underlying the Enforcement of Foreign Commercial Judgments (1997) 46(2)\n International and Comparative Law Quarterly 4"
+    },
+    {
+      "timestamp": "2022-01-01T00:02:00",
+      "speaker": "Help Desk",
+      "message": "hold on and let me check"
+    },
+    {
+      "timestamp": "2022-01-01T00:03:00",
+      "speaker": "Help Desk",
+      "message": "is it this one? (provides link)"
+    },
+    {
+      "timestamp": "2022-01-01T00:04:00",
+      "speaker": "User",
+      "message": "oh yes it is!"
+    },
+    {
+      "timestamp": "2022-01-01T00:05:00",
+      "speaker": "User",
+      "message": "can i ask how did u manage to find it!!"
+    },
+    {
+      "timestamp": "2022-01-01T00:06:00",
+      "speaker": "User",
+      "message": "because i searched this in google and nothing came out"
+    },
+    {
+      "timestamp": "2022-01-01T00:07:00",
+      "speaker": "Help Desk",
+      "message": "i just search using google scholar"
+    },
+    {
+      "timestamp": "2022-01-01T00:08:00",
+      "speaker": "Help Desk",
+      "message": "then it will directly link me to smu libraries website"
+    },
+    {
+      "timestamp": "2022-01-01T00:09:00",
+      "speaker": "User",
+      "message": "oh i see"
+    },
+    {
+      "timestamp": "2022-01-01T00:10:00",
+      "speaker": "User",
+      "message": "okay thanks so much ms cheryl!"
+    },
+    {
+      "timestamp": "2022-01-01T00:11:00",
+      "speaker": "Help Desk",
+      "message": "no problem"
+    }
+  ]
+}

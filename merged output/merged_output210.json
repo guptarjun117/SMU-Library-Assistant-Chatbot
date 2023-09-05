@@ -1,0 +1,57 @@
+[
+    {
+        "timestamp": "09:55:35",
+        "speaker": "user",
+        "message": "Hi PERSON_FIRSTNAME_2, this is PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 from Library. How may I help you?"
+    },
+    {
+        "timestamp": "09:55:48",
+        "speaker": "user",
+        "message": "I cannot access articles from the financial times"
+    },
+    {
+        "timestamp": "09:56:49",
+        "speaker": "user",
+        "message": "I entered the financial times's website through smu library database"
+    },
+    {
+        "timestamp": "09:57:01",
+        "speaker": "user",
+        "message": "but it's asking me to subscribe to read the articles"
+    },
+    {
+        "timestamp": "10:07:18",
+        "speaker": "user",
+        "message": "works now"
+    },
+    {
+        "timestamp": "10:07:20",
+        "speaker": "user",
+        "message": "thank you!"
+    },
+    {
+        "timestamp": "09:56:12",
+        "speaker": "helpdesk",
+        "message": "May I know what is the error that you have encountered?"
+    },
+    {
+        "timestamp": "09:58:08",
+        "speaker": "helpdesk",
+        "message": "Ok, please hold on while I check"
+    },
+    {
+        "timestamp": "10:01:44",
+        "speaker": "helpdesk",
+        "message": "Can you please try to register again for an account?<a href=\"http://libproxy.smu.edu.sg/login?url=https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7\" target=\"_blank\">http://libproxy.smu.edu.sg/login?url=https://join.ft.com/14f09f1a-fe21-4cc0-bbc8-3741cc45a3f7</a>"
+    },
+    {
+        "timestamp": "10:01:53",
+        "speaker": "helpdesk",
+        "message": "then when you are in this screen, click on login"
+    },
+    {
+        "timestamp": "10:01:59",
+        "speaker": "helpdesk",
+        "message": "it needs to re-activate your account"
+    }
+]

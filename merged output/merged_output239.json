@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "timestamp": "18:02:03",
+            "speaker": "User",
+            "message": "<a href=\"https://www.apa.org/monitor/dec06/healthday#:~:text=The%20World%20Health%20Organization%20estimates,often%20depression%20or%20substance%20abuse\" target=\"_blank\">https://www.apa.org/monitor/dec06/healthday#:~:text=The%20World%20Health%20Organization%20estimates,often%20depression%20or%20substance%20abuse</a>."
+        },
+        {
+            "timestamp": "18:02:16",
+            "speaker": "User",
+            "message": "in this article there is this phrase"
+        },
+        {
+            "timestamp": "18:02:18",
+            "speaker": "User",
+            "message": "Mental illness is a major risk factor for suicide. The World Health Organization estimates that 90 percent of all suicide victims have some kind of mental health condition--often depression or substance abuse."
+        },
+        {
+            "timestamp": "18:02:44",
+            "speaker": "User",
+            "message": "this webpage is by american psychologival association"
+        },
+        {
+            "timestamp": "18:02:58",
+            "speaker": "User",
+            "message": "but they claimed WHO said 90% of suicides are ..."
+        },
+        {
+            "timestamp": "18:03:37",
+            "speaker": "User",
+            "message": "so do i attribute it to WHO or American Psychological Association?"
+        },
+        {
+            "timestamp": "18:03:53",
+            "speaker": "User",
+            "message": "based on APA citations"
+        },
+        {
+            "timestamp": "18:08:37",
+            "speaker": "User",
+            "message": "can I skip the WHO said and simply say:\n90% of suicide have relation to mental health (American Psychological Assoication, 2006)"
+        },
+        {
+            "timestamp": "18:11:10",
+            "speaker": "User",
+            "message": "also, if i wanna cite SMU-X information, i can just cite it as (SMU-X, n.d.) is it? Sorry im not family with this kind of citations"
+        },
+        {
+            "timestamp": "18:11:47",
+            "speaker": "User",
+            "message": "this is the website"
+        },
+        {
+            "timestamp": "18:11:56",
+            "speaker": "User",
+            "message": "so no author, no date"
+        },
+        {
+            "timestamp": "18:12:17",
+            "speaker": "User",
+            "message": "(Singapore Management University, n.d.)"
+        },
+        {
+            "timestamp": "18:13:19",
+            "speaker": "User",
+            "message": "okay roger that"
+        },
+        {
+            "timestamp": "18:13:24",
+            "speaker": "User",
+            "message": "thank you for your guidance!"
+        },
+        {
+            "timestamp": "18:13:27",
+            "speaker": "User",
+            "message": "real helpful :)"
+        },
+        {
+            "timestamp": "18:01:55",
+            "speaker": "Help Desk",
+            "message": "Hi PERSON_FIRSTNAME_1 how can we help you today"
+        },
+        {
+            "timestamp": "18:04:20",
+            "speaker": "Help Desk",
+            "message": "are you referencing the report?"
+        },
+        {
+            "timestamp": "18:04:50",
+            "speaker": "Help Desk",
+            "message": "as the basis for this \"WHO said 90% of suicides are...\""
+        },
+        {
+            "timestamp": "18:05:32",
+            "speaker": "Help Desk",
+            "message": "i think im referencing American Psychological Association webpage becuase i pulled the phrase \"The World Health Organization estimates that 90 percent of all suicide victims have some kind of mental health condition\" out of their webpage"
+        },
+        {
+            "timestamp": "18:06:41",
+            "speaker": "Help Desk",
+            "message": "yup, strictly speaking you are referring the APA article on their webpage"
+        },
+        {
+            "timestamp": "18:06:55",
+            "speaker": "Help Desk",
+            "message": "so you should cite the webpage and not the WHO"
+        },
+        {
+            "timestamp": "18:07:19",
+            "speaker": "Help Desk",
+            "message": "but in your sentence, it would obviously refer to the WHO making the estimate"
+        },
+        {
+            "timestamp": "18:08:11",
+            "speaker": "Help Desk",
+            "message": "okay! so when i do intext, ill just say smth like\n\nWHO said 90% of suicide have relation to mental health (American Psychological Assoication, n.d.)"
+        },
+        {
+            "timestamp": "18:08:44",
+            "speaker": "Help Desk",
+            "message": "i think at least put the year"
+        },
+        {
+            "timestamp": "18:09:45",
+            "speaker": "Help Desk",
+            "message": "i think better to retain WHO"
+        },
+        {
+            "timestamp": "18:09:54",
+            "speaker": "Help Desk",
+            "message": "since it is declared by them"
+        },
+        {
+            "timestamp": "18:09:57",
+            "speaker": "Help Desk",
+            "message": "since that is the basis of the page's assertion"
+        },
+        {
+            "timestamp": "18:10:14",
+            "speaker": "Help Desk",
+            "message": "i see, thanks bryan! i think thats really helpful"
+        },
+        {
+            "timestamp": "18:11:20",
+            "speaker": "Help Desk",
+            "message": "no worries"
+        },
+        {
+            "timestamp": "18:11:39",
+            "speaker": "Help Desk",
+            "message": "assuming its a general website, suggest this format"
+        },
+        {
+            "timestamp": "18:11:52",
+            "speaker": "Help Desk",
+            "message": "then yeah, in-text would be what you said"
+        },
+        {
+            "timestamp": "18:12:06",
+            "speaker": "Help Desk",
+            "message": "SMU is probably the author"
+        },
+        {
+            "timestamp": "18:12:38",
+            "speaker": "Help Desk",
+            "message": "actually since there is an about section on SMU-X"
+        },
+        {
+            "timestamp": "18:13:09",
+            "speaker": "Help Desk",
+            "message": "okay roger that"
+        },
+        {
+            "timestamp": "18:13:29",
+            "speaker": "Help Desk",
+            "message": "np"
+        },
+        {
+            "timestamp": "18:13:31",
+            "speaker": "Help Desk",
+            "message": "i ll end the chat then"
+        },
+        {
+            "timestamp": "18:13:33",
+            "speaker": "Help Desk",
+            "message": "have a good day"
+        },
+        {
+            "timestamp": "18:13:35",
+            "speaker": "Help Desk",
+            "message": "u too!"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+  "conversations": [
+    {
+      "timestamp": "14:58:17",
+      "speaker": "User",
+      "message": "hi librarian!"
+    },
+    {
+      "timestamp": "14:58:28",
+      "speaker": "User",
+      "message": "i need help with citing images"
+    },
+    {
+      "timestamp": "14:58:43",
+      "speaker": "User",
+      "message": "are you in the library now? can i meet you in person?"
+    },
+    {
+      "timestamp": "14:59:40",
+      "speaker": "User",
+      "message": "ohhh okok sorry about that"
+    },
+    {
+      "timestamp": "15:00:07",
+      "speaker": "User",
+      "message": "<a href=\"https://www.instagram.com/p/CFkCO4PpuhP/\" target=\"_blank\">https://www.instagram.com/p/CFkCO4PpuhP/</a>"
+    },
+    {
+      "timestamp": "15:00:17",
+      "speaker": "User",
+      "message": "i would like to cite this post but i do not know how to"
+    },
+    {
+      "timestamp": "15:02:19",
+      "speaker": "User",
+      "message": "okk i will take a look"
+    },
+    {
+      "timestamp": "15:02:21",
+      "speaker": "User",
+      "message": "thank you!"
+    },
+    {
+      "timestamp": "14:58:16",
+      "speaker": "Help Desk",
+      "message": "Hi junwei, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_2. How may I help you today?"
+    },
+    {
+      "timestamp": "14:59:21",
+      "speaker": "Help Desk",
+      "message": "Thank you for your query. I'm sorry as I am doing chat service and having another meeting."
+    },
+    {
+      "timestamp": "15:01:09",
+      "speaker": "Help Desk",
+      "message": "Thank you for your query. Please take a look at:"
+    },
+    {
+      "timestamp": "15:02:45",
+      "speaker": "Help Desk",
+      "message": "Thank you for reaching out to SMU Libraries. All the best in your assignment."
+    }
+  ]
+}

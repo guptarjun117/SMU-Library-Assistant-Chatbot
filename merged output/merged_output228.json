@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "11:20:58",
+    "speaker": "helpdesk",
+    "message": "Good Morning, PERSON_FIRSTNAME_2 from SMU Library. How may I help you?"
+  },
+  {
+    "timestamp": "11:24:40",
+    "speaker": "user",
+    "message": "Hi PERSON_FIRSTNAME_2, here is PERSON_LASTNAME_2, first year students who takes Business Law module. After taking the mid-term, I found it is bit hard to get into \"Law mindset\" when I analyse a problem. While I refers many arguments to the question statements and principles/definition in textbook, prof said I should be more logical and analytical. May I ask help from you to find some law articles that analysing a case? just as examples of how should I conduct the argument......"
+  },
+  {
+    "timestamp": "11:24:45",
+    "speaker": "user",
+    "message": "thanks!"
+  },
+  {
+    "timestamp": "11:26:37",
+    "speaker": "helpdesk",
+    "message": "Hi PERSON_FIRSTNAME_3 PERSON_LASTNAME_2, thanks for your information"
+  },
+  {
+    "timestamp": "11:26:50",
+    "speaker": "helpdesk",
+    "message": "You can refer to our link<a href=\"https://researchguides.smu.edu.sg/LAW\" target=\"_blank\">https://researchguides.smu.edu.sg/LAW</a>"
+  },
+  {
+    "timestamp": "11:27:00",
+    "speaker": "helpdesk",
+    "message": "or make an appointment with our RL"
+  },
+  {
+    "timestamp": "11:27:12",
+    "speaker": "user",
+    "message": "!!Oki, thanks so much"
+  },
+  {
+    "timestamp": "11:27:44",
+    "speaker": "helpdesk",
+    "message": "<a href=\"https://researchguides.smu.edu.sg/c.php?g=948631&amp;p=6947186\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=948631&amp;p=6947186</a>"
+  },
+  {
+    "timestamp": "11:27:55",
+    "speaker": "helpdesk",
+    "message": "You can make appointment with them using this link."
+  },
+  {
+    "timestamp": "11:28:06",
+    "speaker": "helpdesk",
+    "message": "Look for Mr PERSON_FIRSTNAME_1 PERSON_LASTNAME_1"
+  },
+  {
+    "timestamp": "11:28:33",
+    "speaker": "user",
+    "message": "thanks, that's truly helpful T-T"
+  },
+  {
+    "timestamp": "11:28:44",
+    "speaker": "helpdesk",
+    "message": "You are welcome."
+  },
+  {
+    "timestamp": "11:28:56",
+    "speaker": "helpdesk",
+    "message": "Is there anything else that I can help you with?"
+  },
+  {
+    "timestamp": "11:29:16",
+    "speaker": "user",
+    "message": "Nope. that's all problem"
+  },
+  {
+    "timestamp": "11:29:27",
+    "speaker": "helpdesk",
+    "message": "Have a great weekend"
+  },
+  {
+    "timestamp": "11:29:45",
+    "speaker": "user",
+    "message": "have a good weekend too :-D"
+  },
+  {
+    "timestamp": "11:29:56",
+    "speaker": "helpdesk",
+    "message": "Chat with us again or write into library@smu.edu.sg if need further assistance."
+  },
+  {
+    "timestamp": "11:30:08",
+    "speaker": "user",
+    "message": "oki!"
+  }
+]

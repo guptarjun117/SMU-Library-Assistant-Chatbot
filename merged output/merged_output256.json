@@ -1,0 +1,32 @@
+[
+   {
+      "timestamp":"14:48:01",
+      "speaker":"Help desk",
+      "message_content":"PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : Hi PERSON_FIRSTNAME_2, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_3 PERSON_LASTNAME_2. How may I help you today?"
+   },
+   {
+      "timestamp":"14:48:24",
+      "speaker":"Help desk",
+      "message_content":"PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : (Source 1) (Statista, 2022a)"
+   },
+   {
+      "timestamp":"14:48:29",
+      "speaker":"Help desk",
+      "message_content":"PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : [Deleted by Op on 2023-04-05T06:48:34.439Z]"
+   },
+   {
+      "timestamp":"14:48:43",
+      "speaker":"Help desk",
+      "message_content":"PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : (Source 2) (Statista, 2022b)"
+   },
+   {
+      "timestamp":"14:49:05",
+      "speaker":"Help desk",
+      "message_content":"PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : It goes the same with your References."
+   },
+   {
+      "timestamp":"14:49:22",
+      "speaker":"User",
+      "message_content":"PERSON_FIRSTNAME_1 : ahhh i see thank u so much for ur help! :D"
+   }
+]

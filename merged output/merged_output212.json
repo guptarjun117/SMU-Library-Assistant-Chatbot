@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "15:06:07",
+    "speaker": "helpdesk",
+    "message": "Hi PERSON_FIRSTNAME_1, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_2. How may I help you today?"
+  },
+  {
+    "timestamp": "15:06:17",
+    "speaker": "user",
+    "message": "PERSON_FIRSTNAME_1 Oh : hi! i made this visual myself, can i check if its considered a figure or a table?"
+  },
+  {
+    "timestamp": "15:06:38",
+    "speaker": "user",
+    "message": "PERSON_FIRSTNAME_1 Oh : attached a file: https://libfaq.smu.edu.sg/chat_file.php?i=28&f=108068&preview=true"
+  },
+  {
+    "timestamp": "15:07:12",
+    "speaker": "helpdesk",
+    "message": "Thank you for your query. It should be a figure."
+  },
+  {
+    "timestamp": "15:08:54",
+    "speaker": "user",
+    "message": "PERSON_FIRSTNAME_1 Oh : okay thank you!"
+  }
+]

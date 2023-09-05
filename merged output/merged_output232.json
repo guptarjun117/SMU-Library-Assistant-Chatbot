@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "15:04:23",
+        "speaker": "user",
+        "message": "This is PERSON_LASTNAME_1 from SMU Libraries. How may I help you?"
+    },
+    {
+        "timestamp": "15:04:46",
+        "speaker": "user",
+        "message": "Hello PERSON_LASTNAME_1, I'm looking for HLA Hart's 'Law, Liberty and Morality'. Is there a soft copy I can access?"
+    },
+    {
+        "timestamp": "15:06:18",
+        "speaker": "user",
+        "message": "Could you direct me to any other websites SMU has access to which might have it?"
+    },
+    {
+        "timestamp": "15:08:01",
+        "speaker": "user",
+        "message": "I'm looking for a soft copy but I'm not in school. Could you direct me to another database SMU has access to, which might have a soft copy?"
+    },
+    {
+        "timestamp": "15:09:44",
+        "speaker": "user",
+        "message": "Okay, no worries, I will do so. Thank you PERSON_LASTNAME_1 for your help!"
+    },
+    {
+        "timestamp": "15:04:20",
+        "speaker": "helpdesk",
+        "message": "Hi PERSON_FIRSTNAME_3!"
+    },
+    {
+        "timestamp": "15:05:46",
+        "speaker": "helpdesk",
+        "message": "I'm afraid that we only have hardcopies available in the Reserves collection:"
+    },
+    {
+        "timestamp": "15:07:17",
+        "speaker": "helpdesk",
+        "message": "Sorry, I may not understand your question. According to our records, we only have the hardcopies available in the Reserves collection:"
+    },
+    {
+        "timestamp": "15:08:32",
+        "speaker": "helpdesk",
+        "message": "There is no sofycopy available for SMU community to access."
+    },
+    {
+        "timestamp": "15:08:58",
+        "speaker": "helpdesk",
+        "message": "In fact, if there's any softcopy, we would be able to find it on the Library Search."
+    },
+    {
+        "timestamp": "15:09:31",
+        "speaker": "helpdesk",
+        "message": "So, you'll have to visit the Reserves collection in person to access the hardcopy book."
+    },
+    {
+        "timestamp": "15:09:48",
+        "speaker": "helpdesk",
+        "message": "You're welcome!"
+    }
+]

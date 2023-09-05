@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "timestamp": "10:32:05",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : hello, does SMU have access to this article: <a href=\"https://referenceworks.brillonline.com/entries/the-hague-academy-collected-courses/*A9789004227286_02#A9789004227286_02-145\" target=\"_blank\">https://referenceworks.brillonline.com/entries/the-hague-academy-collected-courses/*A9789004227286_02#A9789004227286_02-145</a> ?"
+    },
+    {
+      "timestamp": "10:36:29",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : it works"
+    },
+    {
+      "timestamp": "10:36:35",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : Thank you for ur help!"
+    },
+    {
+      "timestamp": "10:36:38",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 : have a nice day"
+    },
+    {
+      "timestamp": "10:32:53",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Hello PERSON_FIRSTNAME_2,"
+    },
+    {
+      "timestamp": "10:33:25",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Let me check for you."
+    },
+    {
+      "timestamp": "10:36:06",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Yes we do have access to it<a href=\"https://referenceworks-brillonline-com.libproxy.smu.edu.sg/entries/the-hague-academy-collected-courses/*A9789004227286_02\">https://referenceworks-brillonline-com.libproxy.smu.edu.sg/entries/the-hague-academy-collected-courses/*A9789004227286_02</a>"
+    },
+    {
+      "timestamp": "10:36:19",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Try out the above link and let me know whether if it works for you."
+    }
+  ]
+}

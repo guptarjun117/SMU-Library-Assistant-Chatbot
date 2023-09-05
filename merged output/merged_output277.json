@@ -1,0 +1,11 @@
+{
+  "timestamp": ["User", "Help Desk"],
+  "speaker": ["User", "Help Desk"],
+  "message_content": [
+    "Hi, if the page number in the book is \"xx\" (because it's located in the preface), how should I should i do my in-text citation?",
+    "Hello, how may I help you?",
+    "You can cite the page number as is :) so for example PERSON_LASTNAME_3, 1927, p. xx)",
+    "Those are roman numeral, so still a valid numbering, in a sense",
+    "You're welcome!"
+  ]
+}

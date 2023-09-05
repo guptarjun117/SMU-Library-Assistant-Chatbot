@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "15:58:10",
+    "speaker": "user",
+    "message": "Hi PERSON_FIRSTNAME_1!"
+  },
+  {
+    "timestamp": "15:58:29",
+    "speaker": "user",
+    "message": "how can I do Apa 7 citation for appendices?"
+  },
+  {
+    "timestamp": "15:58:44",
+    "speaker": "user",
+    "message": "I would like to insert enlarge imagines of my figures from the main docs"
+  },
+  {
+    "timestamp": "16:00:34",
+    "speaker": "user",
+    "message": "thank you!"
+  },
+  {
+    "timestamp": "16:01:54",
+    "speaker": "user",
+    "message": "yes"
+  },
+  {
+    "timestamp": "16:02:27",
+    "speaker": "user",
+    "message": "if I would like to put an enlarged image of my figure 3 from the main docs, do I label it as figure 3 in the appendix?"
+  },
+  {
+    "timestamp": "16:04:16",
+    "speaker": "user",
+    "message": "! Thank you"
+  },
+  {
+    "timestamp": "16:04:29",
+    "speaker": "user",
+    "message": "yes it is"
+  },
+  {
+    "timestamp": "16:05:10",
+    "speaker": "user",
+    "message": "thank you"
+  },
+  {
+    "timestamp": "16:05:12",
+    "speaker": "user",
+    "message": "that is all"
+  },
+  {
+    "timestamp": "16:05:48",
+    "speaker": "user",
+    "message": "you too!"
+  },
+  {
+    "timestamp": "15:58:02",
+    "speaker": "helpdesk",
+    "message": "HI PERSON_LASTNAME_1"
+  },
+  {
+    "timestamp": "15:58:06",
+    "speaker": "helpdesk",
+    "message": "how can we help you today"
+  },
+  {
+    "timestamp": "15:58:52",
+    "speaker": "helpdesk",
+    "message": "<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627445\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627445</a>"
+  },
+  {
+    "timestamp": "15:58:54",
+    "speaker": "helpdesk",
+    "message": "here you go"
+  },
+  {
+    "timestamp": "15:59:01",
+    "speaker": "helpdesk",
+    "message": "<p>Appendices include supplemental materials that may not be essential during the reading of a paper, but provide additional information for the reader. Appendices go at the end of the document after the reference list.</p><p></p><p>Formatting notes:</p><ul><li>If there is one Appendix, label it as \"Appendix.\" If there are two or more, label them each with a capital letter (e.g. Appendix A, Appendix B).</li><li>Each appendix should have atitle that describes its contents.</li><li>The appendix label and title should be in bold,centered and in title case at the top of the page where the appendix begins. The label and title should be on separate lines.</li><li>Each appendix should start on a new page.</li><li>Appendices can include text, figures, tables, etc., or a combination of related information in different formats.</li><li>If there is only one figure or table in an appendix, then the appendix label and title takethe place of the normal figure or table formatting.</li><li>For appendices with more than one figure or table, the figures and tables are formatted as described above. The numbering, however,would include a letter. For instance, Figure B3, is the third figure in Appendix B.</li><li>As with tables and figures, each appendix should be referred to in the text at the appropriate time (e.g. \"see Appendix A\").</li></ul>"
+  },
+  {
+    "timestamp": "16:01:02",
+    "speaker": "helpdesk",
+    "message": "no worries"
+  },
+  {
+    "timestamp": "16:01:08",
+    "speaker": "helpdesk",
+    "message": "anything else i can help you with?"
+  },
+  {
+    "timestamp": "16:03:50",
+    "speaker": "helpdesk",
+    "message": "I think your appendix title should describe it as an enlarged image of figure 3"
+  },
+  {
+    "timestamp": "16:04:03",
+    "speaker": "helpdesk",
+    "message": "instead of relabelling it figure 3 in the appendix"
+  },
+  {
+    "timestamp": "16:04:08",
+    "speaker": "helpdesk",
+    "message": "since that would be inaccurate"
+  },
+  {
+    "timestamp": "16:04:22",
+    "speaker": "helpdesk",
+    "message": "as figure 3 is actually in the main body of the text?"
+  },
+  {
+    "timestamp": "16:04:37",
+    "speaker": "helpdesk",
+    "message": "yup"
+  },
+  {
+    "timestamp": "16:05:29",
+    "speaker": "helpdesk",
+    "message": "sure, i will end the chat then."
+  },
+  {
+    "timestamp": "16:05:33",
+    "speaker": "helpdesk",
+    "message": "have a good day!"
+  }
+]
