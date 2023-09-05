@@ -1,0 +1,54 @@
+{
+    "results": [
+        {
+            "timestamp": "10:51:36",
+            "speaker": "User",
+            "message": "Hi, I graduated from SMU in 2022. I would like to access the LKS library. What memberships do I have to apply for?"
+        },
+        {
+            "timestamp": "10:52:01",
+            "speaker": "User",
+            "message": "I see both a SMU AA and a SMU library membership, and am confused"
+        },
+        {
+            "timestamp": "10:52:31",
+            "speaker": "User",
+            "message": "Just using the library spaces"
+        },
+        {
+            "timestamp": "10:53:41",
+            "speaker": "User",
+            "message": "I see. On the app there will be something that I show to the guard at the library entrance?"
+        },
+        {
+            "timestamp": "10:50:46",
+            "speaker": "Help Desk",
+            "message": "Hi"
+        },
+        {
+            "timestamp": "10:50:48",
+            "speaker": "Help Desk",
+            "message": "how can i help you"
+        },
+        {
+            "timestamp": "10:52:19",
+            "speaker": "Help Desk",
+            "message": "Hi PERSON_FIRSTNAME_1, are you looking at just using the library spaces? or you need to borrow books and use some of the databases?"
+        },
+        {
+            "timestamp": "10:53:06",
+            "speaker": "Help Desk",
+            "message": "ok.. if that is the case.. all you need to do is just download the SMU Alumni app.... retrieve the SMU Alumni digital card, and you can use that to access the libraries"
+        },
+        {
+            "timestamp": "10:53:28",
+            "speaker": "Help Desk",
+            "message": "<a href=\"https://alumni.smu.edu.sg/services-benefits/smu-alumni-mobile-app\" target=\"_blank\">https://alumni.smu.edu.sg/services-benefits/smu-alumni-mobile-app</a>"
+        },
+        {
+            "timestamp": "10:53:37",
+            "speaker": "Help Desk",
+            "message": "there.. you can refer to the link above"
+        }
+    ]
+}

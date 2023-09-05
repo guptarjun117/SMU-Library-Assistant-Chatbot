@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "12:09:53",
+    "speaker": "user",
+    "message": "Hi PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "12:10:01",
+    "speaker": "user",
+    "message": "Hi PERSON_FIRSTNAME_2!"
+  },
+  {
+    "timestamp": "12:10:33",
+    "speaker": "user",
+    "message": "I want to access this book: Promoting sustainable fisheries the international legal and policy framework to combat illegal, unreported and unregulated fishing and it is in the library, but i cant figure out how to access"
+  },
+  {
+    "timestamp": "12:11:37",
+    "speaker": "user",
+    "message": "yess"
+  },
+  {
+    "timestamp": "12:12:28",
+    "speaker": "user",
+    "message": "nope"
+  },
+  {
+    "timestamp": "12:13:04",
+    "speaker": "user",
+    "message": "it only sais \"bad message\""
+  },
+  {
+    "timestamp": "12:14:32",
+    "speaker": "user",
+    "message": "ok give me a min"
+  },
+  {
+    "timestamp": "12:16:29",
+    "speaker": "user",
+    "message": "youre right - it worked now!"
+  },
+  {
+    "timestamp": "12:16:33",
+    "speaker": "user",
+    "message": "thank you!!:)"
+  },
+  {
+    "timestamp": "12:17:12",
+    "speaker": "user",
+    "message": "nope thats all"
+  },
+  {
+    "timestamp": "12:09:57",
+    "speaker": "helpdesk",
+    "message": "how can we help you today"
+  },
+  {
+    "timestamp": "12:10:41",
+    "speaker": "helpdesk",
+    "message": "oh sure"
+  },
+  {
+    "timestamp": "12:10:46",
+    "speaker": "helpdesk",
+    "message": "let me just check that for you"
+  },
+  {
+    "timestamp": "12:11:37",
+    "speaker": "helpdesk",
+    "message": "iis this the book?"
+  },
+  {
+    "timestamp": "12:11:37",
+    "speaker": "helpdesk",
+    "message": "romoting sustainable fisheries the international legal and policy framework to combat illegal, unreported and unregulated fishing"
+  },
+  {
+    "timestamp": "12:11:47",
+    "speaker": "helpdesk",
+    "message": "<a href=\"https://search.library.smu.edu.sg/discovery/fulldisplay?docid=alma99244519702601&amp;context=L&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,promoting%20sustainable%20fisheries%20the%20international%20legal%20and%20policy%20framework%20to%20combat%20illegal%20%20unreported%20and%20unregulated%20fishing&amp;offset=0\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/fulldisplay?docid=alma99244519702601&amp;context=L&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;tab=Everything&amp;query=any,contains,promoting%20sustainable%20fisheries%20the%20international%20legal%20and%20policy%20framework%20to%20combat%20illegal%20%20unreported%20and%20unregulated%20fishing&amp;offset=0</a>"
+  },
+  {
+    "timestamp": "12:12:06",
+    "speaker": "helpdesk",
+    "message": "are you able to click on the proquest link?"
+  },
+  {
+    "timestamp": "12:12:13",
+    "speaker": "helpdesk",
+    "message": "it should bring you to this page"
+  },
+  {
+    "timestamp": "12:12:17",
+    "speaker": "helpdesk",
+    "message": "<a href=\"https://ebookcentral-proquest-com.libproxy.smu.edu.sg/lib/smu/detail.action?pq-origsite=primo&amp;docID=583757\" target=\"_blank\">https://ebookcentral-proquest-com.libproxy.smu.edu.sg/lib/smu/detail.action?pq-origsite=primo&amp;docID=583757</a>"
+  },
+  {
+    "timestamp": "12:12:31",
+    "speaker": "helpdesk",
+    "message": "or it will prompt you to log in with your SMU email address and password?"
+  },
+  {
+    "timestamp": "12:13:27",
+    "speaker": "helpdesk",
+    "message": "oh ok, could i trouble you to copy and paste the link in an incognito window"
+  },
+  {
+    "timestamp": "12:14:17",
+    "speaker": "helpdesk",
+    "message": "either that or please clear your cache, including your cookies. This might log you out of the chat, but please start a new chat if you get logged out. I will be here."
+  },
+  {
+    "timestamp": "12:14:58",
+    "speaker": "helpdesk",
+    "message": "sure no worries"
+  },
+  {
+    "timestamp": "12:16:46",
+    "speaker": "helpdesk",
+    "message": "great!"
+  },
+  {
+    "timestamp": "12:16:55",
+    "speaker": "helpdesk",
+    "message": "is there anything else i can help you with"
+  },
+  {
+    "timestamp": "12:16:59",
+    "speaker": "helpdesk",
+    "message": "otherwise i will end the chat!"
+  },
+  {
+    "timestamp": "12:17:23",
+    "speaker": "helpdesk",
+    "message": "sure. have a good day ahead."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "10:55:29",
+    "speaker": "Help Desk",
+    "message": "Hi, this is PERSON_FIRSTNAME_3. How may I help you?"
+  },
+  {
+    "timestamp": "10:55:38",
+    "speaker": "User",
+    "message": "hello! i am trying to access this article: <a href=\"https://journals.aom.org/doi/abs/10.5465/ambpp.2015.17837abstract\" target=\"_blank\">https://journals.aom.org/doi/abs/10.5465/ambpp.2015.17837abstract</a>"
+  },
+  {
+    "timestamp": "10:55:50",
+    "speaker": "Help Desk",
+    "message": "Did you try an incognito window?"
+  },
+  {
+    "timestamp": "10:56:01",
+    "speaker": "Help Desk",
+    "message": "and from SMU Libraries website?"
+  },
+  {
+    "timestamp": "10:56:04",
+    "speaker": "User",
+    "message": "Organizational reattachment: Quantifying the benefits of boomerang employees"
+  },
+  {
+    "timestamp": "10:56:25",
+    "speaker": "User",
+    "message": "there is no results matching this. could I confirm that the library has no access to this article, please?"
+  },
+  {
+    "timestamp": "10:56:41",
+    "speaker": "Help Desk",
+    "message": "Sure. Please give me a moment to check on your enquiry."
+  },
+  {
+    "timestamp": "11:00:46",
+    "speaker": "Help Desk",
+    "message": "Hi, it appears we do not have a copy of this item in our library. Would you like to request for Inter Library Loan?"
+  },
+  {
+    "timestamp": "11:01:16",
+    "speaker": "Help Desk",
+    "message": "<a href=\"https://library.smu.edu.sg/borrow-renew-request/get-it-for-me#:~:text=for%20purchase%20considerations-,Interlibrary%20loan%20(ILL),and%20submit%20a%20completed%20form\" target=\"_blank\">https://library.smu.edu.sg/borrow-renew-request/get-it-for-me#:~:text=for%20purchase%20considerations-,Interlibrary%20loan%20(ILL),and%20submit%20a%20completed%20form</a>."
+  },
+  {
+    "timestamp": "11:01:37",
+    "speaker": "Help Desk",
+    "message": "You may wish to do so by this link"
+  },
+  {
+    "timestamp": "11:06:25",
+    "speaker": "Help Desk",
+    "message": "Do you have other questions?"
+  },
+  {
+    "timestamp": "11:06:31",
+    "speaker": "Help Desk",
+    "message": "Is there anything else I can assist?"
+  },
+  {
+    "timestamp": "11:06:52",
+    "speaker": "Help Desk",
+    "message": "If not, I will close this chat. Thank you and have a nice day."
+  }
+]

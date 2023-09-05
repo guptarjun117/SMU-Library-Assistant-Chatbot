@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "14:58:21",
+    "speaker": "Help Desk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "15:01:22",
+    "speaker": "Help Desk",
+    "message": "do you get any error messages? if you could also share with me which cases you want to download that would be great"
+  },
+  {
+    "timestamp": "15:05:02",
+    "speaker": "Help Desk",
+    "message": "okay let me check on that, please give me a minute..."
+  },
+  {
+    "timestamp": "15:06:44",
+    "speaker": "Help Desk",
+    "message": "do you have the permalink to the case?"
+  },
+  {
+    "timestamp": "15:07:53",
+    "speaker": "Help Desk",
+    "message": "thank you :) just want to make sure it's the same one as yours"
+  },
+  {
+    "timestamp": "15:11:57",
+    "speaker": "Help Desk",
+    "message": "I seem to be encountering an error as well. hm.. please give me a bit more time to see if I can find a way to troubleshoot this, thank you for waiting!"
+  },
+  {
+    "timestamp": "15:16:52",
+    "speaker": "Help Desk",
+    "message": "hmm yes I think I may need to report this to lawnet. in the meantime, if you just want to save this case, another shortcut that I can think of is to print the entire page (Ctrl + P in chrome) and that should save you the PDF of the case"
+  },
+  {
+    "timestamp": "15:17:00",
+    "speaker": "Help Desk",
+    "message": "it won't be nicely formatted, though"
+  },
+  {
+    "timestamp": "15:17:29",
+    "speaker": "Help Desk",
+    "message": "Be sure to choose \"Save to PDF\" in the Destination tab"
+  },
+  {
+    "timestamp": "15:19:46",
+    "speaker": "Help Desk",
+    "message": "yes of course. We will notify LawNet about this error."
+  },
+  {
+    "timestamp": "15:21:54",
+    "speaker": "Help Desk",
+    "message": "ah i found another shortcut that might get you a nicer PDF:"
+  },
+  {
+    "timestamp": "15:24:01",
+    "speaker": "Help Desk",
+    "message": "glad to help! :D"
+  },
+  {
+    "timestamp": "15:24:15",
+    "speaker": "Help Desk",
+    "message": "is there anything else I can assist? (I will still feedback to lawnet though)"
+  },
+  {
+    "timestamp": "15:24:42",
+    "speaker": "Help Desk",
+    "message": "okay then, good luck with your assignment!"
+  },
+  {
+    "timestamp": "15:24:47",
+    "speaker": "Help Desk",
+    "message": "manifesting grade A for you"
+  },
+  {
+    "timestamp": "14:59:12",
+    "speaker": "User",
+    "message": "Hi, I am facing an issue with downloading the pdf of cases on LawNet...is there a way to resolve it?"
+  },
+  {
+    "timestamp": "15:04:42",
+    "speaker": "User",
+    "message": "I was trying to download \"Man Financial (S) Pte Ltd (formerly known as E D &amp; F Man International (S) Pte Ltd) v Wong Bark Chuan David [2008] 1 SLR(R) 663\" on LawNet...and I was prompted \"Failed to load PDF document\" when I tried to download the pdf version"
+  },
+  {
+    "timestamp": "15:07:41",
+    "speaker": "User",
+    "message": "<a href=\"https://www-lawnet-sg.libproxy.smu.edu.sg/lawnet/group/lawnet/page-content?p_p_id=legalresearchpagecontent_WAR_lawnet3legalresearchportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_action=openContentPage&amp;contentDocID=/SLR/[2008]%201%20SLR(R)%200663.xml&amp;queryStr= PERSON_LASTNAME_1 20siew%20may)%20AND%20(Man%20financial%20(S)%20Pte%20Ltd)\" target=\"_blank\">https://www-lawnet-sg.libproxy.smu.edu.sg/lawnet/group/lawnet/page-content?p_p_id=legalresearchpagecontent_WAR_lawnet3legalresearchportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_action=openContentPage&amp;contentDocID=/SLR/[2008]%201%20SLR(R)%200663.xml&amp;queryStr= PERSON_LASTNAME_1 20siew%20may)%20AND%20(Man%20financial%20(S)%20Pte%20Ltd)</a>"
+  },
+  {
+    "timestamp": "15:08:15",
+    "speaker": "User",
+    "message": "Thanks for helping!"
+  },
+  {
+    "timestamp": "15:12:07",
+    "speaker": "User",
+    "message": "Sure!"
+  },
+  {
+    "timestamp": "15:18:57",
+    "speaker": "User",
+    "message": "Will the lib be feedbacking to LawNet though?"
+  },
+  {
+    "timestamp": "15:21:45",
+    "speaker": "User",
+    "message": "Alrighty!"
+  },
+  {
+    "timestamp": "15:22:15",
+    "speaker": "User",
+    "message": "Ooooo"
+  },
+  {
+    "timestamp": "15:23:07",
+    "speaker": "User",
+    "message": "ohhhhhh"
+  },
+  {
+    "timestamp": "15:23:24",
+    "speaker": "User",
+    "message": "okie will try tat! Thanks PERSON_FIRSTNAME_1! :D"
+  },
+  {
+    "timestamp": "15:23:48",
+    "speaker": "User",
+    "message": "Appreciate ur help much!"
+  },
+  {
+    "timestamp": "15:24:27",
+    "speaker": "User",
+    "message": "Nothing else"
+  },
+  {
+    "timestamp": "15:24:55",
+    "speaker": "User",
+    "message": "HAHAHAHAHA Thanks!"
+  }
+]

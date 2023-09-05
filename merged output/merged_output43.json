@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "timestamp": "17:47:41",
+      "speaker": "User",
+      "message": "Good evening! I am trying to do 7th APA Citation for a website, but there isn't any author name.."
+    },
+    {
+      "timestamp": "17:48:03",
+      "speaker": "User",
+      "message": "What should i do?"
+    },
+    {
+      "timestamp": "17:48:55",
+      "speaker": "User",
+      "message": "Yes"
+    },
+    {
+      "timestamp": "17:49:08",
+      "speaker": "User",
+      "message": "<a href=\"https://www.plasticsoupfoundation.org/en/plastic-problem/plastic-soup/cause-plastic-pollution/\" target=\"_blank\">https://www.plasticsoupfoundation.org/en/plastic-problem/plastic-soup/cause-plastic-pollution/</a>"
+    },
+    {
+      "timestamp": "17:51:02",
+      "speaker": "User",
+      "message": "<a href=\"https://www.plasticsoupfoundation.org/en/plastic-problem/plastic-soup/cause-plastic-pollution/\" target=\"_blank\">https://www.plasticsoupfoundation.org/en/plastic-problem/plastic-soup/cause-plastic-pollution/</a>"
+    },
+    {
+      "timestamp": "17:51:27",
+      "speaker": "User",
+      "message": "Thank you!"
+    },
+    {
+      "timestamp": "17:56:26",
+      "speaker": "User",
+      "message": "Thank you!"
+    },
+    {
+      "timestamp": "17:56:52",
+      "speaker": "User",
+      "message": "Do i also use \" Plastic Soup Foundation \" . in the in-text citation too?"
+    },
+    {
+      "timestamp": "17:59:19",
+      "speaker": "User",
+      "message": "Okay. Thank you for your time:D"
+    },
+    {
+      "timestamp": "18:02:43",
+      "speaker": "User",
+      "message": "Nope!"
+    },
+    {
+      "timestamp": "18:04:10",
+      "speaker": "User",
+      "message": "Have a great day!"
+    },
+    {
+      "timestamp": "17:47:22",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "17:48:51",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_1, is this for WR?"
+    },
+    {
+      "timestamp": "17:49:01",
+      "speaker": "Help Desk",
+      "message": "can i know the website?"
+    },
+    {
+      "timestamp": "17:51:17",
+      "speaker": "Help Desk",
+      "message": "let me take a look"
+    },
+    {
+      "timestamp": "17:55:48",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_1, if an individual author is not available, you can use the corporate / organisation author, Plastic Soup Foundation, refer to the format for website here: <a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441</a>"
+    },
+    {
+      "timestamp": "17:57:56",
+      "speaker": "Help Desk",
+      "message": "yes, refer to the format for in-text citation for corporate author here: <a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627447\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627447</a>"
+    },
+    {
+      "timestamp": "17:59:55",
+      "speaker": "Help Desk",
+      "message": "thanks and have a great day!"
+    }
+  ]
+}

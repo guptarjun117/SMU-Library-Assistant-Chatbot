@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "16:20:07",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hi PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "16:20:48",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : hello, PERSON_FIRSTNAME_2, I am having trouble accessing one of the articles using the library website"
+  },
+  {
+    "timestamp": "16:20:58",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Turn-Taking in Tutorial Group Discussion, under Varying Conditions of Preparation and Leadership"
+  },
+  {
+    "timestamp": "16:22:07",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Higher Education\n\nVol. 17, No. 3 (1988), pp. 295-306 (12 pages)\n\nPublished By: Springer"
+  },
+  {
+    "timestamp": "16:23:21",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : i have tried but it doesn't allow me to view past the 1st page"
+  },
+  {
+    "timestamp": "16:25:22",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : yup, apparently smu doesn't have access to the article"
+  },
+  {
+    "timestamp": "16:27:47",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : ok thank you it works now"
+  },
+  {
+    "timestamp": "16:29:10",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : thank you that is all"
+  },
+  {
+    "timestamp": "16:20:11",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : how can we help you today"
+  },
+  {
+    "timestamp": "16:21:25",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : ah i see"
+  },
+  {
+    "timestamp": "16:21:31",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : do you have the title of the journal"
+  },
+  {
+    "timestamp": "16:22:29",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : <a href=\"https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_scopus_primary_218002458&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,Turn-Taking%20in%20Tutorial%20Group%20Discussion%20%20under%20Varying%20Conditions%20of%20Preparation%20and%20Leadership\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_scopus_primary_218002458&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,Turn-Taking%20in%20Tutorial%20Group%20Discussion%20%20under%20Varying%20Conditions%20of%20Preparation%20and%20Leadership</a>"
+  },
+  {
+    "timestamp": "16:22:43",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : could i trouble you to try accessing it through this link"
+  },
+  {
+    "timestamp": "16:24:10",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : hmm even when you click the right arrow on the screen?"
+  },
+  {
+    "timestamp": "16:24:16",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : it doesn't scroll downwards"
+  },
+  {
+    "timestamp": "16:24:38",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : it might be easier for you to download the pdf and view it"
+  },
+  {
+    "timestamp": "16:24:52",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : the online reader can be quite laggy"
+  },
+  {
+    "timestamp": "16:25:44",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : oh that can't be right"
+  },
+  {
+    "timestamp": "16:25:50",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : because i just downloaded it"
+  },
+  {
+    "timestamp": "16:26:08",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : are you logged into the smu proxy service?"
+  },
+  {
+    "timestamp": "16:26:37",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : could i trouble you to clear your internet cache, including your cookies"
+  },
+  {
+    "timestamp": "16:27:15",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : then try to access the link i sent you earlier again."
+  },
+  {
+    "timestamp": "16:27:51",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : np!"
+  },
+  {
+    "timestamp": "16:28:01",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : if there isn't anything else, i will close the chat"
+  }
+]

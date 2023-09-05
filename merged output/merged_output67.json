@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "17:11:44",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : hello I am having some trouble in researching on how the Japan's intermigration from rural area to city affects the Japan economy. Can you recommend me some resources? thank you"
+  },
+  {
+    "timestamp": "17:13:17",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I was searching in google search bar and using different terms. I have tried with google scholar too"
+  },
+  {
+    "timestamp": "17:20:39",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thank you for the resources"
+  },
+  {
+    "timestamp": "17:24:25",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thank you for the help. I feel that I would not need a research librarian's help. I would try to find more resources using the tip that you have given."
+  },
+  {
+    "timestamp": "17:27:14",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : nope"
+  },
+  {
+    "timestamp": "17:10:35",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1"
+  },
+  {
+    "timestamp": "17:10:38",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : This is PERSON_FIRSTNAME_2 PERSON_LASTNAME_2. How may I help?"
+  },
+  {
+    "timestamp": "17:12:20",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : May I know what databases have you look at?"
+  },
+  {
+    "timestamp": "17:14:18",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : Just a moment please. Let me look into this."
+  },
+  {
+    "timestamp": "17:18:00",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : <a href=\"https://doi-org.libproxy.smu.edu.sg/10.1016/j.cities.2020.102733\" target=\"_blank\">https://doi-org.libproxy.smu.edu.sg/10.1016/j.cities.2020.102733</a>"
+  },
+  {
+    "timestamp": "17:19:23",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : <a href=\"https://search.library.smu.edu.sg/permalink/65SMU_INST/9f22kc/alma99564967702601\" target=\"_blank\">https://search.library.smu.edu.sg/permalink/65SMU_INST/9f22kc/alma99564967702601</a>"
+  },
+  {
+    "timestamp": "17:19:56",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : For the second link, it is an ebook. There is a chapter on Internal Migration in Japan."
+  },
+  {
+    "timestamp": "17:21:07",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : If the two resources are useful, you can try picking up keywords from them to form your search terms."
+  },
+  {
+    "timestamp": "17:22:04",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : If you would like more in-depth research guidance, would you like me to e-connect you with a research librarian?"
+  },
+  {
+    "timestamp": "17:25:19",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : No problem. Also, check out the reference list in the article. That may led to other related articles."
+  },
+  {
+    "timestamp": "17:26:40",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "17:27:55",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_3 : Have a great evening and please feel free to reach out to us again if you need further assistance."
+  }
+]

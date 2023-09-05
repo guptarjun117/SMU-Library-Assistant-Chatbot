@@ -1,0 +1,174 @@
+{
+  "results": [
+    {
+      "timestamp": "11:10:35",
+      "speaker": "User",
+      "message": "Hi There!"
+    },
+    {
+      "timestamp": "11:10:38",
+      "speaker": "User",
+      "message": "This is PERSON_FIRSTNAME_1 from SMU Libraries. How may I help you?"
+    },
+    {
+      "timestamp": "11:10:43",
+      "speaker": "User",
+      "message": "Hello! My name is PERSON_FIRSTNAME_3"
+    },
+    {
+      "timestamp": "11:10:54",
+      "speaker": "User",
+      "message": "Hello, PERSON_FIRSTNAME_3!"
+    },
+    {
+      "timestamp": "11:11:21",
+      "speaker": "User",
+      "message": "My group is trying to retrieve tweets for our project, and we sent a request to the Twitter team. However, they requested for a link to show my affiliation SMU"
+    },
+    {
+      "timestamp": "11:11:33",
+      "speaker": "User",
+      "message": "For now we sent them our transcript in-lieu."
+    },
+    {
+      "timestamp": "11:11:45",
+      "speaker": "User",
+      "message": "But would you know if there's anything we can use to show our affiliation to SMU pls? :D"
+    },
+    {
+      "timestamp": "11:13:22",
+      "speaker": "User",
+      "message": "A related question"
+    },
+    {
+      "timestamp": "11:13:41",
+      "speaker": "User",
+      "message": "We sent in a request for academic research to Twitter and that's why they're asking us for this detail"
+    },
+    {
+      "timestamp": "11:13:51",
+      "speaker": "User",
+      "message": "Would you have experienced similar situations?"
+    },
+    {
+      "timestamp": "11:14:23",
+      "speaker": "User",
+      "message": "<a href=\"https://developer.twitter.com/en/products/twitter-api/academic-research\" target=\"_blank\">https://developer.twitter.com/en/products/twitter-api/academic-research</a> \nFor this; we want to extract tweets from 2022 and therefore we need the academic research"
+    },
+    {
+      "timestamp": "11:17:14",
+      "speaker": "User",
+      "message": "Is it possible to add one more recipient too?"
+    },
+    {
+      "timestamp": "11:18:07",
+      "speaker": "User",
+      "message": "vincent.lim.2022@mitb.smu.edu.sg"
+    },
+    {
+      "timestamp": "11:18:10",
+      "speaker": "User",
+      "message": "Thanks alot! :D"
+    },
+    {
+      "timestamp": "11:19:03",
+      "speaker": "User",
+      "message": "Have a great day ahead!"
+    },
+    {
+      "timestamp": "11:10:38",
+      "speaker": "Help Desk",
+      "message": "PERSON_FIRSTNAME_1 from SMU Libraries. How may I help you?"
+    },
+    {
+      "timestamp": "11:10:54",
+      "speaker": "Help Desk",
+      "message": "Hello, PERSON_FIRSTNAME_3!"
+    },
+    {
+      "timestamp": "11:12:28",
+      "speaker": "Help Desk",
+      "message": "Hmm, I'm not quite sure about this. But I'd probably suggest you to check in with the Student Services Hub for their advice."
+    },
+    {
+      "timestamp": "11:12:52",
+      "speaker": "Help Desk",
+      "message": "Ah ok sure!"
+    },
+    {
+      "timestamp": "11:12:55",
+      "speaker": "Help Desk",
+      "message": "Thanks alot!"
+    },
+    {
+      "timestamp": "11:13:04",
+      "speaker": "Help Desk",
+      "message": "No problem, didn't help much though :)"
+    },
+    {
+      "timestamp": "11:13:20",
+      "speaker": "Help Desk",
+      "message": "Haha!"
+    },
+    {
+      "timestamp": "11:13:24",
+      "speaker": "Help Desk",
+      "message": "Is there anything else I could assist you here?"
+    },
+    {
+      "timestamp": "11:15:42",
+      "speaker": "Help Desk",
+      "message": "I think maybe I could link you up with my colleagues from the Research &amp; Data Services team as they provided consultations on data mining and API before."
+    },
+    {
+      "timestamp": "11:16:01",
+      "speaker": "Help Desk",
+      "message": "May I just double confirm your email address: sherinahr.2022@mitb.smu.edu.sg"
+    },
+    {
+      "timestamp": "11:16:25",
+      "speaker": "Help Desk",
+      "message": "Yes pls!"
+    },
+    {
+      "timestamp": "11:17:03",
+      "speaker": "Help Desk",
+      "message": "PERSON_LASTNAME_4! I will drop them an email and copy you in. From there, my colleagues can get in touch with you and share their experience :)"
+    },
+    {
+      "timestamp": "11:17:10",
+      "speaker": "Help Desk",
+      "message": "Great, thanks so much!"
+    },
+    {
+      "timestamp": "11:17:21",
+      "speaker": "Help Desk",
+      "message": "Sure!"
+    },
+    {
+      "timestamp": "11:17:16",
+      "speaker": "Help Desk",
+      "message": "You're welcome!"
+    },
+    {
+      "timestamp": "11:18:13",
+      "speaker": "Help Desk",
+      "message": "PERSON_LASTNAME_4, got it :)"
+    },
+    {
+      "timestamp": "11:18:32",
+      "speaker": "Help Desk",
+      "message": "Appreciate your help PERSON_FIRSTNAME_1!"
+    },
+    {
+      "timestamp": "11:18:55",
+      "speaker": "Help Desk",
+      "message": "No problem! You're welcome PERSON_FIRSTNAME_3."
+    },
+    {
+      "timestamp": "11:19:10",
+      "speaker": "Help Desk",
+      "message": "Same to you!"
+    }
+  ]
+}

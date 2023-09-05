@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": "11:10:24",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_5 PERSON_LASTNAME_1 : Hi PERSON_FIRSTNAME_3. I am currently trying to figure out how to navigate SMU database SCOPUS to find out the number of articles published in a particular journal. May I know if this is the appropriate/correct tool to use ?"
+  },
+  {
+    "timestamp": "11:12:10",
+    "speaker": "User",
+    "message": "Yes i do"
+  },
+  {
+    "timestamp": "11:12:34",
+    "speaker": "User",
+    "message": "Journal of Organizational Behavior"
+  },
+  {
+    "timestamp": "11:14:27",
+    "speaker": "User",
+    "message": "yes. it's something like that"
+  },
+  {
+    "timestamp": "11:15:02",
+    "speaker": "User",
+    "message": "yes"
+  },
+  {
+    "timestamp": "11:15:58",
+    "speaker": "User",
+    "message": "based on this journal, i would like to find out how many articles were published by a particular faculty member from year 2020 to 2022. Is is possible to find out using SCOPUS ?"
+  },
+  {
+    "timestamp": "11:22:30",
+    "speaker": "User",
+    "message": "i noticed that if i typed in the full name of the faculty member, the database won't be able to retrieve the results"
+  },
+  {
+    "timestamp": "11:23:42",
+    "speaker": "User",
+    "message": "what is ORCID ID ?"
+  },
+  {
+    "timestamp": "11:25:00",
+    "speaker": "User",
+    "message": "yes"
+  },
+  {
+    "timestamp": "11:25:40",
+    "speaker": "User",
+    "message": "do you have her email address ?"
+  },
+  {
+    "timestamp": "11:26:26",
+    "speaker": "User",
+    "message": "yes"
+  },
+  {
+    "timestamp": "11:27:06",
+    "speaker": "User",
+    "message": "ok sure"
+  },
+  {
+    "timestamp": "11:27:42",
+    "speaker": "User",
+    "message": "thanks for your help"
+  },
+  {
+    "timestamp": "11:28:22",
+    "speaker": "User",
+    "message": "i think that will do"
+  },
+  {
+    "timestamp": "11:28:37",
+    "speaker": "User",
+    "message": "can i check with you"
+  },
+  {
+    "timestamp": "11:28:56",
+    "speaker": "User",
+    "message": "is sumita one of your colleagues from library ?"
+  },
+  {
+    "timestamp": "11:29:26",
+    "speaker": "User",
+    "message": "oh ok"
+  },
+  {
+    "timestamp": "11:31:06",
+    "speaker": "User",
+    "message": "oh ok. thanks for the clarification."
+  },
+  {
+    "timestamp": "11:31:21",
+    "speaker": "User",
+    "message": "you can end the chat"
+  },
+  {
+    "timestamp": "11:08:27",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_5, how can we help you today"
+  },
+  {
+    "timestamp": "11:11:22",
+    "speaker": "Help Desk",
+    "message": "it would depend on whether the SCOPUS coverage of that journal is complete. Do you happen to have the title of the journal?"
+  },
+  {
+    "timestamp": "11:12:23",
+    "speaker": "Help Desk",
+    "message": "great, could i trouble you for it?"
+  },
+  {
+    "timestamp": "11:13:03",
+    "speaker": "Help Desk",
+    "message": "thanks. let me just check"
+  },
+  {
+    "timestamp": "11:13:43",
+    "speaker": "Help Desk",
+    "message": "just to confirm, is it this journal?"
+  },
+  {
+    "timestamp": "11:16:28",
+    "speaker": "Help Desk",
+    "message": "ah yeah that would be possible"
+  },
+  {
+    "timestamp": "11:16:34",
+    "speaker": "Help Desk",
+    "message": "you can either look under this page"
+  },
+  {
+    "timestamp": "11:17:29",
+    "speaker": "Help Desk",
+    "message": "the other way which is probably faster, is to search via author using the faculty's name"
+  },
+  {
+    "timestamp": "11:18:06",
+    "speaker": "Help Desk",
+    "message": "and then further filter within 2020 to 2022"
+  },
+  {
+    "timestamp": "11:19:18",
+    "speaker": "Help Desk",
+    "message": "Attached a file: ..."
+  },
+  {
+    "timestamp": "11:23:24",
+    "speaker": "Help Desk",
+    "message": "it would turn on the way the faculty registered his name on Scopus, or how Scopus pulled the indexed information"
+  },
+  {
+    "timestamp": "11:23:53",
+    "speaker": "Help Desk",
+    "message": "no worries!"
+  },
+  {
+    "timestamp": "11:24:42",
+    "speaker": "Help Desk",
+    "message": "Do you need this for a school thing?"
+  },
+  {
+    "timestamp": "11:25:23",
+    "speaker": "Help Desk",
+    "message": "you can write to Ms PERSON_FIRSTNAME_1 PERSON_LASTNAME_4. She is the head of Research Data services, and can help you to pull out the stats"
+  },
+  {
+    "timestamp": "11:25:36",
+    "speaker": "Help Desk",
+    "message": "that might be better, since she can verify the publications too"
+  },
+  {
+    "timestamp": "11:26:01",
+    "speaker": "Help Desk",
+    "message": "ppyeo@smu.edu.sg"
+  },
+  {
+    "timestamp": "11:26:03",
+    "speaker": "Help Desk",
+    "message": "here you go"
+  },
+  {
+    "timestamp": "11:26:21",
+    "speaker": "Help Desk",
+    "message": "sorry, just to check, you are from LKCSB?"
+  },
+  {
+    "timestamp": "11:26:26",
+    "speaker": "Help Desk",
+    "message": "school of business?"
+  },
+  {
+    "timestamp": "11:27:01",
+    "speaker": "Help Desk",
+    "message": "Could i trouble you to also copy the Research Librarian, who is coordinator for LKCSB as well? PERSON_FIRSTNAME_4, her email address issumitag@smu.edu.sg"
+  },
+  {
+    "timestamp": "11:27:05",
+    "speaker": "Help Desk",
+    "message": "thanks!"
+  },
+  {
+    "timestamp": "11:27:21",
+    "speaker": "Help Desk",
+    "message": "PERSON_LASTNAME_4 will be able to provide the data"
+  },
+  {
+    "timestamp": "11:27:34",
+    "speaker": "Help Desk",
+    "message": "grateful if you could let her know which prof it is"
+  },
+  {
+    "timestamp": "11:27:39",
+    "speaker": "Help Desk",
+    "message": "thank you!"
+  },
+  {
+    "timestamp": "11:28:03",
+    "speaker": "Help Desk",
+    "message": "is there anything else i can assist you with?"
+  },
+  {
+    "timestamp": "11:28:34",
+    "speaker": "Help Desk",
+    "message": "ok thanks"
+  },
+  {
+    "timestamp": "11:31:11",
+    "speaker": "Help Desk",
+    "message": "since the different business librarians manage different faculty"
+  },
+  {
+    "timestamp": "11:31:14",
+    "speaker": "Help Desk",
+    "message": "no problem"
+  },
+  {
+    "timestamp": "11:31:14",
+    "speaker": "Help Desk",
+    "message": "ok thanks"
+  }
+]

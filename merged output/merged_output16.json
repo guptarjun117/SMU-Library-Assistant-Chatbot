@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "11:26:09",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : Hi I do not have access to one of my readings on JSTOR although i have tried logging in through the institution"
+  },
+  {
+    "timestamp": "11:27:37",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : The title is, Empires of the weak : the real story of European expansion and the creation of the new world order"
+  },
+  {
+    "timestamp": "11:29:38",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : Ok will do"
+  },
+  {
+    "timestamp": "11:31:33",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : chapter 1"
+  },
+  {
+    "timestamp": "11:25:36",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Hi, this is PERSON_FIRSTNAME_2. How may I help you?"
+  },
+  {
+    "timestamp": "11:26:46",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Sure. May I have the details to the readings please?"
+  },
+  {
+    "timestamp": "11:27:45",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Hmm... Please give me a moment."
+  },
+  {
+    "timestamp": "11:29:05",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : The links are working fine"
+  },
+  {
+    "timestamp": "11:29:29",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Can you try logging in with an in-cognito browser"
+  },
+  {
+    "timestamp": "11:30:00",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Which chapter are you thinking of downloading?"
+  },
+  {
+    "timestamp": "11:31:44",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Oh good"
+  },
+  {
+    "timestamp": "11:31:49",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : No problem"
+  },
+  {
+    "timestamp": "11:31:54",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Is there anything else I can assist?"
+  }
+]

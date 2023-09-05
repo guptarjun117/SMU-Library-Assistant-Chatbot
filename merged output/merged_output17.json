@@ -1,0 +1,77 @@
+[
+    {
+        "timestamp": "13:50:57",
+        "speaker": "User",
+        "message": "Hi PERSON_FIRSTNAME_4 how can i help you?"
+    },
+    {
+        "timestamp": "13:51:07",
+        "speaker": "User",
+        "message": "Hi I am looking for an article named \"Ikea invades America\" by PERSON_FIRSTNAME_1 PERSON_LASTNAME_3"
+    },
+    {
+        "timestamp": "13:51:52",
+        "speaker": "User",
+        "message": "I checked Ebsco host, initially, i saw it there. But now it is gone."
+    },
+    {
+        "timestamp": "13:52:23",
+        "speaker": "User",
+        "message": "Ok thank you"
+    },
+    {
+        "timestamp": "13:52:42",
+        "speaker": "User",
+        "message": "it is by Harvard business school"
+    },
+    {
+        "timestamp": "13:54:00",
+        "speaker": "User",
+        "message": "PERSON_LASTNAME_5"
+    },
+    {
+        "timestamp": "13:54:04",
+        "speaker": "User",
+        "message": "Okay thank you very much"
+    },
+    {
+        "timestamp": "13:54:11",
+        "speaker": "User",
+        "message": "thats all from me for today"
+    },
+    {
+        "timestamp": "13:54:16",
+        "speaker": "User",
+        "message": "thank you for your assistance"
+    },
+    {
+        "timestamp": "13:54:32",
+        "speaker": "User",
+        "message": "you too!"
+    },
+    {
+        "timestamp": "13:52:18",
+        "speaker": "Help Desk",
+        "message": "let me do a search in the database. give me a min"
+    },
+    {
+        "timestamp": "13:53:35",
+        "speaker": "Help Desk",
+        "message": "i can't find it in Ebscohost database."
+    },
+    {
+        "timestamp": "13:53:49",
+        "speaker": "Help Desk",
+        "message": "it is actually a HBS case which needs to be bought from HBS website"
+    },
+    {
+        "timestamp": "13:53:58",
+        "speaker": "Help Desk",
+        "message": "<a href=\"https://www.hbs.edu/faculty/Pages/item.aspx?num=31121\" target=\"_blank\">https://www.hbs.edu/faculty/Pages/item.aspx?num=31121</a>"
+    },
+    {
+        "timestamp": "13:54:28",
+        "speaker": "Help Desk",
+        "message": "No worries. Have a nice day ahead!"
+    }
+]

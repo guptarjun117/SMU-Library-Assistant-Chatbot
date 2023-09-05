@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "timestamp": "2021-05-12T00:00:00",
+      "speaker": "User",
+      "message": "Hello, I need help with citation for an assignment"
+    },
+    {
+      "timestamp": "2021-05-12T00:01:00",
+      "speaker": "User",
+      "message": "Kungflu, Wuhan Virus, these were just some of the many derogatory remarks that Asians have been associated with, in what seemed like attempts to put blame on them for the pandemic. It did not help that the term Chinese Virus was used disparagingly by then President of the United States, PERSON_FIRSTNAME_2 PERSON_LASTNAME_1, which further encouraged and fueled the use of hate speech within the country (Vang, 2020). Individuals have also been physically assaulted, with some attacks being fatal (Vang, 2020)."
+    },
+    {
+      "timestamp": "2021-05-12T00:02:00",
+      "speaker": "User",
+      "message": "This is one of the paragraph I wrote and I referenced information to one source, but wrote using my own sentence"
+    },
+    {
+      "timestamp": "2021-05-12T00:03:00",
+      "speaker": "User",
+      "message": "May I know if I have reference the in-text citation correctly or is there an alternative, considering that I referenced the same article twice?"
+    },
+    {
+      "timestamp": "2021-05-12T00:04:00",
+      "speaker": "User",
+      "message": "May I clarify in what cases do I have to include the in-text citation after every sentence, even if it is the same reference?"
+    },
+    {
+      "timestamp": "2021-05-12T00:05:00",
+      "speaker": "User",
+      "message": "Alright, thank you!"
+    },
+    {
+      "timestamp": "2021-05-12T00:06:00",
+      "speaker": "User",
+      "message": "That will be all."
+    },
+    {
+      "timestamp": "2021-05-12T00:07:00",
+      "speaker": "Help Desk",
+      "message": "Hi, this is PERSON_FIRSTNAME_3. How may I help you?"
+    },
+    {
+      "timestamp": "2021-05-12T00:08:00",
+      "speaker": "Help Desk",
+      "message": "Sure"
+    },
+    {
+      "timestamp": "2021-05-12T00:09:00",
+      "speaker": "Help Desk",
+      "message": "in-text citation or reference list?"
+    },
+    {
+      "timestamp": "2021-05-12T00:10:00",
+      "speaker": "Help Desk",
+      "message": "So you need help with in-text?"
+    },
+    {
+      "timestamp": "2021-05-12T00:11:00",
+      "speaker": "Help Desk",
+      "message": "correct."
+    },
+    {
+      "timestamp": "2021-05-12T00:12:00",
+      "speaker": "Help Desk",
+      "message": "but you only need to do it once"
+    },
+    {
+      "timestamp": "2021-05-12T00:13:00",
+      "speaker": "Help Desk",
+      "message": "at the end of the paragraph"
+    },
+    {
+      "timestamp": "2021-05-12T00:14:00",
+      "speaker": "Help Desk",
+      "message": "if the whole paragraph is essentially a summary from a source"
+    },
+    {
+      "timestamp": "2021-05-12T00:15:00",
+      "speaker": "Help Desk",
+      "message": "basically you just cite it at the end of paragraph"
+    },
+    {
+      "timestamp": "2021-05-12T00:16:00",
+      "speaker": "Help Desk",
+      "message": "but do ensure you paraphrase it well"
+    },
+    {
+      "timestamp": "2021-05-12T00:17:00",
+      "speaker": "Help Desk",
+      "message": "that is generally the case"
+    },
+    {
+      "timestamp": "2021-05-12T00:18:00",
+      "speaker": "Help Desk",
+      "message": "no problem"
+    },
+    {
+      "timestamp": "2021-05-12T00:19:00",
+      "speaker": "Help Desk",
+      "message": "you are always welcome"
+    },
+    {
+      "timestamp": "2021-05-12T00:20:00",
+      "speaker": "Help Desk",
+      "message": "Do you have other questions?"
+    },
+    {
+      "timestamp": "2021-05-12T00:21:00",
+      "speaker": "Help Desk",
+      "message": "Thank you and have a nice day."
+    }
+  ]
+}

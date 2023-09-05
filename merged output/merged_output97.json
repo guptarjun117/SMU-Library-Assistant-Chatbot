@@ -1,0 +1,77 @@
+[
+    {
+        "timestamp": "17:57:46",
+        "speaker": "user",
+        "message": "Hello"
+    },
+    {
+        "timestamp": "17:57:49",
+        "speaker": "user",
+        "message": "<a href=\"https://www-wsj-com.libproxy.smu.edu.sg/articles/how-amazon-became-one-of-washingtons-most-powerful-players-1529509628\" target=\"_blank\">https://www-wsj-com.libproxy.smu.edu.sg/articles/how-amazon-became-one-of-washingtons-most-powerful-players-1529509628</a>"
+    },
+    {
+        "timestamp": "17:58:05",
+        "speaker": "user",
+        "message": "PERSON_LASTNAME_2 having trouble viewing this article can you help me?"
+    },
+    {
+        "timestamp": "17:58:25",
+        "speaker": "user",
+        "message": "It is blocked behind a subscribe wall"
+    },
+    {
+        "timestamp": "18:00:12",
+        "speaker": "user",
+        "message": "No i have not"
+    },
+    {
+        "timestamp": "18:03:55",
+        "speaker": "user",
+        "message": "alright"
+    },
+    {
+        "timestamp": "18:06:56",
+        "speaker": "user",
+        "message": "PERSON_LASTNAME_2 having difficulties loading the one-time registration page"
+    },
+    {
+        "timestamp": "18:07:14",
+        "speaker": "user",
+        "message": "is it because I am off school Wi-Fi?"
+    },
+    {
+        "timestamp": "18:10:27",
+        "speaker": "user",
+        "message": "I loaded!"
+    },
+    {
+        "timestamp": "18:11:43",
+        "speaker": "user",
+        "message": "Thank you, I can access it now"
+    },
+    {
+        "timestamp": "17:57:05",
+        "speaker": "helpdesk",
+        "message": "Hello, how may I help you?"
+    },
+    {
+        "timestamp": "17:59:01",
+        "speaker": "helpdesk",
+        "message": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_3, have you register for a Wall Street Journal account before?"
+    },
+    {
+        "timestamp": "18:03:26",
+        "speaker": "helpdesk",
+        "message": "can you look for the link to \"One Time Registration\" here:<a href=\"https://researchguides.smu.edu.sg/az.php?q=wall%20street%20journal&amp;p=1\" target=\"_blank\">https://researchguides.smu.edu.sg/az.php?q=wall%20street%20journal&amp;p=1</a> and do a registration first?"
+    },
+    {
+        "timestamp": "18:03:41",
+        "speaker": "helpdesk",
+        "message": "use the smu email address to register"
+    },
+    {
+        "timestamp": "18:08:11",
+        "speaker": "helpdesk",
+        "message": "are you using chrome? can you try in an incognito window: <a href=\"http://libproxy.smu.edu.sg/login?url=https://partner.wsj.com/enter-redemption-code/SMU18ftgwpqx\" target=\"_blank\">http://libproxy.smu.edu.sg/login?url=https://partner.wsj.com/enter-redemption-code/SMU18ftgwpqx</a><br />"
+    }
+]

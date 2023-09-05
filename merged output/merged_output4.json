@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2022-04-19 14:22:01",
+    "speaker": "User",
+    "message": "Hi I'm so sorry I left the page just now"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:02",
+    "speaker": "Help Desk",
+    "message": "Conveyancer and Property Lawyer is available at KGC"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:03",
+    "speaker": "User",
+    "message": "oh its a physical copy is it ?"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:04",
+    "speaker": "Help Desk",
+    "message": "Yes, it is"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:05",
+    "speaker": "User",
+    "message": "Ohhh okay"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:06",
+    "speaker": "User",
+    "message": "Thank you so much!"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:07",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 Law Library available, Journals Level 4; K3 .O539"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:08",
+    "speaker": "Help Desk",
+    "message": "The item cannot be loaned out/"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:09",
+    "speaker": "User",
+    "message": "Alright, thank you so much for the help. Appreciate it ;)"
+  },
+  {
+    "timestamp": "2022-04-19 14:22:10",
+    "speaker": "Help Desk",
+    "message": "Thank you and have a nice day."
+  },
+  {
+    "timestamp": "2022-04-19 14:22:11",
+    "speaker": "User",
+    "message": "Bye!"
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "messages": [
+    {
+      "timestamp": "12:02:29",
+      "speaker": "Help Desk",
+      "content": "Hi, this is PERSON_FIRSTNAME_2. How may I help you?"
+    },
+    {
+      "timestamp": "12:03:05",
+      "speaker": "Help Desk",
+      "content": "Did you try to access from an incognito window?"
+    },
+    {
+      "timestamp": "12:03:16",
+      "speaker": "Help Desk",
+      "content": "And from smu libraries website?"
+    },
+    {
+      "timestamp": "12:04:03",
+      "speaker": "Help Desk",
+      "content": "Can I have the item details? The item that you wish to access"
+    },
+    {
+      "timestamp": "12:04:23",
+      "speaker": "Help Desk",
+      "content": "I will check on your enquiry."
+    },
+    {
+      "timestamp": "12:05:14",
+      "speaker": "Help Desk",
+      "content": "Hold on a second while I do a search."
+    },
+    {
+      "timestamp": "12:07:36",
+      "speaker": "Help Desk",
+      "content": "Attached a file: https://libfaq.smu.edu.sg/chat_file.php?i=28&f=106345"
+    },
+    {
+      "timestamp": "12:07:40",
+      "speaker": "Help Desk",
+      "content": "Here it is."
+    },
+    {
+      "timestamp": "12:07:50",
+      "speaker": "Help Desk",
+      "content": "Can you access the attachment?"
+    },
+    {
+      "timestamp": "12:07:59",
+      "speaker": "Help Desk",
+      "content": "If you cannot, I will email it to you."
+    },
+    {
+      "timestamp": "12:09:51",
+      "speaker": "Help Desk",
+      "content": "This second article.... we dont have it"
+    },
+    {
+      "timestamp": "12:09:56",
+      "speaker": "Help Desk",
+      "content": "Let me do another check."
+    },
+    {
+      "timestamp": "12:12:22",
+      "speaker": "Help Desk",
+      "content": "Attached a file: https://libfaq.smu.edu.sg/chat_file.php?i=28&f=106346"
+    },
+    {
+      "timestamp": "12:12:31",
+      "speaker": "Help Desk",
+      "content": "Can you access this article?"
+    },
+    {
+      "timestamp": "12:13:19",
+      "speaker": "Help Desk",
+      "content": "Do you have other questions?"
+    },
+    {
+      "timestamp": "12:13:24",
+      "speaker": "Help Desk",
+      "content": "Is there anything else I can assist?"
+    },
+    {
+      "timestamp": "12:13:42",
+      "speaker": "Help Desk",
+      "content": "If that it is all, I will close this chat. Thank you and have a nice day."
+    },
+    {
+      "timestamp": "12:02:48",
+      "speaker": "User",
+      "content": "Hello I keep on getting an error when trying to access articles from psycinfo."
+    },
+    {
+      "timestamp": "12:03:31",
+      "speaker": "User",
+      "content": "attached a file: https://libfaq.smu.edu.sg/chat_file.php?i=28&f=106344&preview=true"
+    },
+    {
+      "timestamp": "12:03:46",
+      "speaker": "User",
+      "content": "yes I've accessed from smu library website"
+    },
+    {
+      "timestamp": "12:04:57",
+      "speaker": "User",
+      "content": "A meta-analytic review of the gender difference in leadership aspirations."
+    },
+    {
+      "timestamp": "12:08:32",
+      "speaker": "User",
+      "content": "Women's access to managerial positions: An experimental study of leadership styles and gender."
+    },
+    {
+      "timestamp": "12:13:27",
+      "speaker": "User",
+      "content": "yes I can!"
+    },
+    {
+      "timestamp": "12:13:36",
+      "speaker": "User",
+      "content": "Okay that's all"
+    },
+    {
+      "timestamp": "12:13:39",
+      "speaker": "User",
+      "content": "thank you"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "15:08:22",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_4, this is PERSON_FIRSTNAME_1 from Library. How may I help you?"
+  },
+  {
+    "timestamp": "15:09:05",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_1, could I ask if there are some resources regarding past cases of plagiarism in SMU and the punishment accorded?"
+  },
+  {
+    "timestamp": "15:09:16",
+    "speaker": "User",
+    "message": "I am unable to find any thus far"
+  },
+  {
+    "timestamp": "15:09:52",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1"
+  },
+  {
+    "timestamp": "15:10:24",
+    "speaker": "User",
+    "message": "Okay, well thank you PERSON_FIRSTNAME_1 and hope you have a good day ahead!"
+  },
+  {
+    "timestamp": "15:09:44",
+    "speaker": "Help desk",
+    "message": "Hi PERSON_FIRSTNAME_4, we do not keep such a record in the library."
+  }
+]

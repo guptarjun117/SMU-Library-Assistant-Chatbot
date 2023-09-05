@@ -1,0 +1,204 @@
+{
+	"messages": [
+		{
+			"timestamp": "14:55:28",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : hi!"
+		},
+		{
+			"timestamp": "14:55:32",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Hi PERSON_LASTNAME_1, how can we help u?"
+		},
+		{
+			"timestamp": "14:55:51",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : I was trying to access the following books on the SMU library portal but was unable to do so:"
+		},
+		{
+			"timestamp": "14:55:52",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : Roscoe's Digest of the law of evidence on the trial of actions at nisi prius\nA treatise on the law of evidence"
+		},
+		{
+			"timestamp": "14:56:03",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : sorry that's two books"
+		},
+		{
+			"timestamp": "14:56:08",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : Roscoe's Digest of the law of evidence on the trial of actions at nisi prius"
+		},
+		{
+			"timestamp": "14:56:11",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : ^ the first"
+		},
+		{
+			"timestamp": "14:56:19",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : A treatise on the law of evidence"
+		},
+		{
+			"timestamp": "14:56:24",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : ^the second"
+		},
+		{
+			"timestamp": "14:57:03",
+			"speaker": "User",
+			"message": "<a href=\"http://libproxy.smu.edu.sg/login?url=http://galenet.galegroup.com.libproxy.smu.edu.sg/servlet/MOML?af=RN&amp;ae=F152913690&amp;srchtp=a&amp;ste=14&amp;q=singmanu\" target=\"_blank\">http://libproxy.smu.edu.sg/login?url=http://galenet.galegroup.com.libproxy.smu.edu.sg/servlet/MOML?af=RN&amp;ae=F152913690&amp;srchtp=a&amp;ste=14&amp;q=singmanu</a>"
+		},
+		{
+			"timestamp": "14:57:37",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : Yes I get the bad gateway error message"
+		},
+		{
+			"timestamp": "14:57:54",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : it says \"oh no, we don't recognise this link!\""
+		},
+		{
+			"timestamp": "14:58:43",
+			"speaker": "User",
+			"message": "<a href=\"http://libproxy.smu.edu.sg/login?url=http://galenet.galegroup.com.libproxy.smu.edu.sg/servlet/MOML?af=RN&amp;ae=F106906639&amp;srchtp=a&amp;ste=14&amp;q=singmanu\" target=\"_blank\">http://libproxy.smu.edu.sg/login?url=http://galenet.galegroup.com.libproxy.smu.edu.sg/servlet/MOML?af=RN&amp;ae=F106906639&amp;srchtp=a&amp;ste=14&amp;q=singmanu</a>"
+		},
+		{
+			"timestamp": "14:58:48",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : this is the other book's link"
+		},
+		{
+			"timestamp": "15:14:30",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : yes I was able, thank you!"
+		},
+		{
+			"timestamp": "15:14:36",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : So sorry I went to the washroom"
+		},
+		{
+			"timestamp": "15:14:41",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : any luck for the other book"
+		},
+		{
+			"timestamp": "15:14:43",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : ?"
+		},
+		{
+			"timestamp": "15:14:56",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Which one?"
+		},
+		{
+			"timestamp": "15:15:02",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : u mean the other versions?"
+		},
+		{
+			"timestamp": "15:15:09",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : A treatise on the law of evidence"
+		},
+		{
+			"timestamp": "15:15:13",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : It has the same issue"
+		},
+		{
+			"timestamp": "14:55:32",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Hi PERSON_LASTNAME_1, how can we help u?"
+		},
+		{
+			"timestamp": "14:56:29",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : can you forward the links to me"
+		},
+		{
+			"timestamp": "14:56:39",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : I'll check if those are working"
+		},
+		{
+			"timestamp": "14:56:53",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Did u get any prompts or error msgs?"
+		},
+		{
+			"timestamp": "15:04:41",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : I was able to open the 17th ed, but that led to Heinoline"
+		},
+		{
+			"timestamp": "15:04:54",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Im not sure if that was what u were looking for?"
+		},
+		{
+			"timestamp": "15:06:50",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : This is the 17th edi permalink --\n<a href=\"https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99418098702601\" target=\"_blank\">https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99418098702601</a>"
+		},
+		{
+			"timestamp": "15:09:06",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Were u able to get thru the link I gave PERSON_LASTNAME_1?"
+		},
+		{
+			"timestamp": "15:10:30",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106372&amp;preview=true\" class=\"s-la-cfile\" data-preview=\"inline\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106372&amp;preview=true</a>"
+		},
+		{
+			"timestamp": "15:10:40",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : The front page looks like this"
+		},
+		{
+			"timestamp": "15:21:05",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : I think for these we may need to inform my colleague -- i get the \"we don't recognise the link\" as well"
+		},
+		{
+			"timestamp": "15:21:27",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : i'll drop a note to my colleague and copy u in as well"
+		},
+		{
+			"timestamp": "15:21:38",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : In case he has further advise on the matter"
+		},
+		{
+			"timestamp": "15:21:59",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : Is yr email addy correct? chevon.tay.2020@law.smu.edu.sg"
+		},
+		{
+			"timestamp": "15:22:29",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : yes correct, thank you so much!"
+		},
+		{
+			"timestamp": "15:22:39",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : no worries"
+		},
+		{
+			"timestamp": "15:22:44",
+			"speaker": "Help Desk",
+			"message": "PERSON_FIRSTNAME_1 : will follow-up soon"
+		},
+		{
+			"timestamp": "15:22:51",
+			"speaker": "User",
+			"message": "PERSON_LASTNAME_1 PERSON_LASTNAME_3 : thank you, have a great day ahead!"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+[
+    {"timestamp": "14:49:17", "speaker": "user", "message": "Hello, good afternoon sir"},
+    {"timestamp": "14:49:22", "speaker": "helpdesk", "message": "Hi PERSON_FIRSTNAME_1, how can we assist u?<br />"},
+    {"timestamp": "14:49:41", "speaker": "user", "message": "I am trying to access this book/article"},
+    {"timestamp": "14:49:42", "speaker": "user", "message": "International Peirce-Smith converting centennial; proceedings"},
+    {"timestamp": "14:49:49", "speaker": "user", "message": "but the link does not seem to work"},
+    {"timestamp": "14:50:07", "speaker": "user", "message": "<a href=\"https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_200143364&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,The%20international%20Peirce-Smith%20converting%20centennial&amp;offset=0\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_proquest_miscellaneous_200143364&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,The%20international%20Peirce-Smith%20converting%20centennial&amp;offset=0</a>"},
+    {"timestamp": "14:50:46", "speaker": "user", "message": "no sir, its for a project"},
+    {"timestamp": "14:53:36", "speaker": "user", "message": "i see...no worries!"},
+    {"timestamp": "14:53:43", "speaker": "user", "message": "thank you anyways"},
+    {"timestamp": "14:50:17", "speaker": "helpdesk", "message": "Let me check<br />"},
+    {"timestamp": "14:50:28", "speaker": "helpdesk", "message": "Does this link appear in your reading list?<br />"},
+    {"timestamp": "14:53:01", "speaker": "helpdesk", "message": "Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106000\" class=\"s-la-cfile\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106000</a>"},
+    {"timestamp": "14:53:23", "speaker": "helpdesk", "message": "This is a proceeding, so the full text may not be available.<br />"},
+    {"timestamp": "14:53:54", "speaker": "helpdesk", "message": "ok then..<br />"}
+]

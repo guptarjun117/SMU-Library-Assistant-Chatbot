@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "17:29:40",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Hi PERSON_FIRSTNAME_2 welcome back"
+  },
+  {
+    "timestamp": "17:29:46",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Hi! Apologies, I accidentally closed the page"
+  },
+  {
+    "timestamp": "17:29:50",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Thank you for your patience"
+  },
+  {
+    "timestamp": "17:29:51",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : No worries."
+  },
+  {
+    "timestamp": "17:31:03",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : When I use Japan as one of the keywords I get only one book available<a href=\"https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99581258802601\" target=\"_blank\">https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99581258802601</a>"
+  },
+  {
+    "timestamp": "17:32:56",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Have you used Google Scholar before?"
+  },
+  {
+    "timestamp": "17:33:10",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Yes I have"
+  },
+  {
+    "timestamp": "17:33:29",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : If so then have you setup the library link FindIT@SMU Libraries?"
+  },
+  {
+    "timestamp": "17:34:03",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Use the following keywords to search in Google Scholar \"Japan doctors recommendation herpes zoster vaccine\""
+  },
+  {
+    "timestamp": "17:34:28",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I get articles specific to Japan and using the FindIT@SMU Libraries I am able to access those articles."
+  },
+  {
+    "timestamp": "17:36:19",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Hello PERSON_FIRSTNAME_2 are you there?"
+  },
+  {
+    "timestamp": "17:37:03",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Yes"
+  },
+  {
+    "timestamp": "17:37:10",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Thank you for your suggestion"
+  },
+  {
+    "timestamp": "17:37:12",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : I appreciate it!"
+  },
+  {
+    "timestamp": "17:37:29",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : You are welcome."
+  },
+  {
+    "timestamp": "17:37:45",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : One of the articles is<a href=\"https://link.springer.com/article/10.1007/s13555-019-0291-4\">https://link.springer.com/article/10.1007/s13555-019-0291-4</a>"
+  },
+  {
+    "timestamp": "17:37:59",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Thanks a lot"
+  },
+  {
+    "timestamp": "17:38:02",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : This is helpful"
+  },
+  {
+    "timestamp": "17:39:44",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thank you. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "17:43:09",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Nope! You have been of great help"
+  },
+  {
+    "timestamp": "17:43:10",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_2 : Thank you"
+  },
+  {
+    "timestamp": "17:43:39",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Take care and have a great day."
+  },
+  {
+    "timestamp": "17:44:04",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I will close this chat for now and you can chat with us again if you need any other assistance."
+  },
+  {
+    "timestamp": "Help Desk",
+    "speaker": "None",
+    "message": ""
+  }
+]

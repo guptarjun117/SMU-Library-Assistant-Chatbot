@@ -1,0 +1,177 @@
+[
+   {
+      "timestamp":"18:07:23",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hi PERSON_FIRSTNAME_1"
+   },
+   {
+      "timestamp":"18:07:32",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Happy CNY!"
+   },
+   {
+      "timestamp":"18:08:02",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I want to access Scopus from our library website as suggested"
+   },
+   {
+      "timestamp":"18:08:16",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : but I got 400 request error message"
+   },
+   {
+      "timestamp":"18:08:32",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thanks much"
+   },
+   {
+      "timestamp":"18:10:04",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I still can't"
+   },
+   {
+      "timestamp":"18:10:21",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : access from the above link you provided"
+   },
+   {
+      "timestamp":"18:10:48",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I tried"
+   },
+   {
+      "timestamp":"18:11:00",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : still got the same 400 bad request message"
+   },
+   {
+      "timestamp":"18:11:28",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Are you on any VPN?"
+   },
+   {
+      "timestamp":"18:11:42",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : no"
+   },
+   {
+      "timestamp":"18:12:01",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : I am sitting in LKS library:-)"
+   },
+   {
+      "timestamp":"18:12:31",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thanks much"
+   },
+   {
+      "timestamp":"18:14:44",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Dear PERSON_FIRSTNAME_2 PERSON_LASTNAME_3, I am able to access directly via google chrome"
+   },
+   {
+      "timestamp":"18:14:54",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : not through our library proxy"
+   },
+   {
+      "timestamp":"18:15:16",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : but, it was recommended to log in from our library website..."
+   },
+   {
+      "timestamp":"18:15:22",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : any comments?"
+   },
+   {
+      "timestamp":"18:17:21",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Sure"
+   },
+   {
+      "timestamp":"18:17:26",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : Thanks much:-)!"
+   },
+   {
+      "timestamp":"18:17:48",
+      "speaker":"User",
+      "message":"PERSON_FIRSTNAME_1 PERSON_LASTNAME_1 : You have a good and I will hear from you soon:-)"
+   },
+   {
+      "timestamp":"18:07:26",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : This is PERSON_FIRSTNAME_2 PERSON_LASTNAME_3. How may I help?"
+   },
+   {
+      "timestamp":"18:07:39",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Happy CNY to you too!"
+   },
+   {
+      "timestamp":"18:08:24",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Just a moment please. Let me look into this."
+   },
+   {
+      "timestamp":"18:09:27",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Would you mind trying incognito mode?"
+   },
+   {
+      "timestamp":"18:09:43",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : I am able to access scopus -<a href=\"https://researchguides.smu.edu.sg/scopus\" target=\"_blank\">https://researchguides.smu.edu.sg/scopus</a>"
+   },
+   {
+      "timestamp":"18:10:24",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Yes please."
+   },
+   {
+      "timestamp":"18:11:28",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hmm, let me check if any of my colleagues onsite are able to access."
+   },
+   {
+      "timestamp":"18:12:22",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Let me check with my colleague and I will email you."
+   },
+   {
+      "timestamp":"18:12:51",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : I am waiting for my colleague to respond."
+   },
+   {
+      "timestamp":"18:14:29",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : No problem. I am waiting for my colleague to respond."
+   },
+   {
+      "timestamp":"18:14:54",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Oh that is good news\n:D"
+   },
+   {
+      "timestamp":"18:15:38",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Let me check with my colleague and I will email you."
+   },
+   {
+      "timestamp":"18:16:19",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : I may not be able to resolve this issue immediately."
+   },
+   {
+      "timestamp":"18:16:30",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : May I email you after I investigate?"
+   },
+   {
+      "timestamp":"18:17:38",
+      "speaker":"Help Desk",
+      "message":"PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : No problem. Sorry, I am unable to resolve your issue currently."
+   }
+]

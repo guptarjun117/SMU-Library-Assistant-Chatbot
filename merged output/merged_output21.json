@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "16:59:37",
+    "speaker": "Help Desk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "16:59:41",
+    "speaker": "User",
+    "message": "When I am opening excel"
+  },
+  {
+    "timestamp": "17:00:19",
+    "speaker": "User",
+    "message": "instead of thomson Reuters, refinitiv eikon is written"
+  },
+  {
+    "timestamp": "17:03:06",
+    "speaker": "User",
+    "message": "So If I want to install Datastream what should I do?"
+  },
+  {
+    "timestamp": "17:03:55",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_1, that should be correct as Eikon is the database name"
+  },
+  {
+    "timestamp": "17:04:27",
+    "speaker": "Help Desk",
+    "message": "Are you in the investment Studio?"
+  },
+  {
+    "timestamp": "17:05:13",
+    "speaker": "User",
+    "message": "Sorry, I didn't get you"
+  },
+  {
+    "timestamp": "17:05:49",
+    "speaker": "User",
+    "message": "When I am trying to add it through add ons, it says restart required but I can't click on it"
+  },
+  {
+    "timestamp": "17:07:05",
+    "speaker": "Help Desk",
+    "message": "You will need to restart microsoft excel"
+  },
+  {
+    "timestamp": "17:07:13",
+    "speaker": "Help Desk",
+    "message": "so quite the Excel application, and boot it up again"
+  },
+  {
+    "timestamp": "17:07:19",
+    "speaker": "Help Desk",
+    "message": "quit*"
+  },
+  {
+    "timestamp": "17:09:27",
+    "speaker": "User",
+    "message": "Yes, got it"
+  },
+  {
+    "timestamp": "17:09:31",
+    "speaker": "User",
+    "message": "thank you"
+  }
+]

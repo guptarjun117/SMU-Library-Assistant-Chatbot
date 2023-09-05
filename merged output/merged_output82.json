@@ -1,0 +1,20 @@
+[
+    {"timestamp": "12:29:18", "speaker": "USER", "message": "Hi PERSON_FIRSTNAME_2."},
+    {"timestamp": "12:29:25", "speaker": "USER", "message": "How can I help you?"},
+    {"timestamp": "12:29:30", "speaker": "USER", "message": "Hi, I am unable to use the one time registration from nyt"},
+    {"timestamp": "12:29:35", "speaker": "USER", "message": "do u know what i can do?"},
+    {"timestamp": "12:29:47", "speaker": "USER", "message": "We're unable to issue a pass. Please email a full screen capture to the correct customer care group from the list below."},
+    {"timestamp": "12:29:58", "speaker": "USER", "message": "this is the error message nyt sends"},
+    {"timestamp": "12:29:59", "speaker": "USER", "message": "ohhh"},
+    {"timestamp": "12:30:01", "speaker": "USER", "message": "ok thanks!"},
+    {"timestamp": "12:30:09", "speaker": "USER", "message": "do u know when might it be up?"},
+    {"timestamp": "12:30:32", "speaker": "USER", "message": "okay thank you!!!"},
+    {"timestamp": "12:31:05", "speaker": "USER", "message": "sure thing!"},
+    {"timestamp": "12:31:09", "speaker": "USER", "message": "tyty :)"},
+
+    {"timestamp": "12:29:54", "speaker": "HELP DESK", "message": "NYT registration page is down right now."},
+    {"timestamp": "12:30:15", "speaker": "HELP DESK", "message": "My colleague is looking into that."},
+    {"timestamp": "12:30:28", "speaker": "HELP DESK", "message": "No estimated recover time yet."},
+    {"timestamp": "12:30:40", "speaker": "HELP DESK", "message": "So sorry about the inconvenience."},
+    {"timestamp": "12:30:59", "speaker": "HELP DESK", "message": "You may want to come back to try again late this afternoon or tomorrow morning."}
+]

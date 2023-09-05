@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "timestamp": "2022-11-01 09:00:00",
+      "speaker": "User",
+      "message": "hi"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:01",
+      "speaker": "Help desk",
+      "message": "Hi good day to you! Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_1, how can I help you today?"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:02",
+      "speaker": "User",
+      "message": "i am interested to search for journal articles that have lifelong learning and adult education"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:03",
+      "speaker": "User",
+      "message": "the search bar only shows top 10 journals. is it possible to show more?"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:04",
+      "speaker": "User",
+      "message": "when i try to sort all articles by journal title, only 10 journals are shown"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:05",
+      "speaker": "Help desk",
+      "message": "Hi PERSON_LASTNAME_1, you mean the result shown in the search page?"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:06",
+      "speaker": "Help desk",
+      "message": "You mean here [link]"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:07",
+      "speaker": "User",
+      "message": "i am a alumni"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:08",
+      "speaker": "Help desk",
+      "message": "Oh ok. Thank you for letting me know."
+    },
+    {
+      "timestamp": "2022-11-01 09:00:09",
+      "speaker": "User",
+      "message": "from the link you send, i can see 1) adult education quarterly (2241) ... 10) international review of education (686)"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:10",
+      "speaker": "Help desk",
+      "message": "That's a search facet that list the journals that has titles related to the keyword you searched for. The list is sorted in descending order based on the no of articles in each journal."
+    },
+    {
+      "timestamp": "2022-11-01 09:00:11",
+      "speaker": "Help desk",
+      "message": "10 is the limit set to show only the 10 journals based on the article count."
+    },
+    {
+      "timestamp": "2022-11-01 09:00:12",
+      "speaker": "User",
+      "message": "cannot see more right?"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:13",
+      "speaker": "Help desk",
+      "message": "Yes"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:14",
+      "speaker": "User",
+      "message": "ok thank you"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:15",
+      "speaker": "Help desk",
+      "message": "You are welcome. Is there anything else I can assist you with?"
+    },
+    {
+      "timestamp": "2022-11-01 09:00:16",
+      "speaker": "User",
+      "message": "thats all thanks"
+    }
+  ]
+}

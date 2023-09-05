@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "14:00:37",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_2, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_1 PERSON_LASTNAME_1. How may I help you today?"
+  },
+  {
+    "timestamp": "14:01:00",
+    "speaker": "User",
+    "message": "How many books does SMU Libraries have?"
+  },
+  {
+    "timestamp": "14:01:19",
+    "speaker": "User",
+    "message": "Its okay, nvm.."
+  },
+  {
+    "timestamp": "14:01:24",
+    "speaker": "User",
+    "message": "I found the answer"
+  },
+  {
+    "timestamp": "14:01:28",
+    "speaker": "User",
+    "message": "Bye"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "12:30:09",
+    "speaker": "User",
+    "message": "hi, if i am citing from a website with an editor, last name PERSON_LASTNAME_4, that has his/her content cited from a author, how do i go bout my in-text citation?"
+  },
+  {
+    "timestamp": "12:30:43",
+    "speaker": "User",
+    "message": "apa-7 citation"
+  },
+  {
+    "timestamp": "12:31:55",
+    "speaker": "User",
+    "message": "<a href=\"https://mentalhealthph.org/11-30-21/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=11-30-21\" target=\"_blank\">https://mentalhealthph.org/11-30-21/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=11-30-21</a>"
+  },
+  {
+    "timestamp": "12:37:21",
+    "speaker": "User",
+    "message": "ok got it"
+  },
+  {
+    "timestamp": "12:37:39",
+    "speaker": "User",
+    "message": "how do i also cite from government website?"
+  },
+  {
+    "timestamp": "12:38:00",
+    "speaker": "User",
+    "message": "<a href=\"https://www.ncss.gov.sg/our-stories/detail-page/stories-from-the-heart-nadia-daeng-ncss-singapore\" target=\"_blank\">https://www.ncss.gov.sg/our-stories/detail-page/stories-from-the-heart-nadia-daeng-ncss-singapore</a>"
+  },
+  {
+    "timestamp": "12:41:22",
+    "speaker": "User",
+    "message": "do i follow the parenthetical citation, instead of the narrative citation?"
+  },
+  {
+    "timestamp": "12:43:35",
+    "speaker": "User",
+    "message": "ohhh okay got it thank you!"
+  },
+  {
+    "timestamp": "12:47:46",
+    "speaker": "User",
+    "message": "yep! okay thank you!"
+  },
+  {
+    "timestamp": "12:48:48",
+    "speaker": "User",
+    "message": "oh sorry, one more question"
+  },
+  {
+    "timestamp": "12:49:01",
+    "speaker": "User",
+    "message": "when i cite from sources, do i have to paraphrase them?"
+  },
+  {
+    "timestamp": "12:52:23",
+    "speaker": "User",
+    "message": "ohhh okay got it! thank you!"
+  },
+  {
+    "timestamp": "12:31:27",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_LASTNAME_3 Jun"
+  },
+  {
+    "timestamp": "12:31:42",
+    "speaker": "Help Desk",
+    "message": "Would you have the site and the content?"
+  },
+  {
+    "timestamp": "12:34:26",
+    "speaker": "Help Desk",
+    "message": "I'll share an article with you, giving you the detail of how to to cite a secondary source.<br /><a href=\"https://apastyle.apa.org/style-grammar-guidelines/citations/secondary-sources\" target=\"_blank\">https://apastyle.apa.org/style-grammar-guidelines/citations/secondary-sources</a><br />"
+  },
+  {
+    "timestamp": "12:35:36",
+    "speaker": "Help Desk",
+    "message": "The example goes:<br /><br /> PERSON_LASTNAME_1, 1982, as cited in Lyon, 2014)"
+  },
+  {
+    "timestamp": "12:36:04",
+    "speaker": "Help Desk",
+    "message": "The good practice would be to locate the original source and use secondary citations sparingly"
+  },
+  {
+    "timestamp": "12:39:39",
+    "speaker": "Help Desk",
+    "message": "This should work:<br /><a href=\"https://apastyle.apa.org/style-grammar-guidelines/references/examples/webpage-website-references#3\" target=\"_blank\">https://apastyle.apa.org/style-grammar-guidelines/references/examples/webpage-website-references#3</a><br />"
+  },
+  {
+    "timestamp": "12:42:27",
+    "speaker": "Help Desk",
+    "message": "Usually parenthetical"
+  },
+  {
+    "timestamp": "12:43:17",
+    "speaker": "Help Desk",
+    "message": "The narrative citation works like this:<br />Author (20XX) argues that his position is really good."
+  },
+  {
+    "timestamp": "12:43:47",
+    "speaker": "Help Desk",
+    "message": "Oh one more note"
+  },
+  {
+    "timestamp": "12:45:02",
+    "speaker": "Help Desk",
+    "message": "When you're citing from the gov website, the version I passed to you works for government websites with the agency as the author.<br /><br />In other words, if there is an author, eg. NCSS, written by PERSON_FIRSTNAME_1 PERSON_LASTNAME_2, that would be a slightly different style."
+  },
+  {
+    "timestamp": "12:46:12",
+    "speaker": "Help Desk",
+    "message": "For now, I think we have got your queries covered though.<br />"
+  },
+  {
+    "timestamp": "12:49:01",
+    "speaker": "Help Desk",
+    "message": "Personally, I would do that"
+  },
+  {
+    "timestamp": "12:49:37",
+    "speaker": "Help Desk",
+    "message": "One reason you would want to do that so you will not be accused of plagiarism"
+  },
+  {
+    "timestamp": "12:50:08",
+    "speaker": "Help Desk",
+    "message": "The exception would be if you are quoting"
+  },
+  {
+    "timestamp": "12:50:57",
+    "speaker": "Help Desk",
+    "message": "Let's say someone says a really important line, and your essay MUST (or you really want that line), then you would have to put the line in quotation mark."
+  },
+  {
+    "timestamp": "12:51:13",
+    "speaker": "Help Desk",
+    "message": "You can then use the narrative style"
+  },
+  {
+    "timestamp": "12:52:00",
+    "speaker": "Help Desk",
+    "message": "E.g. <br />Great Guy (19XX) said \"really clever stuff\" and this still holds up today."
+  },
+  {
+    "timestamp": "12:52:40",
+    "speaker": "Help Desk",
+    "message": "Awesome"
+  },
+  {
+    "timestamp": "13:01:59",
+    "speaker": "Help Desk",
+    "message": "I'll log out of this chat now. Feel free to start another if you have further queries."
+  },
+  {
+    "timestamp": "13:02:06",
+    "speaker": "Help Desk",
+    "message": "Cheers~"
+  }
+]

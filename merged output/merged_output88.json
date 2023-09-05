@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "11:37:24",
+    "speaker": "Help Desk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "11:40:25",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_LASTNAME_2, can you send us an email request to library@smu.edu.sg to make an appointment, with your questions on Bloomberg, so that our librarian can understand more on what you are searching for in Bloomberg."
+  },
+  {
+    "timestamp": "11:37:59",
+    "speaker": "User",
+    "message": "Hi, can I make an appointment with a librarian to brief me through some basics on how to use Bloomberg?"
+  },
+  {
+    "timestamp": "11:40:47",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_3, thank you!"
+  }
+]

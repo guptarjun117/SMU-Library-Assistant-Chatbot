@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "17:48:25",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "17:49:37",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_2, quick question on usage of the library's resources (images in particular) - the resources and images copyright free and available for non-commercial use for students and public?"
+  },
+  {
+    "timestamp": "17:49:39",
+    "speaker": "User",
+    "message": "thanks!"
+  },
+  {
+    "timestamp": "17:53:16",
+    "speaker": "User",
+    "message": "I see, thanks! I was referring to resources or images published on the library's websites, which seem to be housed in the library's databases."
+  },
+  {
+    "timestamp": "17:53:44",
+    "speaker": "User",
+    "message": "Am a member of the public :)"
+  },
+  {
+    "timestamp": "17:55:30",
+    "speaker": "User",
+    "message": "aite got it! thanks PERSON_FIRSTNAME_3!"
+  },
+  {
+    "timestamp": "17:55:58",
+    "speaker": "User",
+    "message": "sure - thanks!"
+  },
+  {
+    "timestamp": "17:48:29",
+    "speaker": "Help Desk",
+    "message": "how can we help you today"
+  },
+  {
+    "timestamp": "17:50:17",
+    "speaker": "Help Desk",
+    "message": "as in the images that you get from e.g. the databases?"
+  },
+  {
+    "timestamp": "17:50:37",
+    "speaker": "Help Desk",
+    "message": "or do you mean like images of the library?"
+  },
+  {
+    "timestamp": "17:51:19",
+    "speaker": "Help Desk",
+    "message": "if you are talking about information from the databases, these resources are only available to enrolled students, and not the general public"
+  },
+  {
+    "timestamp": "17:52:25",
+    "speaker": "Help Desk",
+    "message": "the specific conditions which restrict the use of information may vary from database to database. but the general theme is that it should only be used for academia purposes."
+  },
+  {
+    "timestamp": "17:52:34",
+    "speaker": "Help Desk",
+    "message": "otherwise copyright would apply"
+  },
+  {
+    "timestamp": "17:53:37",
+    "speaker": "Help Desk",
+    "message": "oh i see, sorry just to check as i can't see your contact information"
+  },
+  {
+    "timestamp": "17:53:54",
+    "speaker": "Help Desk",
+    "message": "are you a student / staff of SMU?"
+  },
+  {
+    "timestamp": "17:55:11",
+    "speaker": "Help Desk",
+    "message": "ah i see, if you intend to rely on the images published on our website, for your use, please write in to SMU Libraries <library@smu.edu.sg>"
+  },
+  {
+    "timestamp": "17:55:37",
+    "speaker": "Help Desk",
+    "message": "no worries. thanks"
+  },
+  {
+    "timestamp": "17:55:50",
+    "speaker": "Help Desk",
+    "message": "if there isn't anything else i can help you with"
+  },
+  {
+    "timestamp": "17:55:54",
+    "speaker": "Help Desk",
+    "message": "i will end the chat!"
+  },
+  {
+    "timestamp": "17:56:03",
+    "speaker": "Help Desk",
+    "message": "thank you"
+  }
+]

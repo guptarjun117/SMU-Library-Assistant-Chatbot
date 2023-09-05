@@ -1,0 +1,82 @@
+[
+    {
+        "timestamp": "11:13:06",
+        "speaker": "user",
+        "message": "hi sir, i just have a relative short and simple qn"
+    },
+    {
+        "timestamp": "11:13:35",
+        "speaker": "user",
+        "message": "I am writing a piece of op ed and I understand SOSS resource librarians would be able to greatly help"
+    },
+    {
+        "timestamp": "11:14:08",
+        "speaker": "user",
+        "message": "who ar eour soss resource librarians and how do i get in touch wif them should I need their advice/assistance for my op ed"
+    },
+    {
+        "timestamp": "11:15:32",
+        "speaker": "user",
+        "message": "are there the name of soss resource librarian on the smu libraries website?"
+    },
+    {
+        "timestamp": "11:15:46",
+        "speaker": "user",
+        "message": "this is in case if he is not available"
+    },
+    {
+        "timestamp": "11:17:06",
+        "speaker": "user",
+        "message": "so he would be the only one that can give advice for my op ed should I need his help?"
+    },
+    {
+        "timestamp": "11:17:40",
+        "speaker": "user",
+        "message": "would common librarians like urself be able to help? that means I seek assistance through the ask library chat"
+    },
+    {
+        "timestamp": "11:18:48",
+        "speaker": "user",
+        "message": "ahhhh alright understood! noted with thks Ms PERSON_LASTNAME_3, there are no further qns"
+    },
+    {
+        "timestamp": "11:12:36",
+        "speaker": "helpdesk",
+        "message": "Hi PERSON_FIRSTNAME_4!"
+    },
+    {
+        "timestamp": "11:12:38",
+        "speaker": "helpdesk",
+        "message": "This is PERSON_LASTNAME_1 from SMU Libraries. How may I help you?"
+    },
+    {
+        "timestamp": "11:14:51",
+        "speaker": "helpdesk",
+        "message": "You can drop an email to PERSON_FIRSTNAME_3 &lt;benedictyeo@smu.edu.sg&gt;. He's the research librarian for SOSS."
+    },
+    {
+        "timestamp": "11:16:08",
+        "speaker": "helpdesk",
+        "message": "Yes, you can find the names here:<a href=\"https://library.smu.edu.sg/services/undergraduate-students\" target=\"_blank\">https://library.smu.edu.sg/services/undergraduate-students</a>"
+    },
+    {
+        "timestamp": "11:16:38",
+        "speaker": "helpdesk",
+        "message": "But he's the only research librarian for SOSS :)"
+    },
+    {
+        "timestamp": "11:17:53",
+        "speaker": "helpdesk",
+        "message": "I'd suggest you to get in touch with him first. He will work with the library team if needed to assist you from there."
+    },
+    {
+        "timestamp": "11:18:40",
+        "speaker": "helpdesk",
+        "message": "I think your question would require certain level of expertise, so I'd suggest you to get in touch with him please."
+    },
+    {
+        "timestamp": "11:19:03",
+        "speaker": "helpdesk",
+        "message": "No problem! All the best in your studies!"
+    }
+]

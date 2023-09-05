@@ -1,0 +1,122 @@
+[
+   {
+      "timestamp":"18:05:19",
+      "speaker":"User",
+      "message":"Am trying to locate PERSON_LASTNAME_4 and PERSON_LASTNAME_1 2013 but so far not in Google Scholar or Ebsco or Library. Can you help?"
+   },
+   {
+      "timestamp":"18:08:09",
+      "speaker":"User",
+      "message":"I cannot locate the title but these are the authors quoted"
+   },
+   {
+      "timestamp":"18:11:14",
+      "speaker":"User",
+      "message":"ok"
+   },
+   {
+      "timestamp":"18:13:21",
+      "speaker":"User",
+      "message":"This has mnay more authors"
+   },
+   {
+      "timestamp":"18:13:26",
+      "speaker":"User",
+      "message":"many more"
+   },
+   {
+      "timestamp":"18:14:29",
+      "speaker":"User",
+      "message":"If it is not possible, I will just use the one you have mentioned as it is a later year review article."
+   },
+   {
+      "timestamp":"18:14:33",
+      "speaker":"User",
+      "message":"Thank you"
+   },
+   {
+      "timestamp":"18:15:57",
+      "speaker":"User",
+      "message":"Thanks."
+   },
+   {
+      "timestamp":"18:16:42",
+      "speaker":"User",
+      "message":"Do you have a link?"
+   },
+   {
+      "timestamp":"18:17:10",
+      "speaker":"User",
+      "message":"Thanks"
+   },
+   {
+      "timestamp":"18:24:06",
+      "speaker":"User",
+      "message":"It is Ok since it is proceedings and there is a later document with the same authors."
+   },
+   {
+      "timestamp":"18:24:09",
+      "speaker":"User",
+      "message":"Thanks again"
+   },
+   {
+      "timestamp":"18:32:00",
+      "speaker":"User",
+      "message":"Not for now.THanks"
+   },
+   {
+      "timestamp":"18:32:28",
+      "speaker":"User",
+      "message":"You too"
+   },
+   {
+      "timestamp":"18:03:26",
+      "speaker":"Help Desk",
+      "message":"Hi PERSON_FIRSTNAME_2, this is PERSON_FIRSTNAME_4 from Library. How may I help you?"
+   },
+   {
+      "timestamp":"18:11:02",
+      "speaker":"Help Desk",
+      "message":"Please hold on while I check"
+   },
+   {
+      "timestamp":"18:11:46",
+      "speaker":"Help Desk",
+      "message":"Is this is the title?"
+   },
+   {
+      "timestamp":"18:14:55",
+      "speaker":"Help Desk",
+      "message":"Ok, I am still searching for it."
+   },
+   {
+      "timestamp":"18:16:00",
+      "speaker":"Help Desk",
+      "message":"UNSWORTH, K. L. & MCNEILL, I. 2013. Getting everyone to engage in pro-environmental behaviors: Increasing self-concordance to increase adaptation. Australian and New Zealand Academy of Management Conference. Hobart."
+   },
+   {
+      "timestamp":"18:16:59",
+      "speaker":"Help Desk",
+      "message":"I am searching to see if we have the journal"
+   },
+   {
+      "timestamp":"18:21:45",
+      "speaker":"Help Desk",
+      "message":"No, I dont think the PDF is available online. Would you like to arrange for document delivery?"
+   },
+   {
+      "timestamp":"18:24:20",
+      "speaker":"Help Desk",
+      "message":"Ok."
+   },
+   {
+      "timestamp":"18:24:24",
+      "speaker":"Help Desk",
+      "message":"Is there anything else I can help you with?"
+   },
+   {
+      "timestamp":"18:32:20",
+      "speaker":"Help Desk",
+      "message":"Ok. Do feel free to contact us again through this chat or email us at library@smu.edu.sg for any other assistance. Have a nice day!"
+   }
+]

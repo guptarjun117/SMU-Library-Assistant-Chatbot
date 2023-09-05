@@ -1,0 +1,137 @@
+[
+    {
+        "timestamp": "13:06:03",
+        "speaker": "User",
+        "message": "hi PERSON_FIRSTNAME_5"
+    },
+    {
+        "timestamp": "13:06:07",
+        "speaker": "User",
+        "message": "PERSON_LASTNAME_5 here"
+    },
+    {
+        "timestamp": "13:06:42",
+        "speaker": "User",
+        "message": "Can you find this article in SMU library? I can only get the review of this book by PERSON_LASTNAME_8"
+    },
+    {
+        "timestamp": "13:07:00",
+        "speaker": "User",
+        "message": "Part of a research for my proposal"
+    },
+    {
+        "timestamp": "13:08:17",
+        "speaker": "User",
+        "message": "BTW, where do we meet tomorrow for our discussion?"
+    },
+    {
+        "timestamp": "13:08:44",
+        "speaker": "User",
+        "message": "which room pl"
+    },
+    {
+        "timestamp": "13:08:57",
+        "speaker": "User",
+        "message": "investment studio. Ok"
+    },
+    {
+        "timestamp": "13:09:58",
+        "speaker": "User",
+        "message": "No online copy"
+    },
+    {
+        "timestamp": "13:09:57",
+        "speaker": "User",
+        "message": "Ok."
+    },
+    {
+        "timestamp": "13:10:02",
+        "speaker": "User",
+        "message": "So I can get it tomorrow then."
+    },
+    {
+        "timestamp": "13:10:31",
+        "speaker": "User",
+        "message": "OK. Thanks. Level 4 location."
+    },
+    {
+        "timestamp": "13:11:26",
+        "speaker": "User",
+        "message": "Have copied the link"
+    },
+    {
+        "timestamp": "13:12:19",
+        "speaker": "User",
+        "message": "Thanks. See you tomorrow"
+    },
+    {
+        "timestamp": "13:06:13",
+        "speaker": "Helpdesk",
+        "message": "Hi PERSON_LASTNAME_3, M. G., &amp; Ashforth, B. PERSON_FIRSTNAME_9. (2003). Fostering meaningfulness in working and at work. In PERSON_FIRSTNAME_2. S. PERSON_LASTNAME_8, J. PERSON_FIRSTNAME_9. PERSON_LASTNAME_7, &amp; R. PERSON_FIRSTNAME_9. PERSON_LASTNAME_4 (Eds.), Positive organizational scholarship: Foundations of a new discipline (pp. 309327). San Francisco, CA: Berrett PERSON_LASTNAME_6."
+    },
+    {
+        "timestamp": "13:06:48",
+        "speaker": "Helpdesk",
+        "message": "this is a book chapter part of your reading list?"
+    },
+    {
+        "timestamp": "13:07:17",
+        "speaker": "Helpdesk",
+        "message": "ok one moment let me check"
+    },
+    {
+        "timestamp": "13:08:31",
+        "speaker": "Helpdesk",
+        "message": "we can meet at level 3"
+    },
+    {
+        "timestamp": "13:08:44",
+        "speaker": "Helpdesk",
+        "message": "the pc area in front of the investment studio"
+    },
+    {
+        "timestamp": "13:09:12",
+        "speaker": "Helpdesk",
+        "message": "Ok we have this title"
+    },
+    {
+        "timestamp": "13:09:30",
+        "speaker": "Helpdesk",
+        "message": "BOOK Positive organizational scholarship:foundations of a new discipline, Kim S.; PERSON_LASTNAME_7, Jane PERSON_FIRSTNAME_9.; PERSON_LASTNAME_4, PERSON_FIRSTNAME_4 PERSON_FIRSTNAME_9.;c2003Positive organizational scholarship : foundations of a new disciplineAvailable atLi Ka Shing LibraryBooks Level 4(HD58.82 .P67 2003) Book reviews (4)"
+    },
+    {
+        "timestamp": "13:09:51",
+        "speaker": "Helpdesk",
+        "message": "But this is in printed-copy found at level 4"
+    },
+    {
+        "timestamp": "13:09:58",
+        "speaker": "Helpdesk",
+        "message": "no"
+    },
+    {
+        "timestamp": "13:10:15",
+        "speaker": "Helpdesk",
+        "message": "if u find it hard to locate, can always ask for help at the desk"
+    },
+    {
+        "timestamp": "13:12:31",
+        "speaker": "Helpdesk",
+        "message": "ok see u then"
+    },
+    {
+        "timestamp": "13:12:40",
+        "speaker": "Helpdesk",
+        "message": "im on chat till 4pm"
+    },
+    {
+        "timestamp": "13:12:46",
+        "speaker": "Helpdesk",
+        "message": "so if u need anything else"
+    },
+    {
+        "timestamp": "13:12:51",
+        "speaker": "Helpdesk",
+        "message": "i will be here"
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "result": [
+    {
+      "timestamp": "12:11:12",
+      "speaker": "User",
+      "message": "Hi, as an Alumni do I have access to the articles on the libraries website?"
+    },
+    {
+      "timestamp": "12:11:37",
+      "speaker": "User",
+      "message": "Or articles on pages where they need me to sign in via institution"
+    },
+    {
+      "timestamp": "12:13:41",
+      "speaker": "User",
+      "message": "okay thank you!"
+    },
+    {
+      "timestamp": "12:10:52",
+      "speaker": "Help desk",
+      "message": "Hi, this is PERSON_FIRSTNAME_2. How may I help you?"
+    },
+    {
+      "timestamp": "12:12:23",
+      "speaker": "Help desk",
+      "message": "You may wish to read this link for further information: <a href=\"https://library.smu.edu.sg/services/alumni\" target=\"_blank\">https://library.smu.edu.sg/services/alumni</a>"
+    },
+    {
+      "timestamp": "12:12:55",
+      "speaker": "Help desk",
+      "message": "For databases, you are only allowed access from the libraries"
+    },
+    {
+      "timestamp": "12:12:59",
+      "speaker": "Help desk",
+      "message": "And not online"
+    },
+    {
+      "timestamp": "12:13:09",
+      "speaker": "Help desk",
+      "message": "Does this answer your question?"
+    }
+  ]
+}

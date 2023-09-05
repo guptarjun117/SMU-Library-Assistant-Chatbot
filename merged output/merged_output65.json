@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "12:53:03",
+    "speaker": "User",
+    "message": "Hi Ms PERSON_LASTNAME_3"
+  },
+  {
+    "timestamp": "12:53:18",
+    "speaker": "User",
+    "message": "I want to ask if we have premium access to the straits times"
+  },
+  {
+    "timestamp": "12:53:38",
+    "speaker": "User",
+    "message": "i tried to log in using my smu account, but its only the normal access, not the premium one"
+  },
+  {
+    "timestamp": "12:53:41",
+    "speaker": "User",
+    "message": "thank you"
+  },
+  {
+    "timestamp": "12:54:50",
+    "speaker": "User",
+    "message": "May I know how do i apply for this access?"
+  },
+  {
+    "timestamp": "12:56:00",
+    "speaker": "User",
+    "message": "<a href=\"https://researchguides.smu.edu.sg/az.php\" target=\"_blank\">https://researchguides.smu.edu.sg/az.php</a>"
+  },
+  {
+    "timestamp": "12:56:07",
+    "speaker": "User",
+    "message": "is it here?"
+  },
+  {
+    "timestamp": "12:56:45",
+    "speaker": "User",
+    "message": "oh so the account doesnt allow us for premium access if we use the straits times apps"
+  },
+  {
+    "timestamp": "12:56:46",
+    "speaker": "User",
+    "message": "?"
+  },
+  {
+    "timestamp": "12:57:51",
+    "speaker": "User",
+    "message": "So we do not have premium access if we use the straits times website, but we can access the articles from smu library database. am i right?"
+  },
+  {
+    "timestamp": "12:58:48",
+    "speaker": "User",
+    "message": "is it the same case for New York Times?"
+  },
+  {
+    "timestamp": "13:02:37",
+    "speaker": "User",
+    "message": "thank you"
+  },
+  {
+    "timestamp": "13:04:19",
+    "speaker": "User",
+    "message": "to access the premium articles"
+  },
+  {
+    "timestamp": "13:04:38",
+    "speaker": "User",
+    "message": "ok thank you"
+  },
+  {
+    "timestamp": "13:05:19",
+    "speaker": "User",
+    "message": "no that would be all"
+  },
+  {
+    "timestamp": "12:52:48",
+    "speaker": "Help Desk",
+    "message": "Hi, this is PERSON_LASTNAME_3. How may I help you?"
+  },
+  {
+    "timestamp": "12:53:36",
+    "speaker": "Help Desk",
+    "message": "Sure. Please give me a moment to check on your enquiry."
+  },
+  {
+    "timestamp": "12:54:30",
+    "speaker": "Help Desk",
+    "message": "Coverage starts from 1 July 1989"
+  },
+  {
+    "timestamp": "12:55:22",
+    "speaker": "Help Desk",
+    "message": "You can access The Straits Times from Factiva database"
+  },
+  {
+    "timestamp": "12:55:29",
+    "speaker": "Help Desk",
+    "message": "from SMU Libraries website"
+  },
+  {
+    "timestamp": "12:56:14",
+    "speaker": "Help Desk",
+    "message": "or through the database page:<a href=\"https://researchguides.smu.edu.sg/az.php?a=f&amp;p=1\" target=\"_blank\">https://researchguides.smu.edu.sg/az.php?a=f&amp;p=1</a>"
+  },
+  {
+    "timestamp": "12:56:17",
+    "speaker": "Help Desk",
+    "message": "yes"
+  },
+  {
+    "timestamp": "12:57:19",
+    "speaker": "Help Desk",
+    "message": "Its not the same"
+  },
+  {
+    "timestamp": "13:03:43",
+    "speaker": "Help Desk",
+    "message": "You can use the same database Factiva."
+  },
+  {
+    "timestamp": "13:03:50",
+    "speaker": "Help Desk",
+    "message": "To access NYT"
+  },
+  {
+    "timestamp": "13:04:06",
+    "speaker": "Help Desk",
+    "message": "May I ask you when you ask about premium membership, what exactly do you mean"
+  },
+  {
+    "timestamp": "13:04:18",
+    "speaker": "Help Desk",
+    "message": "You mean to go on apps straightaway?"
+  },
+  {
+    "timestamp": "13:04:27",
+    "speaker": "Help Desk",
+    "message": "Most of the articles should be accessible"
+  },
+  {
+    "timestamp": "13:04:43",
+    "speaker": "Help Desk",
+    "message": "You need to access the databases from SMU website"
+  },
+  {
+    "timestamp": "13:04:56",
+    "speaker": "Help Desk",
+    "message": "Thank you and have a nice day."
+  }
+]

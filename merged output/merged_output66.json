@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "14:42:22",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_4, how can I help you?"
+  },
+  {
+    "timestamp": "14:43:18",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_5 chia : hi! i'm trying to access the article Regulating Small and Medium Charities: Does It Improve Transparency and Accountability? by Cordery, Carolyn. unfortunately the link is not working, could you help me please? thanks!"
+  },
+  {
+    "timestamp": "14:43:46",
+    "speaker": "Help Desk",
+    "message": "Please hold on while I do a check"
+  },
+  {
+    "timestamp": "14:44:56",
+    "speaker": "Help Desk",
+    "message": "Please try out think link and see if it is working for you:<a href=\"https://link-springer-com.libproxy.smu.edu.sg/article/10.1007/s11266-013-9381-6\" target=\"_blank\">https://link-springer-com.libproxy.smu.edu.sg/article/10.1007/s11266-013-9381-6</a>"
+  },
+  {
+    "timestamp": "14:45:24",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_5 chia : unfortunately its not working :("
+  },
+  {
+    "timestamp": "14:45:37",
+    "speaker": "Help Desk",
+    "message": "what is the error message you are encountering?"
+  },
+  {
+    "timestamp": "14:46:34",
+    "speaker": "Help Desk",
+    "message": "Perhaps you may want to try to clear cache and cookies first. If not you can also try accessing via Incognito mode"
+  },
+  {
+    "timestamp": "14:55:15",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_4, did trying to clear cache/cookies or using Incognito mode works for you?"
+  },
+  {
+    "timestamp": "14:56:41",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_5 chia : i can access it now! thank u so much for your help! :)"
+  },
+  {
+    "timestamp": "14:56:52",
+    "speaker": "Help Desk",
+    "message": "that's great!"
+  },
+  {
+    "timestamp": "14:57:12",
+    "speaker": "Help Desk",
+    "message": "feel free to contact us again if you need any help"
+  },
+  {
+    "timestamp": "14:57:23",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_5 chia : ok will do, thank you! have a good day!"
+  },
+  {
+    "timestamp": "14:57:33",
+    "speaker": "Help Desk",
+    "message": "u too! bye for now!"
+  }
+]

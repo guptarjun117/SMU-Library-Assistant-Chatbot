@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "14:04:15",
+    "speaker": "User",
+    "message_content": "Hi PERSON_LASTNAME_5, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_4. How may I help you today?"
+  },
+  {
+    "timestamp": "14:04:27",
+    "speaker": "User",
+    "message_content": "Sorry, I closed the previous chat by mistake"
+  },
+  {
+    "timestamp": "14:04:31",
+    "speaker": "User",
+    "message_content": "Could you provide me the link for my checking?"
+  },
+  {
+    "timestamp": "14:04:35",
+    "speaker": "User",
+    "message_content": "sure"
+  },
+  {
+    "timestamp": "14:05:52",
+    "speaker": "User",
+    "message_content": "I am trying to access: PERSON_FIRSTNAME_1 PERSON_LASTNAME_1, R. (2010). Managing for Stakeholders: Trade-offs or Value Creation. Journal of Business Ethics"
+  },
+  {
+    "timestamp": "14:06:38",
+    "speaker": "User",
+    "message_content": "safari"
+  },
+  {
+    "timestamp": "14:07:23",
+    "speaker": "User",
+    "message_content": "sure"
+  },
+  {
+    "timestamp": "14:09:00",
+    "speaker": "User",
+    "message_content": "That is all for now"
+  },
+  {
+    "timestamp": "14:09:05",
+    "speaker": "User",
+    "message_content": "thank you so much for your help"
+  },
+  {
+    "timestamp": "14:05:12",
+    "speaker": "Help Desk",
+    "message_content": "Please hold while I check. Thank you."
+  },
+  {
+    "timestamp": "14:06:32",
+    "speaker": "Help Desk",
+    "message_content": "I am able to access the full text. May I know which browser you are using?"
+  },
+  {
+    "timestamp": "14:06:56",
+    "speaker": "Help Desk",
+    "message_content": "Could you cut and paste the link into Safari's private mode and try?"
+  },
+  {
+    "timestamp": "14:08:02",
+    "speaker": "Help Desk",
+    "message_content": "Yes, you can either clear your cache or use private mode."
+  },
+  {
+    "timestamp": "14:08:47",
+    "speaker": "Help Desk",
+    "message_content": "Is there anything I may assist you with?"
+  },
+  {
+    "timestamp": "14:09:23",
+    "speaker": "Help Desk",
+    "message_content": "All the best in your study and happy researching/ Thank you for using our chat service."
+  }
+]

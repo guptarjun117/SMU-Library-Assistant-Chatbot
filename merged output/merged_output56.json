@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "12:00:03",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : hi"
+  },
+  {
+    "timestamp": "12:00:07",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : how may i assist ya?"
+  },
+  {
+    "timestamp": "12:00:24",
+    "speaker": "User",
+    "message": "lamont lan : hello, im looking for a book chapter but i cant seem to find it"
+  },
+  {
+    "timestamp": "12:00:30",
+    "speaker": "User",
+    "message": "lamont lan : Chapter\n\nAnalysis of Modeling Processes\nByAlbert PERSON_LASTNAME_1\nBook: Psychological Modeling"
+  },
+  {
+    "timestamp": "12:08:44",
+    "speaker": "User",
+    "message": "lamont lan : no its not, i just needed it for my assignment"
+  },
+  {
+    "timestamp": "12:08:51",
+    "speaker": "User",
+    "message": "lamont lan : to use as a source"
+  },
+  {
+    "timestamp": "12:09:04",
+    "speaker": "User",
+    "message": "lamont lan : becasue my current source is quite outdated"
+  },
+  {
+    "timestamp": "12:09:04",
+    "speaker": "User",
+    "message": "lamont lan : 2008"
+  },
+  {
+    "timestamp": "12:09:39",
+    "speaker": "User",
+    "message": "lamont lan : no worries"
+  },
+  {
+    "timestamp": "12:09:46",
+    "speaker": "User",
+    "message": "lamont lan : thanks for your help"
+  },
+  {
+    "timestamp": "12:00:44",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : ok give me a moment pls"
+  },
+  {
+    "timestamp": "12:03:10",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : i just checked, it seems that we do not have this book in our collection"
+  },
+  {
+    "timestamp": "12:06:52",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : is it part of your course reading?"
+  },
+  {
+    "timestamp": "12:09:32",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : i c"
+  },
+  {
+    "timestamp": "12:09:51",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : you probably need to find an alternative with what is available in our collection"
+  },
+  {
+    "timestamp": "12:10:07",
+    "speaker": "User",
+    "message": "lamont lan : okay thank you"
+  },
+  {
+    "timestamp": "12:10:14",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : do drop by again if you need further help"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "13:36:38",
+    "speaker": "Help Desk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "13:38:24",
+    "speaker": "Help Desk",
+    "message": "hello PERSON_FIRSTNAME_1, hope you are doing well too! SMU does not subscribe to Coursera, unfortunately"
+  },
+  {
+    "timestamp": "13:40:01",
+    "speaker": "Help Desk",
+    "message": "it depends on what you're looking for. What topic or skill are you interested in?"
+  },
+  {
+    "timestamp": "13:43:31",
+    "speaker": "Help Desk",
+    "message": "ah I see.. yes for python or R you can join our workshops (there's one upcoming for Python next Tuesday, online)."
+  },
+  {
+    "timestamp": "13:43:55",
+    "speaker": "Help Desk",
+    "message": "alternatively, I believe NLB patrons/members can get access to Udemy for Business for free. You can check for more info here:https://eresources.nlb.gov.sg/main/browse?browseBy=type&amp;filter=18"
+  },
+  {
+    "timestamp": "13:44:50",
+    "speaker": "Help Desk",
+    "message": "since Singaporeans and PRs can be NLB member for free, in that regard the access for Udemy is also free :D"
+  },
+  {
+    "timestamp": "13:49:20",
+    "speaker": "Help Desk",
+    "message": "if you're not SIngaporean or PR, then it is not available, unfortunately. But I think some courses in Udemy can be free"
+  },
+  {
+    "timestamp": "13:50:25",
+    "speaker": "Help Desk",
+    "message": "ah I just remembered a free resources"
+  },
+  {
+    "timestamp": "13:50:33",
+    "speaker": "Help Desk",
+    "message": "Udacity has quite a few free one:<a href=\"https://www.udacity.com/course/data-analysis-with-r--ud651\" target=\"_blank\">https://www.udacity.com/course/data-analysis-with-r--ud651</a>"
+  },
+  {
+    "timestamp": "13:51:34",
+    "speaker": "Help Desk",
+    "message": "you're welcome! hope that helps! :)"
+  },
+  {
+    "timestamp": "13:52:51",
+    "speaker": "Help Desk",
+    "message": "yes, if there's still a slot you can just come"
+  },
+  {
+    "timestamp": "13:53:05",
+    "speaker": "Help Desk",
+    "message": "I am signing up for that workshop too hahaha"
+  },
+  {
+    "timestamp": "13:54:02",
+    "speaker": "Help Desk",
+    "message": "oh I see.. hmm gimme a minute to check..."
+  },
+  {
+    "timestamp": "13:55:39",
+    "speaker": "Help Desk",
+    "message": "you can just come in later :D if there's still a space, can just sit in"
+  },
+  {
+    "timestamp": "13:36:52",
+    "speaker": "User",
+    "message": "Hi Ms. PERSON_FIRSTNAME_2! Hope you're doing well"
+  },
+  {
+    "timestamp": "13:37:09",
+    "speaker": "User",
+    "message": "I was just wondering whether or not SMU subscribes to Coursera?"
+  },
+  {
+    "timestamp": "13:39:27",
+    "speaker": "User",
+    "message": "Ah that's unfortunate. Is there any other course providing platforms (somewhat like Coursera) that I could look out for?"
+  },
+  {
+    "timestamp": "13:41:43",
+    "speaker": "User",
+    "message": "I'm interested in something related to business analytics. I was intending on doing a course on R studio! I understand that SMU is providing workshops on python so I'd probably take a look on that too"
+  },
+  {
+    "timestamp": "13:47:54",
+    "speaker": "User",
+    "message": "ah right! is it available for international students?"
+  },
+  {
+    "timestamp": "13:50:58",
+    "speaker": "User",
+    "message": "sure Ms. PERSON_FIRSTNAME_2! Thanks for the info."
+  },
+  {
+    "timestamp": "13:52:33",
+    "speaker": "User",
+    "message": "Oh and is it still possible to sign up for today's bite-sized library workshops? (Financial Data Analysis with R)"
+  },
+  {
+    "timestamp": "13:53:48",
+    "speaker": "User",
+    "message": "there's a slot but i think the registration link is not open"
+  },
+  {
+    "timestamp": "13:56:57",
+    "speaker": "User",
+    "message": "Sure2!! Thanks a lot Ms PERSON_FIRSTNAME_2!!"
+  }
+]

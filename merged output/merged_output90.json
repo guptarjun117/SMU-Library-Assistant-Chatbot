@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "17:11:27",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : hello PERSON_FIRSTNAME_3, can i check if this souce <a href=\"https://opentextbc.ca/writingforsuccessh5p/chapter/being-critical/#:~:text=The%20ideal%20in%20persuasive%20writing,reasonable%20address%20of%20opposing%20sides\" target=\"_blank\">https://opentextbc.ca/writingforsuccessh5p/chapter/being-critical/#:~:text=The%20ideal%20in%20persuasive%20writing,reasonable%20address%20of%20opposing%20sides</a>. is considered a book or journal?"
+  },
+  {
+    "timestamp": "17:11:35",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : it seems to be an online extraction from a textbook"
+  },
+  {
+    "timestamp": "17:11:45",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : im not sure how i should cite it as"
+  },
+  {
+    "timestamp": "17:11:48",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : thank you!"
+  },
+  {
+    "timestamp": "17:14:45",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : okay, so i can treat my ref as book with retrieval date?"
+  },
+  {
+    "timestamp": "17:17:00",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : thank you so much!"
+  },
+  {
+    "timestamp": "17:17:24",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : :D"
+  },
+  {
+    "timestamp": "17:17:29",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 Oh : thank you!"
+  },
+  {
+    "timestamp": "17:10:43",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Hello, how may I help you?"
+  },
+  {
+    "timestamp": "17:12:36",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : ah this is actually an online book, so you can cite it as such"
+  },
+  {
+    "timestamp": "17:13:43",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Be sure to include the retrieval date though, since the content may get updated in the future"
+  },
+  {
+    "timestamp": "17:15:20",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : yes, and do include the URL as well."
+  },
+  {
+    "timestamp": "17:16:32",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : so something like this: Retrieved January 7, 2020, from <a href=\"https://opentextbc.ca/writingforsuccessh5p/chapter/being-critical/\" target=\"_blank\">https://opentextbc.ca/writingforsuccessh5p/chapter/being-critical/</a><br />"
+  },
+  {
+    "timestamp": "17:17:13",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : to be more precise, this is an open educational resource :D"
+  },
+  {
+    "timestamp": "17:17:33",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : welcome!"
+  }
+]

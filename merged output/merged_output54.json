@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "11:28:23",
+    "speaker": "Help Desk",
+    "message": "Hi, this is PERSON_FIRSTNAME_1. How may I help you?"
+  },
+  {
+    "timestamp": "11:28:51",
+    "speaker": "User",
+    "message": "Hi, if I wish to cite statistics from a journal article, do i have to include a page number in the citation? (even if i didn't quote)"
+  },
+  {
+    "timestamp": "11:29:28",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_2 PERSON_LASTNAME_1, page number for in-text citation is only required when quotes are used."
+  },
+  {
+    "timestamp": "11:29:43",
+    "speaker": "User",
+    "message": "oh sorry, forgot to mention, the citation style is apa 7th edition"
+  },
+  {
+    "timestamp": "11:29:43",
+    "speaker": "Help Desk",
+    "message": "Hence if you did not quote, there is no need to have the page number."
+  },
+  {
+    "timestamp": "11:30:15",
+    "speaker": "Help Desk",
+    "message": "Yes, it is APA 7th edition."
+  },
+  {
+    "timestamp": "11:30:18",
+    "speaker": "User",
+    "message": "ok thank you!"
+  },
+  {
+    "timestamp": "11:30:29",
+    "speaker": "Help Desk",
+    "message": "No problem. is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "11:30:41",
+    "speaker": "User",
+    "message": "No, thank you!"
+  }
+]

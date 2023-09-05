@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "16:56:04",
+    "speaker": "User",
+    "message": "Hi there"
+  },
+  {
+    "timestamp": "16:56:08",
+    "speaker": "User",
+    "message": "How can I help you today?"
+  },
+  {
+    "timestamp": "16:57:54",
+    "speaker": "User",
+    "message": "Yes, I have looked through it but it does not answer my questions"
+  },
+  {
+    "timestamp": "16:58:09",
+    "speaker": "User",
+    "message": "My question relates to publishing for research staff"
+  },
+  {
+    "timestamp": "16:58:10",
+    "speaker": "User",
+    "message": "Some journals ask for the copyright for a paper to be published. Since I am research staff, I don't think I hold the copyright to what I produce as part of my employment, even though my job scope explicitly says that I must publish papers in journals"
+  },
+  {
+    "timestamp": "16:58:53",
+    "speaker": "User",
+    "message": "In my field, journals require the author to sign a publication agreement which may include a transfer of copyright unless a special agreement is made"
+  },
+  {
+    "timestamp": "16:59:12",
+    "speaker": "User",
+    "message": "My question is, what is the procedure for research staff with regards to these"
+  },
+  {
+    "timestamp": "17:00:31",
+    "speaker": "User",
+    "message": "Okay. My reading of the IP policy says that faculty retain their copyright. Students also retain their copyright if it is not made in the course of their employment"
+  },
+  {
+    "timestamp": "17:01:14",
+    "speaker": "User",
+    "message": "Research staff, however, do not seem to have the same exception as faculty"
+  },
+  {
+    "timestamp": "17:02:14",
+    "speaker": "User",
+    "message": "Yes please"
+  },
+  {
+    "timestamp": "17:04:00",
+    "speaker": "User",
+    "message": "Just for your information also, when my colleague asked OLGA, she was told that research staff are covered by the IP policy, which I assume means that we do not hold the copyright"
+  },
+  {
+    "timestamp": "17:04:45",
+    "speaker": "User",
+    "message": "Okay."
+  },
+  {
+    "timestamp": "17:08:18",
+    "speaker": "User",
+    "message": "Not at the moment. The copyright question is the only one I have"
+  },
+  {
+    "timestamp": "17:08:59",
+    "speaker": "User",
+    "message": "Thank you. You too"
+  },
+  {
+    "timestamp": "16:56:07",
+    "speaker": "Help Desk",
+    "message": "Hello"
+  },
+  {
+    "timestamp": "16:57:39",
+    "speaker": "Help Desk",
+    "message": "We have a research guide copyright advisory which you can refer to <a href=\"https://researchguides.smu.edu.sg/copyright\" target=\"_blank\">https://researchguides.smu.edu.sg/copyright</a>"
+  },
+  {
+    "timestamp": "16:59:19",
+    "speaker": "Help Desk",
+    "message": "You do own copyright of your own paper."
+  },
+  {
+    "timestamp": "16:59:30",
+    "speaker": "Help Desk",
+    "message": "Let me see what information I can find."
+  },
+  {
+    "timestamp": "17:01:24",
+    "speaker": "Help Desk",
+    "message": "I think researchers do hold the rights as faculty."
+  },
+  {
+    "timestamp": "17:02:08",
+    "speaker": "Help Desk",
+    "message": "I can pass your question to my colleague who is an expert in research and publishing."
+  },
+  {
+    "timestamp": "17:04:36",
+    "speaker": "Help Desk",
+    "message": "I just sent your question to my colleague. She will come back to you via email for clarification."
+  },
+  {
+    "timestamp": "17:07:46",
+    "speaker": "Help Desk",
+    "message": "Meanwhile any other questions?"
+  },
+  {
+    "timestamp": "17:08:06",
+    "speaker": "Help Desk",
+    "message": "My colleague will follow up with you on your copyright questions."
+  },
+  {
+    "timestamp": "17:08:35",
+    "speaker": "Help Desk",
+    "message": "Sure. Have a good afternoon."
+  }
+]

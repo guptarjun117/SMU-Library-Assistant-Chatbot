@@ -1,0 +1,179 @@
+{
+  "messages": [
+    {
+      "timestamp": "11:42:31",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Hello! Nice to meet you. I am currently doing my WR assignment and I am having some trouble with APA citation"
+    },
+    {
+      "timestamp": "11:42:40",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : May I know if I need to number my reference list please?"
+    },
+    {
+      "timestamp": "11:43:28",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : I have added this to my reference list: Poh, B. (2018, September 29). A Hyper-Competitive Culture Is Breeding Severe Test Anxiety among Many Students. But I am not sure if I have to number that source, then add a \"1\" subscript to my writing piece"
+    },
+    {
+      "timestamp": "11:44:20",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : Sure!"
+    },
+    {
+      "timestamp": "11:44:51",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : May I know if i need to write (Poh, 2018) in my text?"
+    },
+    {
+      "timestamp": "11:46:25",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : hm"
+    },
+    {
+      "timestamp": "11:46:33",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : im just taking a scan of the document you sent me"
+    },
+    {
+      "timestamp": "11:46:37",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : yea i see that they do in-text citation"
+    },
+    {
+      "timestamp": "11:46:55",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : so i have to do both in-text citation + a reference list?"
+    },
+    {
+      "timestamp": "11:47:29",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : oki"
+    },
+    {
+      "timestamp": "11:47:38",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : so i have to do both? :o"
+    },
+    {
+      "timestamp": "11:48:21",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : oki"
+    },
+    {
+      "timestamp": "11:48:24",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : thanks so mcuh veronica"
+    },
+    {
+      "timestamp": "11:48:27",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : i think thats all from me"
+    },
+    {
+      "timestamp": "11:48:29",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : have a great day!"
+    },
+    {
+      "timestamp": "11:48:32",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : :D"
+    },
+    {
+      "timestamp": "11:48:57",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : oh wait"
+    },
+    {
+      "timestamp": "11:48:59",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : sorry one last thing"
+    },
+    {
+      "timestamp": "11:49:00",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : HAHAH"
+    },
+    {
+      "timestamp": "11:49:06",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : must the font be different"
+    },
+    {
+      "timestamp": "11:49:25",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : for reference list and the actual text"
+    },
+    {
+      "timestamp": "11:49:51",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : bcos my text is in Arial, so should my reference list be in Times or can I change it to Arial as well?"
+    },
+    {
+      "timestamp": "11:50:09",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : oki"
+    },
+    {
+      "timestamp": "11:50:10",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : noted"
+    },
+    {
+      "timestamp": "11:50:11",
+      "speaker": "User",
+      "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1 : thanks :3"
+    },
+    {
+      "timestamp": "11:42:02",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Hi, this is PERSON_FIRSTNAME_1. How may I help you?"
+    },
+    {
+      "timestamp": "11:43:32",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Hi PERSON_LASTNAME_1, you do not number the reference list."
+    },
+    {
+      "timestamp": "11:44:13",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : A moment please, let me find the link to a sample."
+    },
+    {
+      "timestamp": "11:45:20",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : The above is a link to a sample paper. You can refer how the reference list is done."
+    },
+    {
+      "timestamp": "11:46:33",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : As for the your question on in-text, you do need to do in-text citation."
+    },
+    {
+      "timestamp": "11:47:17",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Let me give you the link to our APA citation guide for in-text referencing."
+    },
+    {
+      "timestamp": "11:48:17",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Yes, you will need to do both in-text citation as well as reference list."
+    },
+    {
+      "timestamp": "11:50:05",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Based on my understanding, the font used has to be consistent."
+    },
+    {
+      "timestamp": "11:50:50",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : Is there anything else I can help you with?"
+    },
+    {
+      "timestamp": "11:55:45",
+      "speaker": "Help desk",
+      "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_2 : I'm closing this chat due to inactivity, do contact us again if you need any further assistance."
+    }
+  ]
+}

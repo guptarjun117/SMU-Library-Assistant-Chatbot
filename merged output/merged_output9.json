@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "timestamp": "18:05:20",
+      "speaker": "User",
+      "message": "Hello"
+    },
+    {
+      "timestamp": "18:05:24",
+      "speaker": "User",
+      "message": "How"
+    },
+    {
+      "timestamp": "18:05:43",
+      "speaker": "User",
+      "message": "HOW I CAN HAVE THE PDF FOR READING, PLEASE?"
+    },
+    {
+      "timestamp": "18:07:29",
+      "speaker": "User",
+      "message": "It is a book called The analytics edge, 1st edition"
+    },
+    {
+      "timestamp": "18:07:43",
+      "speaker": "User",
+      "message": "BOOK The analytics edge PERSON_FIRSTNAME_3, PERSON_LASTNAME_2, author.; O PERSON_LASTNAME_6, PERSON_FIRSTNAME_2 K., author.; PERSON_LASTNAME_7, PERSON_FIRSTNAME_1 R., author.; 2016"
+    },
+    {
+      "timestamp": "18:08:21",
+      "speaker": "User",
+      "message": "it is available but I request"
+    },
+    {
+      "timestamp": "18:08:26",
+      "speaker": "User",
+      "message": "for"
+    },
+    {
+      "timestamp": "18:08:38",
+      "speaker": "User",
+      "message": "for a online PDF"
+    },
+    {
+      "timestamp": "18:11:00",
+      "speaker": "User",
+      "message": "Ok"
+    },
+    {
+      "timestamp": "18:11:15",
+      "speaker": "User",
+      "message": "Thank you for helping."
+    },
+    {
+      "timestamp": "18:11:45",
+      "speaker": "User",
+      "message": "You too"
+    },
+    {
+      "timestamp": "18:05:19",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "18:06:54",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_LASTNAME_4, can you specify which particular PDF you are referring too? Is it for a particular book or article?"
+    },
+    {
+      "timestamp": "18:10:01",
+      "speaker": "Help Desk",
+      "message": "Thanks for the title and the details. I've had a look, and I'm afraid that there is no e-copy available for this book."
+    },
+    {
+      "timestamp": "18:10:12",
+      "speaker": "Help Desk",
+      "message": "We only have the physical copies"
+    },
+    {
+      "timestamp": "18:11:32",
+      "speaker": "Help Desk",
+      "message": "You're welcome! Have a good evening ahead."
+    }
+  ]
+}

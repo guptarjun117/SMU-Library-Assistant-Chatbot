@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "16:48:42",
+        "speaker": "helpdesk",
+        "message": "Hello, how may I help you?"
+    },
+    {
+        "timestamp": "16:49:56",
+        "speaker": "helpdesk",
+        "message": "Hi PERSON_FIRSTNAME_2, is this for WR?"
+    },
+    {
+        "timestamp": "16:51:05",
+        "speaker": "helpdesk",
+        "message": "if the date is not available, you can use n.d. , refer to the egs for website format here:<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441</a>"
+    },
+    {
+        "timestamp": "16:51:19",
+        "speaker": "helpdesk",
+        "message": "Okay thank you"
+    },
+    {
+        "timestamp": "16:49:18",
+        "speaker": "user",
+        "message": "Hi ma'am I'm currently writing my A1, when going to cite a website, there is no date of when the article was published, do I cite as per normal but without the date?"
+    },
+    {
+        "timestamp": "16:50:08",
+        "speaker": "user",
+        "message": "Yup"
+    }
+]

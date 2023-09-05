@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "12:27:30",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : Hi PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "12:27:35",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : Can you help me to find something?"
+  },
+  {
+    "timestamp": "12:27:41",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : G PERSON_LASTNAME_2, Formalities for the Disposition of Equitable Interests Under Trust [1979] Conv 17"
+  },
+  {
+    "timestamp": "12:42:38",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : yes"
+  },
+  {
+    "timestamp": "12:42:44",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : it is a law article"
+  },
+  {
+    "timestamp": "12:42:46",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : oh man"
+  },
+  {
+    "timestamp": "12:42:48",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : okay no worries"
+  },
+  {
+    "timestamp": "12:43:30",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : oh"
+  },
+  {
+    "timestamp": "12:43:32",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : okay then"
+  },
+  {
+    "timestamp": "12:43:40",
+    "speaker": "User",
+    "message": "PERSON_LASTNAME_1 : thanks"
+  },
+  {
+    "timestamp": "12:27:28",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Good day! This is PERSON_FIRSTNAME_1, how can I help you?"
+  },
+  {
+    "timestamp": "12:28:13",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Is this a law article?"
+  },
+  {
+    "timestamp": "12:42:26",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Hello PERSON_LASTNAME_1, are you still there?"
+  },
+  {
+    "timestamp": "12:42:39",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : I am unable to find e-copy for you"
+  },
+  {
+    "timestamp": "12:43:09",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Our e-copy coverage is from 1986 but your article is from 1979"
+  },
+  {
+    "timestamp": "12:43:14",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : We do have physical copy"
+  },
+  {
+    "timestamp": "12:43:16",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : [Provided link]"
+  },
+  {
+    "timestamp": "12:43:27",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : You can borrow the physical book from KGC Law Library"
+  },
+  {
+    "timestamp": "12:43:37",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : I hope it helps"
+  },
+  {
+    "timestamp": "12:43:43",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Is there anything else that I can assist you before I close this chat?"
+  },
+  {
+    "timestamp": "12:44:22",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : If not, I will close this chat now. Bye and have a great day."
+  }
+]

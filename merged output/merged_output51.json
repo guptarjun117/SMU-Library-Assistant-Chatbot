@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "15:59:29",
+    "speaker": "helpdesk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "16:01:17",
+    "speaker": "helpdesk",
+    "message": "Hi PERSON_LASTNAME_2, is this for WR? I can help if it's a quick query, but if I find that you may need more time for citation help beyond what is possible on chat, I may refer you to your matched librarian :)"
+  },
+  {
+    "timestamp": "16:02:04",
+    "speaker": "user",
+    "message": "It is! It's just a quick one, I just wanted to know if I've written it down correctly!"
+  },
+  {
+    "timestamp": "16:02:38",
+    "speaker": "helpdesk",
+    "message": "sure!"
+  },
+  {
+    "timestamp": "16:03:08",
+    "speaker": "user",
+    "message": "I'll just copy it into this chat? Hopefully, it'll still retain the format I've used."
+  },
+  {
+    "timestamp": "16:03:15",
+    "speaker": "user",
+    "message": "Al Jazeera. (2022, March 31). Sri Lanka Crisis Forces 13-hour blackouts, hospitals stop surgery. Health News | Al Jazeera. Retrieved January 27, 2023, from <a href=\"https://www.aljazeera.com/news/2022/3/31/sri-lanka-crisis-forces-13-hour-blackouts-hospitals-stop-surgery\" target=\"_blank\">https://www.aljazeera.com/news/2022/3/31/sri-lanka-crisis-forces-13-hour-blackouts-hospitals-stop-surgery</a>"
+  },
+  {
+    "timestamp": "16:03:32",
+    "speaker": "user",
+    "message": "This was from the website!"
+  },
+  {
+    "timestamp": "16:04:51",
+    "speaker": "user",
+    "message": "attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106094&amp;preview=true\" target=\"_blank\" class=\"s-la-cfile\" data-preview=\"inline\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106094&amp;preview=true</a>"
+  },
+  {
+    "timestamp": "16:05:06",
+    "speaker": "user",
+    "message": "Here's the screenshot for easier reference :)"
+  },
+  {
+    "timestamp": "16:05:33",
+    "speaker": "helpdesk",
+    "message": "Thanks!"
+  },
+  {
+    "timestamp": "16:05:58",
+    "speaker": "helpdesk",
+    "message": "Looks good"
+  },
+  {
+    "timestamp": "16:06:01",
+    "speaker": "helpdesk",
+    "message": "Author, A. A. (YYYY, Month dd).<em>Title</em>. Site name. URL"
+  },
+  {
+    "timestamp": "16:06:12",
+    "speaker": "helpdesk",
+    "message": "Except you don't need the date retrieved"
+  },
+  {
+    "timestamp": "16:06:39",
+    "speaker": "helpdesk",
+    "message": "Yes! After the Al Jazeera, you can go straight to the URL"
+  },
+  {
+    "timestamp": "16:07:28",
+    "speaker": "helpdesk",
+    "message": "No need the 'from'"
+  },
+  {
+    "timestamp": "16:07:53",
+    "speaker": "user",
+    "message": "Okay, understood!"
+  },
+  {
+    "timestamp": "16:08:05",
+    "speaker": "user",
+    "message": "Thank you so much, I just wanted to get this clarified!"
+  },
+  {
+    "timestamp": "16:08:31",
+    "speaker": "helpdesk",
+    "message": "You're welcome! All the best for your paper :)"
+  },
+  {
+    "timestamp": "16:08:37",
+    "speaker": "user",
+    "message": "Thank you!"
+  }
+]
