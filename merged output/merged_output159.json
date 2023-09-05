@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "timestamp": "18:01:31",
+      "speaker": "User",
+      "message": "Hi there."
+    },
+    {
+      "timestamp": "18:01:40",
+      "speaker": "User",
+      "message": "How can I help you today?"
+    },
+    {
+      "timestamp": "18:02:30",
+      "speaker": "User",
+      "message": "Understanding employee engagement: theory, research and practice by PERSON_FIRSTNAME_1"
+    },
+    {
+      "timestamp": "18:02:36",
+      "speaker": "User",
+      "message": "I can access this through library but I get a message asking me for access rights through university. SMU is not listed."
+    },
+    {
+      "timestamp": "18:03:06",
+      "speaker": "User",
+      "message": "This is the O'Reilly safari for higher education"
+    },
+    {
+      "timestamp": "18:03:54",
+      "speaker": "User",
+      "message": "The reference I want is 2015"
+    },
+    {
+      "timestamp": "18:04:22",
+      "speaker": "User",
+      "message": "Can I still get access?"
+    },
+    {
+      "timestamp": "18:04:42",
+      "speaker": "User",
+      "message": "let me try"
+    },
+    {
+      "timestamp": "18:05:01",
+      "speaker": "User",
+      "message": "Ok. Thank you."
+    },
+    {
+      "timestamp": "18:05:21",
+      "speaker": "User",
+      "message": "2015 version has book on proquest e book"
+    },
+    {
+      "timestamp": "18:05:26",
+      "speaker": "User",
+      "message": "Thanks again"
+    },
+    {
+      "timestamp": "18:05:51",
+      "speaker": "User",
+      "message": "Thought I had to somehow access it using normal email"
+    },
+    {
+      "timestamp": "18:06:01",
+      "speaker": "User",
+      "message": "Good evening to you"
+    },
+    {
+      "timestamp": "18:03:58",
+      "speaker": "Help Desk",
+      "message": "Once you are on O'Reilly you need to choose not listed in the institution list."
+    },
+    {
+      "timestamp": "18:04:06",
+      "speaker": "Help Desk",
+      "message": "SMU is not listed there."
+    },
+    {
+      "timestamp": "18:04:29",
+      "speaker": "Help Desk",
+      "message": "After choosing not listed you can just enter your smu email address."
+    },
+    {
+      "timestamp": "18:04:38",
+      "speaker": "Help Desk",
+      "message": "Yes you can still access the book even smu is not listed there."
+    },
+    {
+      "timestamp": "18:05:10",
+      "speaker": "Help Desk",
+      "message": "No worries."
+    },
+    {
+      "timestamp": "18:05:57",
+      "speaker": "Help Desk",
+      "message": "That one should be easier. you don't need to go through O'Reilly."
+    }
+  ]
+}

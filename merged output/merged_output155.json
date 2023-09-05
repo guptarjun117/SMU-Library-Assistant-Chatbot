@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "15:34:09",
+    "speaker": "User",
+    "message": "Hi PERSON_FIRSTNAME_2"
+  },
+  {
+    "timestamp": "15:34:46",
+    "speaker": "User",
+    "message": "yes am looking for a journal article and the site seems not to be responding with libkey stuck"
+  },
+  {
+    "timestamp": "15:35:36",
+    "speaker": "User",
+    "message": "The Employee Engagement landscape and HRD: How do we link theory and scholarship to current practice? PERSON_LASTNAME_5 and PERSON_LASTNAME_6"
+  },
+  {
+    "timestamp": "15:36:18",
+    "speaker": "User",
+    "message": "I find it in the library but unable to download the pdf or to click on the available online or the title."
+  },
+  {
+    "timestamp": "15:44:20",
+    "speaker": "User",
+    "message": "I deleted the information I obtained and tried again."
+  },
+  {
+    "timestamp": "15:44:50",
+    "speaker": "User",
+    "message": "temporary freeze"
+  },
+  {
+    "timestamp": "15:45:54",
+    "speaker": "User",
+    "message": "The link does not work so let me check the one that I got"
+  },
+  {
+    "timestamp": "15:46:59",
+    "speaker": "User",
+    "message": "OK./ It works. Thank you"
+  },
+  {
+    "timestamp": "15:47:30",
+    "speaker": "User",
+    "message": "Have a good day"
+  },
+  {
+    "timestamp": "15:34:13",
+    "speaker": "Help Desk",
+    "message": "This is PERSON_FIRSTNAME_3. How may I help?"
+  },
+  {
+    "timestamp": "15:35:08",
+    "speaker": "Help Desk",
+    "message": "Can you share the link to the article?"
+  },
+  {
+    "timestamp": "15:36:32",
+    "speaker": "Help Desk",
+    "message": "Just a moment please. Let me look into this."
+  },
+  {
+    "timestamp": "15:37:47",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_2, are you referring to this article:<a href=\"https://journals-sagepub-com.libproxy.smu.edu.sg/doi/epub/10.1177/1523422311431153\" target=\"_blank\">https://journals-sagepub-com.libproxy.smu.edu.sg/doi/epub/10.1177/1523422311431153</a>"
+  },
+  {
+    "timestamp": "15:43:27",
+    "speaker": "Help Desk",
+    "message": "The article took a while to load."
+  },
+  {
+    "timestamp": "15:43:44",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_2, may I know if you are there?"
+  },
+  {
+    "timestamp": "15:44:34",
+    "speaker": "Help Desk",
+    "message": "Great. :)"
+  },
+  {
+    "timestamp": "15:44:50",
+    "speaker": "Help Desk",
+    "message": "I have also included the link to the article."
+  },
+  {
+    "timestamp": "15:45:30",
+    "speaker": "Help Desk",
+    "message": "Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "15:47:06",
+    "speaker": "Help Desk",
+    "message": "No problem at all."
+  },
+  {
+    "timestamp": "15:47:35",
+    "speaker": "Help Desk",
+    "message": "You too!"
+  }
+]

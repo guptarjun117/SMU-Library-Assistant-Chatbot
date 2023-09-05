@@ -1,0 +1,127 @@
+[
+    {
+        "timestamp": "15:30:50",
+        "speaker": "Help Desk",
+        "message": "hi there, how can i help?"
+    },
+    {
+        "timestamp": "15:30:58",
+        "speaker": "User",
+        "message": "Hi,"
+    },
+    {
+        "timestamp": "15:31:15",
+        "speaker": "User",
+        "message": "I'm looking for market size data and I'm wondering if there are databases you'd recommend?"
+    },
+    {
+        "timestamp": "15:31:21",
+        "speaker": "User",
+        "message": "I tried looking at euromonitor but"
+    },
+    {
+        "timestamp": "15:31:26",
+        "speaker": "User",
+        "message": "it didn't have the data i need"
+    },
+    {
+        "timestamp": "15:31:38",
+        "speaker": "User",
+        "message": "specifically i'm looking for diabetes food market data"
+    },
+    {
+        "timestamp": "15:33:10",
+        "speaker": "Help Desk",
+        "message": "This is quite a niche area. Could you hold on a sec?"
+    },
+    {
+        "timestamp": "15:33:22",
+        "speaker": "User",
+        "message": "yep of course, appreciate your help"
+    },
+    {
+        "timestamp": "15:35:01",
+        "speaker": "Help Desk",
+        "message": "try the EMIS database"
+    },
+    {
+        "timestamp": "15:36:05",
+        "speaker": "Help Desk",
+        "message": "but these are more general fact sheets"
+    },
+    {
+        "timestamp": "15:36:13",
+        "speaker": "Help Desk",
+        "message": "not much data within"
+    },
+    {
+        "timestamp": "15:36:51",
+        "speaker": "User",
+        "message": "oo thank you, i'll take a look"
+    },
+    {
+        "timestamp": "15:36:58",
+        "speaker": "User",
+        "message": "any chance there are other databases?"
+    },
+    {
+        "timestamp": "15:37:30",
+        "speaker": "Help Desk",
+        "message": "give me a moment, let me see if there's anything else"
+    },
+    {
+        "timestamp": "15:37:41",
+        "speaker": "User",
+        "message": "thank you so so much"
+    },
+    {
+        "timestamp": "15:40:42",
+        "speaker": "Help Desk",
+        "message": "Statista has some information"
+    },
+    {
+        "timestamp": "15:40:44",
+        "speaker": "Help Desk",
+        "message": "<a href=\"https://www-statista-com.libproxy.smu.edu.sg/search/?q=diabetic+food+market&amp;qKat=search&amp;newSearch=true\" target=\"_blank\">https://www-statista-com.libproxy.smu.edu.sg/search/?q=diabetic+food+market&amp;qKat=search&amp;newSearch=true</a>"
+    },
+    {
+        "timestamp": "15:40:50",
+        "speaker": "Help Desk",
+        "message": "not very updated though"
+    },
+    {
+        "timestamp": "15:42:15",
+        "speaker": "User",
+        "message": "thank you for this! i'll try to take a look at them both"
+    },
+    {
+        "timestamp": "15:42:29",
+        "speaker": "Help Desk",
+        "message": "sure, you can also search in Proquest"
+    },
+    {
+        "timestamp": "15:42:57",
+        "speaker": "Help Desk",
+        "message": "you will find \"mini\" wire reports within as well. it wont give you much details but will have some key numbs within"
+    },
+    {
+        "timestamp": "15:43:00",
+        "speaker": "Help Desk",
+        "message": "numbers"
+    },
+    {
+        "timestamp": "15:43:21",
+        "speaker": "Help Desk",
+        "message": "Global diabetic food market was valued at USD 7,418.6 million in 2013 and expected to reach USD 11,098.0 million by 2020, growing at a CAGR 5.9% over the forecast period."
+    },
+    {
+        "timestamp": "15:44:04",
+        "speaker": "User",
+        "message": "thank you :) &amp; have a good day!"
+    },
+    {
+        "timestamp": "15:44:11",
+        "speaker": "Help Desk",
+        "message": "no problem , take care"
+    }
+]

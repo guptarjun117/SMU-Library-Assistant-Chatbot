@@ -1,0 +1,84 @@
+{
+  "conversations": [
+    {
+      "timestamp": "10:08:17",
+      "speaker": "User",
+      "message": "Hi PERSON_LASTNAME_1!"
+    },
+    {
+      "timestamp": "10:08:19",
+      "speaker": "User",
+      "message": "Hi"
+    },
+    {
+      "timestamp": "10:08:33",
+      "speaker": "User",
+      "message": "I want to book a WIND terminal"
+    },
+    {
+      "timestamp": "10:08:38",
+      "speaker": "User",
+      "message": "but don't know how"
+    },
+    {
+      "timestamp": "10:09:39",
+      "speaker": "User",
+      "message": "I've made a virtual booking on VT03"
+    },
+    {
+      "timestamp": "10:10:24",
+      "speaker": "User",
+      "message": "Do I need to go the the investment studio to use the terminal?"
+    },
+    {
+      "timestamp": "10:12:01",
+      "speaker": "User",
+      "message": "I need to download Wind first?"
+    },
+    {
+      "timestamp": "10:14:05",
+      "speaker": "User",
+      "message": "I see now. Thanks"
+    },
+    {
+      "timestamp": "10:08:20",
+      "speaker": "Help Desk",
+      "message": "This is PERSON_LASTNAME_2 from SMU Libraries. How may I help you?"
+    },
+    {
+      "timestamp": "10:09:39",
+      "speaker": "Help Desk",
+      "message": "Here are some instructions for you:<a href=\"https://researchguides.smu.edu.sg/az.php?q=wind&amp;p=1\" target=\"_blank\">https://researchguides.smu.edu.sg/az.php?q=wind&amp;p=1</a>"
+    },
+    {
+      "timestamp": "10:10:18",
+      "speaker": "Help Desk",
+      "message": "I see, if you're going to access it remotely, here's a guide for your reference:<a href=\"https://researchguides.smu.edu.sg/ld.php?content_id=50458228\" target=\"_blank\">https://researchguides.smu.edu.sg/ld.php?content_id=50458228</a>"
+    },
+    {
+      "timestamp": "10:10:52",
+      "speaker": "Help Desk",
+      "message": "If accessing remotely through the virtual terminal, you don't need to go down to the Investment Studio."
+    },
+    {
+      "timestamp": "10:12:38",
+      "speaker": "Help Desk",
+      "message": "Nope, please read page 6 of this guide just sent to you<a href=\"https://researchguides.smu.edu.sg/ld.php?content_id=50458228\" target=\"_blank\">https://researchguides.smu.edu.sg/ld.php?content_id=50458228</a>"
+    },
+    {
+      "timestamp": "10:14:12",
+      "speaker": "Help Desk",
+      "message": "You're welcome!"
+    },
+    {
+      "timestamp": "10:15:59",
+      "speaker": "Help Desk",
+      "message": "Is there anything else I could help you here, PERSON_LASTNAME_1?"
+    },
+    {
+      "timestamp": "10:20:28",
+      "speaker": "Help Desk",
+      "message": "Thank you for using the library chat service. Due to inactivity on your end, I will close the conversation soon. If you need any further assistance, please feel free to use the chat service again or email library@smu.edu.sg. Have a good day!"
+    }
+  ]
+}

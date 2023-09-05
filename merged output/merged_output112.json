@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "17:07:19",
+    "speaker": "User",
+    "message_content": "Hi Good Afternoon"
+  },
+  {
+    "timestamp": "17:07:38",
+    "speaker": "User",
+    "message_content": "hi PERSON_FIRSTNAME_1, please assist to access this article \"Marginal MAP estimation using Markov chain Monte Carlo\"."
+  },
+  {
+    "timestamp": "17:07:41",
+    "speaker": "User",
+    "message_content": "<a href=\"https://search.library.smu.edu.sg/discovery/search?query=any,contains,Marginal%20MAP%20estimation%20using%20Markov%20chain%20Monte%20Carlo&amp;tab=Everything&amp;search_scope=Everything&amp;vid=65SMU_INST:SMU_NUI\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/search?query=any,contains,Marginal%20MAP%20estimation%20using%20Markov%20chain%20Monte%20Carlo&amp;tab=Everything&amp;search_scope=Everything&amp;vid=65SMU_INST:SMU_NUI</a>"
+  },
+  {
+    "timestamp": "17:07:55",
+    "speaker": "User",
+    "message_content": "Sure, Let me check"
+  },
+  {
+    "timestamp": "17:08:09",
+    "speaker": "User",
+    "message_content": "thank you!"
+  },
+  {
+    "timestamp": "17:15:29",
+    "speaker": "User",
+    "message_content": "Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106684\" class=\"s-la-cfile\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106684</a>"
+  },
+  {
+    "timestamp": "17:16:07",
+    "speaker": "User",
+    "message_content": "Found the article. Is this the article you are looking for?"
+  },
+  {
+    "timestamp": "17:16:44",
+    "speaker": "User",
+    "message_content": "The link you have sent has some login issue. I will update my colleague regarding this"
+  },
+  {
+    "timestamp": "17:17:11",
+    "speaker": "User",
+    "message_content": "No problem, you are welcome :)"
+  },
+  {
+    "timestamp": "17:17:32",
+    "speaker": "User",
+    "message_content": "Have a great weekend too"
+  },
+  {
+    "timestamp": "17:07:38",
+    "speaker": "Help Desk",
+    "message_content": "hi PERSON_FIRSTNAME_1, please assist to access this article \"Marginal MAP estimation using Markov chain Monte Carlo\"."
+  },
+  {
+    "timestamp": "17:08:08",
+    "speaker": "Help Desk",
+    "message_content": "there are several links\n- the first indicated no such file\n- the others require additional login?"
+  },
+  {
+    "timestamp": "17:16:54",
+    "speaker": "Help Desk",
+    "message_content": "yes it is(: thank you very much PERSON_FIRSTNAME_1!"
+  }
+]

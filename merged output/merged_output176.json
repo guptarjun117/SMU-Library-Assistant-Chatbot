@@ -1,0 +1,52 @@
+[
+   {
+      "timestamp": "User",
+      "speaker": "[name3]",
+      "message": "Hello, how do I access this <a href=\"https://www.proquest.com/docview/2118623411?pq-origsite=primo\" target=\"_blank\">https://www.proquest.com/docview/2118623411?pq-origsite=primo</a> ? its on the emu library website but I can't see the article"
+   },
+   {
+      "timestamp": "User",
+      "speaker": "[name3]",
+      "message": "SMU library*"
+   },
+   {
+      "timestamp": "User",
+      "speaker": "[name3]",
+      "message": "okay, thanks!"
+   },
+   {
+      "timestamp": "User",
+      "speaker": "[name3]",
+      "message": "yup it works, thank you :D"
+   },
+   {
+      "timestamp": "User",
+      "speaker": "[name3]",
+      "message": "have a great day!!!!"
+   },
+   {
+      "timestamp": "Help Desk",
+      "speaker": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1",
+      "message": "Hello, how may I help you?"
+   },
+   {
+      "timestamp": "Help Desk",
+      "speaker": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1",
+      "message": "Hi PERSON_FIRSTNAME_1, thanks for the link. Let me take a quick look"
+   },
+   {
+      "timestamp": "Help Desk",
+      "speaker": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1",
+      "message": "We should have access to this, but for some reason the link is not working. Do give me a few minutes to try to see if we can get it another way"
+   },
+   {
+      "timestamp": "Help Desk",
+      "speaker": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1",
+      "message": "Ok got it! Can you try if this link works:<a href=\"https://www.proquest.com/docview/2132137113/BCA4B4FCF9A4329PQ/1?accountid=28662\" target=\"_blank\">https://www.proquest.com/docview/2132137113/BCA4B4FCF9A4329PQ/1?accountid=28662</a>"
+   },
+   {
+      "timestamp": "Help Desk",
+      "speaker": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_1",
+      "message": "You too PERSON_FIRSTNAME_1! :D"
+   }
+]

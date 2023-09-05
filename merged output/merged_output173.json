@@ -1,0 +1,79 @@
+{
+  "messages": [
+    {
+      "timestamp": "17:31:44",
+      "speaker": "User",
+      "content": "Hi there!"
+    },
+    {
+      "timestamp": "17:32:04",
+      "speaker": "User",
+      "content": "Just wondering whether SMU subscribes to any massive open online courses"
+    },
+    {
+      "timestamp": "17:32:11",
+      "speaker": "User",
+      "content": "?"
+    },
+    {
+      "timestamp": "17:34:22",
+      "speaker": "User",
+      "content": "ah okay, thats very helpful!"
+    },
+    {
+      "timestamp": "17:34:25",
+      "speaker": "User",
+      "content": "thankyou so much"
+    },
+    {
+      "timestamp": "17:34:46",
+      "speaker": "User",
+      "content": "thats all so far"
+    },
+    {
+      "timestamp": "17:34:48",
+      "speaker": "User",
+      "content": "thanks!!"
+    },
+    {
+      "timestamp": "17:36:13",
+      "speaker": "User",
+      "content": "u too!"
+    },
+    {
+      "timestamp": "17:31:40",
+      "speaker": "Help Desk",
+      "content": "hi how can i help ya"
+    },
+    {
+      "timestamp": "17:33:04",
+      "speaker": "Help Desk",
+      "content": "give me a moment ya"
+    },
+    {
+      "timestamp": "17:33:32",
+      "speaker": "Help Desk",
+      "content": "we have linkedin learning"
+    },
+    {
+      "timestamp": "17:33:50",
+      "speaker": "Help Desk",
+      "content": "and some learning objects from Cloudsource OA"
+    },
+    {
+      "timestamp": "17:33:51",
+      "speaker": "Help Desk",
+      "content": "<a href=\"https://researchguides.smu.edu.sg/az.php?q=learning&amp;p=1\">A-Z Databases: learning (smu.edu.sg)</a>"
+    },
+    {
+      "timestamp": "17:34:39",
+      "speaker": "Help Desk",
+      "content": "is there anything else i can assist ya?"
+    },
+    {
+      "timestamp": "17:34:54",
+      "speaker": "Help Desk",
+      "content": "have a good evening then"
+    }
+  ]
+}

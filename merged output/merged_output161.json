@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "18:26:17",
+    "speaker": "helpdesk",
+    "message": "Hi there"
+  },
+  {
+    "timestamp": "18:26:51",
+    "speaker": "user",
+    "message": "Hello! I can't access this article <a href=\"https://doi.org/10.1162/JCWS_a_00598\" target=\"_blank\">https://doi.org/10.1162/JCWS_a_00598</a>\nI've tried both deleting my cache and using incognito mode"
+  },
+  {
+    "timestamp": "18:27:34",
+    "speaker": "user",
+    "message": "can you try this link<a href=\"https://web-s-ebscohost-com.libproxy.smu.edu.sg/ehost/pdfviewer/pdfviewer?vid=0&amp;sid=17bdc308-1dfd-4ea0-8fce-4fc8640b1355%40redis\" target=\"_blank\">https://web-s-ebscohost-com.libproxy.smu.edu.sg/ehost/pdfviewer/pdfviewer?vid=0&amp;sid=17bdc308-1dfd-4ea0-8fce-4fc8640b1355%40redis</a>"
+  },
+  {
+    "timestamp": "18:28:57",
+    "speaker": "user",
+    "message": "Oh wait! I reloaded and it works now:)"
+  },
+  {
+    "timestamp": "18:29:14",
+    "speaker": "user",
+    "message": "Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107156\" class=\"s-la-cfile\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107156</a>"
+  },
+  {
+    "timestamp": "18:29:35",
+    "speaker": "helpdesk",
+    "message": "Oh thank you so much:))"
+  },
+  {
+    "timestamp": "18:29:45",
+    "speaker": "user",
+    "message": "No worries."
+  }
+]

@@ -1,0 +1,91 @@
+Here is the result in JSON format:
+
+```json
+[
+    {
+        "timestamp": "12:52:49",
+        "speaker": "User",
+        "message": "[name13] lee : hi"
+    },
+    {
+        "timestamp": "12:52:55",
+        "speaker": "User",
+        "message": "[name13] lee : i need some help with some citation issues"
+    },
+    {
+        "timestamp": "12:53:57",
+        "speaker": "User",
+        "message": "[name13] lee : <a href=\"https://www.cbo.gov/publication/58533\" target=\"_blank\">https://www.cbo.gov/publication/58533</a>\n<a href=\"https://www.weforum.org/agenda/2021/12/global-income-inequality-gap-report-rich-poor/#:~:text=High%2Dincome%20countries%20can%20be,has%20increased%20within%20most%20countries\" target=\"_blank\">https://www.weforum.org/agenda/2021/12/global-income-inequality-gap-report-rich-poor/#:~:text=High%2Dincome%20countries%20can%20be,has%20increased%20within%20most%20countries</a>.\n<a href=\"https://wts.indiana.edu/writing-guides/using-evidence.html\" target=\"_blank\">https://wts.indiana.edu/writing-guides/using-evidence.html</a>"
+    },
+    {
+        "timestamp": "12:54:05",
+        "speaker": "User",
+        "message": "[name13] lee : these 3 links"
+    },
+    {
+        "timestamp": "12:55:49",
+        "speaker": "User",
+        "message": "[name13] lee : ok"
+    },
+    {
+        "timestamp": "12:56:21",
+        "speaker": "User",
+        "message": "[name13] lee : so can i confirm"
+    },
+    {
+        "timestamp": "12:52:51",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hi, this is PERSON_FIRSTNAME_2. How may I help you?"
+    },
+    {
+        "timestamp": "12:53:27",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Yes, please"
+    },
+    {
+        "timestamp": "12:54:50",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : The first link is a website:<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627441</a>"
+    },
+    {
+        "timestamp": "12:55:20",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : The second link is also a website"
+    },
+    {
+        "timestamp": "12:55:34",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : so is the third"
+    },
+    {
+        "timestamp": "12:55:55",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : <p><strong>General website</strong>(e.g. About page)</p><p>Format: Author, PERSON_LASTNAME_1. PERSON_LASTNAME_1. (YYYY, Month dd).<em>Title</em>. Site Name. URL</p><p></p><p>Ministry of Transport. (n.d.).<em>Mission, vision &amp; values</em>.<a href=\"https://www.mot.gov.sg/about-mot/corporate-profile/mission-vision-values\"><a href=\"https://www.mot.gov.sg/about-mot/corporate-profile/mission-vision-values\" target=\"_blank\">https://www.mot.gov.sg/about-mot/corporate-profile/mission-vision-values</a></a></p><p>In-text: (Ministry of Transport, n.d.).</p>"
+    },
+    {
+        "timestamp": "12:56:24",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Do you think you are confident now? Or do you have specific questions?"
+    },
+    {
+        "timestamp": "12:57:56",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Its Congressional Budget Office"
+    },
+    {
+        "timestamp": "12:58:12",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Best to cite in full"
+    },
+    {
+        "timestamp": "12:58:22",
+        "speaker": "Help Desk",
+        "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Do you have other questions?"
+    },
+    {
+        "timestamp": "12:58:35",
+        "speaker": "User",
+        "message": "[name13] lee : for now no, thank you!"
+    }
+]
+```

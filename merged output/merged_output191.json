@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "timestamp": "15:32:40",
+      "speaker": "user",
+      "message": "Hi, can I check that K3585.5 .G87 2014 is in the reserved section?"
+    },
+    {
+      "timestamp": "15:33:07",
+      "speaker": "user",
+      "message": "on level 2?"
+    },
+    {
+      "timestamp": "15:33:52",
+      "speaker": "user",
+      "message": "Yes"
+    },
+    {
+      "timestamp": "15:34:49",
+      "speaker": "user",
+      "message": "ok, thank you"
+    },
+    {
+      "timestamp": "15:32:39",
+      "speaker": "helpdesk",
+      "message": "Hi PERSON_FIRSTNAME_1, how can we help u?"
+    },
+    {
+      "timestamp": "15:33:47",
+      "speaker": "helpdesk",
+      "message": "R u referring to The history of global climate governance Gupta, Joyeeta, 1964-;2014"
+    },
+    {
+      "timestamp": "15:34:44",
+      "speaker": "helpdesk",
+      "message": "Yes this is located in the closed stacks section"
+    }
+  ]
+}

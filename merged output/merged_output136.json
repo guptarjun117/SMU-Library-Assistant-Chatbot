@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "11:08:40",
+    "speaker": "USER",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Hi PERSON_LASTNAME_1"
+  },
+  {
+    "timestamp": "11:09:45",
+    "speaker": "USER",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Hi PERSON_FIRSTNAME_2 PERSON_LASTNAME_4, I'm currently doing a finance project. I have to compare accounting and financial numbers to competitors of Singapore Airlines and aviation industry benchmarks. Do you have any databases that you could recommend me?"
+  },
+  {
+    "timestamp": "11:11:47",
+    "speaker": "USER",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Thank you!"
+  },
+  {
+    "timestamp": "11:13:02",
+    "speaker": "USER",
+    "message": "PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 : Great! Thank you!"
+  },
+  {
+    "timestamp": "11:08:43",
+    "speaker": "HELP DESK",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : This is PERSON_FIRSTNAME_2 PERSON_LASTNAME_4. How may I help?"
+  },
+  {
+    "timestamp": "11:11:35",
+    "speaker": "HELP DESK",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : Just a moment please. Let me look into this."
+  },
+  {
+    "timestamp": "11:12:39",
+    "speaker": "HELP DESK",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : You can try this database: Emerging Markets Information Service (EMIS) <a href=\"http://libproxy.smu.edu.sg/login?url=https://www.emis.com/php/login/redirect\" target=\"_blank\">http://libproxy.smu.edu.sg/login?url=https://www.emis.com/php/login/redirect</a>"
+  },
+  {
+    "timestamp": "11:13:07",
+    "speaker": "HELP DESK",
+    "message": "PERSON_FIRSTNAME_2 PERSON_LASTNAME_2 : No problem."
+  }
+]

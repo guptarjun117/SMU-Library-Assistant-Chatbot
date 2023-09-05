@@ -1,0 +1,207 @@
+[
+    {
+        "timestamp": "12:09:13",
+        "speaker": "User",
+        "message": "hello"
+    },
+    {
+        "timestamp": "12:09:25",
+        "speaker": "User",
+        "message": "hello PERSON_FIRSTNAME_2"
+    },
+    {
+        "timestamp": "12:09:37",
+        "speaker": "User",
+        "message": "I'm struggling to find this article"
+    },
+    {
+        "timestamp": "12:09:38",
+        "speaker": "User",
+        "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_2, Mitigation of Damages in Contract and The Meaning of Avoidable Loss (1989) 105 Law Quarterly Review 398"
+    },
+    {
+        "timestamp": "12:09:45",
+        "speaker": "User",
+        "message": "could you please help me ??"
+    },
+    {
+        "timestamp": "12:18:08",
+        "speaker": "User",
+        "message": "yeah sure"
+    },
+    {
+        "timestamp": "12:18:17",
+        "speaker": "User",
+        "message": "thank you"
+    },
+    {
+        "timestamp": "12:18:33",
+        "speaker": "User",
+        "message": "thank you so much for your help"
+    },
+    {
+        "timestamp": "12:18:48",
+        "speaker": "User",
+        "message": "its been an hour that im trying to find it"
+    },
+    {
+        "timestamp": "12:20:48",
+        "speaker": "User",
+        "message": "i will let you know as soon as i receive your email"
+    },
+    {
+        "timestamp": "12:21:47",
+        "speaker": "User",
+        "message": "yeeeeeeeeah of course"
+    },
+    {
+        "timestamp": "12:21:50",
+        "speaker": "User",
+        "message": "take your time"
+    },
+    {
+        "timestamp": "12:22:07",
+        "speaker": "User",
+        "message": "and thank you so much it's really helpful"
+    },
+    {
+        "timestamp": "12:31:08",
+        "speaker": "User",
+        "message": "yes"
+    },
+    {
+        "timestamp": "12:39:14",
+        "speaker": "User",
+        "message": "yes"
+    },
+    {
+        "timestamp": "12:39:16",
+        "speaker": "User",
+        "message": "I got it"
+    },
+    {
+        "timestamp": "12:39:22",
+        "speaker": "User",
+        "message": "well done"
+    },
+    {
+        "timestamp": "12:39:27",
+        "speaker": "User",
+        "message": "thank you very much"
+    },
+    {
+        "timestamp": "12:39:44",
+        "speaker": "User",
+        "message": "yes"
+    },
+    {
+        "timestamp": "12:39:57",
+        "speaker": "User",
+        "message": "great job"
+    },
+    {
+        "timestamp": "12:40:03",
+        "speaker": "User",
+        "message": "it wasn't easy"
+    },
+    {
+        "timestamp": "12:40:12",
+        "speaker": "User",
+        "message": "i wish you a great day"
+    },
+    {
+        "timestamp": "12:40:18",
+        "speaker": "User",
+        "message": "thank you very much"
+    },
+    {
+        "timestamp": "12:40:26",
+        "speaker": "User",
+        "message": "no thank you"
+    },
+    {
+        "timestamp": "12:40:42",
+        "speaker": "User",
+        "message": "ok"
+    },
+    {
+        "timestamp": "12:40:44",
+        "speaker": "User",
+        "message": "thank you"
+    },
+    {
+        "timestamp": "12:09:14",
+        "speaker": "Help Desk",
+        "message": "Hi PERSON_FIRSTNAME_4, this is PERSON_FIRSTNAME_1 from Library. How may I help you?"
+    },
+    {
+        "timestamp": "12:10:06",
+        "speaker": "Help Desk",
+        "message": "I will try my best to do so. please hold on while I do a search"
+    },
+    {
+        "timestamp": "12:17:28",
+        "speaker": "Help Desk",
+        "message": "The steps to get to the article in Westlaw is a little tedious"
+    },
+    {
+        "timestamp": "12:17:35",
+        "speaker": "Help Desk",
+        "message": "is it alright if I send it to you via email?"
+    },
+    {
+        "timestamp": "12:18:19",
+        "speaker": "Help Desk",
+        "message": "Ok, please hang on online"
+    },
+    {
+        "timestamp": "12:18:24",
+        "speaker": "Help Desk",
+        "message": "i will send you the email soon"
+    },
+    {
+        "timestamp": "12:18:43",
+        "speaker": "Help Desk",
+        "message": "in case you have any questions then you can still continue with the chat"
+    },
+    {
+        "timestamp": "12:21:29",
+        "speaker": "Help Desk",
+        "message": "Ok. Sorry because I am doing the screenshots, so it will take a little while"
+    },
+    {
+        "timestamp": "12:21:34",
+        "speaker": "Help Desk",
+        "message": "pls be patient with me :)"
+    },
+    {
+        "timestamp": "12:31:08",
+        "speaker": "Help Desk",
+        "message": "hello PERSON_FIRSTNAME_4, I have just sent the email over"
+    },
+    {
+        "timestamp": "12:31:17",
+        "speaker": "Help Desk",
+        "message": "can you please try and see if you are able to locate the article?"
+    },
+    {
+        "timestamp": "12:39:50",
+        "speaker": "Help Desk",
+        "message": "Great!"
+    },
+    {
+        "timestamp": "12:40:03",
+        "speaker": "Help Desk",
+        "message": "welcome!"
+    },
+    {
+        "timestamp": "12:40:18",
+        "speaker": "Help Desk",
+        "message": "Is there anything else I can help you with?"
+    },
+    {
+        "timestamp": "12:40:30",
+        "speaker": "Help Desk",
+        "message": "Ok, do feel free to contact us again through this chat or email us at library@smu.edu.sg for any other assistance. Have a nice day!"
+    }
+]

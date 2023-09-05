@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "16:03:07",
+    "speaker": "USER",
+    "message": "Hi PERSON_FIRSTNAME_2"
+  },
+  {
+    "timestamp": "16:03:09",
+    "speaker": "USER",
+    "message": "how may I help you?"
+  },
+  {
+    "timestamp": "16:03:11",
+    "speaker": "USER",
+    "message": "hello! can i check if we may have access to this Implications of the 2019 Hague Convention on the Enforcement of Judgments of the Singapore International Commercial Court"
+  },
+  {
+    "timestamp": "16:03:15",
+    "speaker": "USER",
+    "message": "<a href=\"https://www.hcch.net/en/publications-and-studies/details4/?pid=6853\" target=\"_blank\">https://www.hcch.net/en/publications-and-studies/details4/?pid=6853</a>"
+  },
+  {
+    "timestamp": "16:03:25",
+    "speaker": "USER",
+    "message": "Author: PERSON_FIRSTNAME_1"
+  },
+  {
+    "timestamp": "16:03:40",
+    "speaker": "USER",
+    "message": "i tried to access from here but cant"
+  },
+  {
+    "timestamp": "16:03:41",
+    "speaker": "USER",
+    "message": "<a href=\"https://www.degruyter.com/document/doi/10.1515/9783110631395-046/pdf\" target=\"_blank\">https://www.degruyter.com/document/doi/10.1515/9783110631395-046/pdf</a>"
+  },
+  {
+    "timestamp": "16:06:37",
+    "speaker": "USER",
+    "message": "okie thank u"
+  },
+  {
+    "timestamp": "16:10:31",
+    "speaker": "USER",
+    "message": "yup it is for a research paper"
+  },
+  {
+    "timestamp": "16:10:42",
+    "speaker": "USER",
+    "message": "how can i raise a request to purchase it?"
+  },
+  {
+    "timestamp": "16:11:26",
+    "speaker": "USER",
+    "message": "okay! thank u"
+  },
+  {
+    "timestamp": "16:13:20",
+    "speaker": "USER",
+    "message": "yup"
+  },
+  {
+    "timestamp": "16:13:28",
+    "speaker": "USER",
+    "message": "okay thank you!!"
+  },
+  {
+    "timestamp": "16:14:44",
+    "speaker": "USER",
+    "message": "okie"
+  },
+  {
+    "timestamp": "16:09:41",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_FIRSTNAME_2 it looks like we do not have access to this article with our current subscription"
+  },
+  {
+    "timestamp": "16:09:59",
+    "speaker": "Help Desk",
+    "message": "may I check why you would like to have access? is this for a course/project/assignment?"
+  },
+  {
+    "timestamp": "16:10:29",
+    "speaker": "Help Desk",
+    "message": "one possible way is to raise a request to purchase the article, if you would like to have access"
+  },
+  {
+    "timestamp": "16:10:58",
+    "speaker": "Help Desk",
+    "message": "<a href=\"https://library.smu.edu.sg/borrow-renew-request/get-it-for-me\" target=\"_blank\">https://library.smu.edu.sg/borrow-renew-request/get-it-for-me</a>"
+  },
+  {
+    "timestamp": "16:11:01",
+    "speaker": "Help Desk",
+    "message": "you can submit a request here"
+  },
+  {
+    "timestamp": "16:11:15",
+    "speaker": "Help Desk",
+    "message": "this is the link to the form<a href=\"https://search.library.smu.edu.sg/discovery/blankIll?vid=65SMU_INST:SMU_NUI\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/blankIll?vid=65SMU_INST:SMU_NUI</a>"
+  },
+  {
+    "timestamp": "16:11:38",
+    "speaker": "Help Desk",
+    "message": "<p>Faculty, staff, postgraduate students, and 3rd/4th year undergraduate students with a valid SMU ID can request items through ILL.</p><br />"
+  },
+  {
+    "timestamp": "16:11:47",
+    "speaker": "Help Desk",
+    "message": "just to double check that you are currently year 3 right?"
+  },
+  {
+    "timestamp": "16:13:33",
+    "speaker": "Help Desk",
+    "message": "no prob"
+  },
+  {
+    "timestamp": "16:13:37",
+    "speaker": "Help Desk",
+    "message": "let us know if you have further questions!"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "messages": [
+    {
+      "timestamp": "16:24:47",
+      "speaker": "Help Desk",
+      "message": "Hello, how may I help you?"
+    },
+    {
+      "timestamp": "16:26:40",
+      "speaker": "User",
+      "message": "Hi - I am one of the adjunct tutors for COMM1304. A course reading is Chapter 8 (about 28 pages) of Essentials of Business Communication by PERSON_LASTNAME_4 and PERSON_LASTNAME_3. The library only has a hard copy of the 2008 edition"
+    },
+    {
+      "timestamp": "16:28:04",
+      "speaker": "User",
+      "message": "I need the text over the weekend to prep for my class (only just realized I do not have access to the ebook). I contacted Cengage and they have an eBook copy which I can purchase (2016 version). I was asked if I am using it for teaching."
+    },
+    {
+      "timestamp": "16:28:44",
+      "speaker": "User",
+      "message": "My question is - if I say that I am using it for teaching, will there be any cost to SMU for keeping it as part of the course reading?"
+    },
+    {
+      "timestamp": "16:29:21",
+      "speaker": "User",
+      "message": "The person asked me to write to the sales person who may be able to provide a complimentary copy if I am using it to teach."
+    },
+    {
+      "timestamp": "16:29:30",
+      "speaker": "User",
+      "message": "Grateful if you could advise"
+    },
+    {
+      "timestamp": "16:32:57",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_2, there shouldn't be any cost to us regardless of how you are using the book. Usually the publishers are happy to provide instructors with the complimentary copy, because if you end up adopting it, they can sell more to the library and students. So it is fine to say that you intend to use it for teaching. On our library's end, we can purchase copies if your students require it, and that should be the only cost to us."
+    },
+    {
+      "timestamp": "16:33:03",
+      "speaker": "Help Desk",
+      "message": "Hope I managed to answer your question!"
+    },
+    {
+      "timestamp": "16:33:49",
+      "speaker": "User",
+      "message": "Yes, thank you PERSON_FIRSTNAME_1. I'll write to Cengage to request for a copy."
+    },
+    {
+      "timestamp": "16:33:54",
+      "speaker": "User",
+      "message": "complimentary copy"
+    },
+    {
+      "timestamp": "16:33:59",
+      "speaker": "User",
+      "message": "Have a good weekend."
+    }
+  ]
+}

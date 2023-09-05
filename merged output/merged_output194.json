@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "17:48:00",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : Hi PERSON_FIRSTNAME_3!"
+  },
+  {
+    "timestamp": "17:48:16",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : Do you have more information about this case, for example the case citation?"
+  },
+  {
+    "timestamp": "17:51:16",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : I see. I'm afraid that I'm not able to help you now and our law research librarian will only be back to work tomorrow. How about I drop an email to him and likely he will get back to you via email tomorrow?"
+  },
+  {
+    "timestamp": "17:51:36",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : Okay sure. May I have his email?"
+  },
+  {
+    "timestamp": "17:52:08",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : Bryan LEOW <bryanleow@smu.edu.sg>\nPERSON_FIRSTNAME_1 : Do you want to drop him an email yourself?"
+  },
+  {
+    "timestamp": "17:52:26",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : thank you for your help."
+  },
+  {
+    "timestamp": "17:52:31",
+    "speaker": "User",
+    "message": "PERSON_FIRSTNAME_1 : PERSON_LASTNAME_2! No problem!"
+  },
+  {
+    "timestamp": "17:48:04",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : Hi sorry, i accidentally logged out"
+  },
+  {
+    "timestamp": "17:48:49",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : I apologise, but this is all I have: ICC Case No. 17176, Final Award, [2016] 41 Y.B. COMM. ARB."
+  },
+  {
+    "timestamp": "17:49:22",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : It is in the footnotes of this article: <a href=\"https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5069&amp;context=sol_research\" target=\"_blank\">https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5069&amp;context=sol_research</a>"
+  },
+  {
+    "timestamp": "17:52:18",
+    "speaker": "Help Desk",
+    "message": "PERSON_FIRSTNAME_3 PERSON_LASTNAME_3 : Yes, I can do that"
+  }
+]

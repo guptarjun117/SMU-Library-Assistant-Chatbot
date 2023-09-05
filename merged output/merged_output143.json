@@ -1,0 +1,21 @@
+{"data": [
+    {"timestamp": "18:36:07", "speaker": "User", "message": "Hello, I need help accessing this article: 'Are intangible assets fungible' LMCLQ [2003] 379 by PERSON_FIRSTNAME_3 PERSON_LASTNAME_1."},
+    {"timestamp": "18:38:16", "speaker": "User", "message": "I can't access the online version as i need to log in"},
+    {"timestamp": "18:39:20", "speaker": "User", "message": "What are the log in details? school email and school password?"},
+    {"timestamp": "18:39:26", "speaker": "User", "message": "because I tried and it did not work"},
+    {"timestamp": "18:39:56", "speaker": "User", "message": "It says 'Your login attempt has failed. Make sure the username and password are correct.'"},
+    {"timestamp": "18:41:51", "speaker": "User", "message": "So i need to make an account?"},
+    {"timestamp": "18:42:00", "speaker": "User", "message": "ok thank u!"},
+    {"timestamp": "18:42:20", "speaker": "User", "message": "no"},
+    {"timestamp": "18:42:22", "speaker": "User", "message": "thank u"},
+    {"timestamp": "18:35:33", "speaker": "Help Desk", "message": "Good Afternoon, PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 from SMU library! How may I help you today?"},
+    {"timestamp": "18:37:39", "speaker": "Help Desk", "message": "Hi the article you are looking for"},
+    {"timestamp": "18:37:55", "speaker": "Help Desk", "message": "is available online and also at KGC library"},
+    {"timestamp": "18:38:08", "speaker": "Help Desk", "message": "<a href='https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_gale_infotracmisc_A144445074&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,Are%20intangible%20assets%20fungible&amp;offset=0' target='_blank'>https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_gale_infotracmisc_A144445074&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,Are%20intangible%20assets%20fungible&amp;offset=0</a>"},
+    {"timestamp": "18:39:02", "speaker": "Help Desk", "message": "What is the error msg you get&gt;"},
+    {"timestamp": "18:40:29", "speaker": "Help Desk", "message": "<a href='https://search.library.smu.edu.sg/discovery/fulldisplay?vid=65SMU_INST:SMU_NUI&amp;docid=alma99898702601&amp;fromSitemap=1' target='_blank'>https://search.library.smu.edu.sg/discovery/fulldisplay?vid=65SMU_INST:SMU_NUI&amp;docid=alma99898702601&amp;fromSitemap=1</a>"},
+    {"timestamp": "18:40:46", "speaker": "Help Desk", "message": "You can refer to this link to see the access instructions"},
+    {"timestamp": "18:41:55", "speaker": "Help Desk", "message": "Yes"},
+    {"timestamp": "18:42:15", "speaker": "Help Desk", "message": "Is there anything else I can assist you with?"},
+    {"timestamp": "18:42:26", "speaker": "Help Desk", "message": "Have a great weekedn"}
+]}

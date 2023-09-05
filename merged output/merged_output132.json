@@ -1,0 +1,122 @@
+[
+    {
+        "timestamp": "11:53:24",
+        "speaker": "Help Desk",
+        "message": "Hello, how may I help you?"
+    },
+    {
+        "timestamp": "11:53:32",
+        "speaker": "User",
+        "message": "hi can I check, is there something wrong with the psycinfo system?"
+    },
+    {
+        "timestamp": "11:53:54",
+        "speaker": "User",
+        "message": "every time I click on the dot on the page, it leads me to an error page"
+    },
+    {
+        "timestamp": "11:54:08",
+        "speaker": "Help Desk",
+        "message": "pls hold while i check on my end"
+    },
+    {
+        "timestamp": "11:54:16",
+        "speaker": "User",
+        "message": "alright! thanks"
+    },
+    {
+        "timestamp": "11:54:41",
+        "speaker": "Help Desk",
+        "message": "sorry which dot are u referring to? can you send me a screenshot of the error"
+    },
+    {
+        "timestamp": "11:54:43",
+        "speaker": "User",
+        "message": "doi*"
+    },
+    {
+        "timestamp": "11:55:34",
+        "speaker": "User",
+        "message": "sorry I meant doi not dot"
+    },
+    {
+        "timestamp": "11:56:01",
+        "speaker": "Help Desk",
+        "message": "do you have the article title you are looking for"
+    },
+    {
+        "timestamp": "11:56:11",
+        "speaker": "Help Desk",
+        "message": "let me try on my end to find"
+    },
+    {
+        "timestamp": "11:56:14",
+        "speaker": "User",
+        "message": "Survival processing of the selfish gene?': Adaptive memory and inclusive fitness."
+    },
+    {
+        "timestamp": "11:57:26",
+        "speaker": "Help Desk",
+        "message": "Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106843\" class=\"s-la-cfile\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106843</a>"
+    },
+    {
+        "timestamp": "11:57:34",
+        "speaker": "Help Desk",
+        "message": "I dont have any issues on my end"
+    },
+    {
+        "timestamp": "11:57:43",
+        "speaker": "Help Desk",
+        "message": "here's the file i downloaded"
+    },
+    {
+        "timestamp": "11:58:07",
+        "speaker": "Help Desk",
+        "message": "Maybe you can try to clear your browser's history, cache cookies etc, reopen a new window and try again"
+    },
+    {
+        "timestamp": "11:58:25",
+        "speaker": "User",
+        "message": "okay, will try that"
+    },
+    {
+        "timestamp": "11:58:57",
+        "speaker": "User",
+        "message": "yes I can view the file"
+    },
+    {
+        "timestamp": "11:59:04",
+        "speaker": "Help Desk",
+        "message": "Ok great!"
+    },
+    {
+        "timestamp": "11:59:10",
+        "speaker": "Help Desk",
+        "message": "Is there anything else I can assist?"
+    },
+    {
+        "timestamp": "11:59:17",
+        "speaker": "User",
+        "message": "but if I'm on psych info and I click the doi"
+    },
+    {
+        "timestamp": "11:59:26",
+        "speaker": "User",
+        "message": "it throws me an error page"
+    },
+    {
+        "timestamp": "11:59:33",
+        "speaker": "User",
+        "message": "clearing my history and all"
+    },
+    {
+        "timestamp": "11:59:34",
+        "speaker": "User",
+        "message": "thanks"
+    },
+    {
+        "timestamp": "12:00:15",
+        "speaker": "Help Desk",
+        "message": "Yes, pls do try and if not, please send us the screenshot of the error you got via email to library@smu.edu.sg. Thank you and have a nice day."
+    }
+]

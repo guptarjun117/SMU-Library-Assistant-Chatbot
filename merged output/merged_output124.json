@@ -1,0 +1,84 @@
+Here is the result in JSON format:
+
+[
+  {
+    "timestamp": "11:58:22",
+    "speaker": "wan jun",
+    "message": "hi, i want to cite a statement from an article, but the statement is a bit too long, so is it possible to cite with \"abc,...,xyz\"?"
+  },
+  {
+    "timestamp": "11:58:29",
+    "speaker": "wan jun",
+    "message": "apa-7"
+  },
+  {
+    "timestamp": "11:59:45",
+    "speaker": "wan jun",
+    "message": "for reference, this is the statement: Not to mention, the understanding that an individual with a billion dollars in accumulated wealth, assets and investments actively chooses not to ease the suffering of millions, even billions worldwide, instead hoarding a fortune that is too much for one person to reasonably spend.\n\nwhich i only need the parts: \"the understanding that an individual with a billion dollars, ... , actively chooses not to ease the suffering of millions, even billions worldwide."
+  },
+  {
+    "timestamp": "12:02:21",
+    "speaker": "wan jun",
+    "message": "ohhh okay"
+  },
+  {
+    "timestamp": "12:03:55",
+    "speaker": "wan jun",
+    "message": "i'm doing this for a2, so the comparative analysis is based on both articles.\n\ni believe the year will be cited in my intro paragraphs already, so do i only need to write the para for each citation i will be using in my body paragraphs?"
+  },
+  {
+    "timestamp": "12:07:16",
+    "speaker": "wan jun",
+    "message": "ohhh ok thanks!"
+  },
+  {
+    "timestamp": "11:57:25",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "Hi PERSON_LASTNAME_1 Jun!"
+  },
+  {
+    "timestamp": "11:57:28",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "This is PERSON_LASTNAME_4 from SMU Libraries. How may I help you?"
+  },
+  {
+    "timestamp": "12:00:16",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "Yes, you can. I think another, maybe better, way might be citing it as separate, shorter statements."
+  },
+  {
+    "timestamp": "12:01:16",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "For example: The Author (Year, para./p. X) argued that \"abc\" and \"xyz\"."
+  },
+  {
+    "timestamp": "12:01:51",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "Subject to how you want to organize your texts."
+  },
+  {
+    "timestamp": "12:05:59",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "I see. Yes, generally WR instructors don't require students to repeat the in-text citations for the two articles in their essays. But when you use quotation citations, you'd still need to indicate the exact locations of the quotes by writing down the page or paragraph numbers."
+  },
+  {
+    "timestamp": "12:06:32",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "For example: \"Author\" argued that \"abc\" (para. X) and \"xyz\" (para. Y)."
+  },
+  {
+    "timestamp": "12:07:04",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "When both fall within the same paragraph, you can put it as: \"Author\" argued that \"abc\" and \"xyz\" (para. X)."
+  },
+  {
+    "timestamp": "12:07:34",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "You're welcome!"
+  },
+  {
+    "timestamp": "12:14:07",
+    "speaker": "PERSON_LASTNAME_2",
+    "message": "Thank you for using the library chat service. Due to inactivity on your end, I will close the conversation soon. If you need any further assistance, please feel free to use the chat service again or email library@smu.edu.sg. Have a good day!"
+  }
+]

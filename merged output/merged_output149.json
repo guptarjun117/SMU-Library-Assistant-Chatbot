@@ -1,0 +1,12 @@
+[
+    {"timestamp": "2021-10-12 00:00:01", "speaker": "User", "message": "Hi PERSON_FIRSTNAME_4 PERSON_LASTNAME_1"},
+    {"timestamp": "2021-10-12 00:00:02", "speaker": "User", "message": "How may I assist you today?"},
+    {"timestamp": "2021-10-12 00:00:03", "speaker": "User", "message": "Hi PERSON_FIRSTNAME_2! I'm currently using the bloomberg terminal and i was wondering if there is a way to download the data on it?"},
+    {"timestamp": "2021-10-12 00:00:04", "speaker": "User", "message": "do i export it to excel?"}, 
+    {"timestamp": "2021-10-12 00:00:05", "speaker": "Help Desk", "message": "Yeah you can download using the excel add in"}, 
+    {"timestamp": "2021-10-12 00:00:06", "speaker": "Help Desk", "message": "<a href=\"https://libfaq.smu.edu.sg/faq/134726\" target=\"_blank\">https://libfaq.smu.edu.sg/faq/134726</a>"}, 
+    {"timestamp": "2021-10-12 00:00:07", "speaker": "User", "message": "okay thanks!"}, 
+    {"timestamp": "2021-10-12 00:00:08", "speaker": "Help Desk", "message": "Is there anything else I can assist?"}, 
+    {"timestamp": "2021-10-12 00:00:09", "speaker": "User", "message": "nope thanks"}, 
+    {"timestamp": "2021-10-12 00:00:10", "speaker": "Help Desk", "message": "Thank you and have a nice day."}
+]

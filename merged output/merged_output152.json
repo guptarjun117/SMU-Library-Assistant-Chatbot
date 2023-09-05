@@ -1,0 +1,74 @@
+{
+  "conversation": [
+    {
+      "timestamp": "12:48:28",
+      "speaker": "Help Desk",
+      "message": "hi how can i help?"
+    },
+    {
+      "timestamp": "12:48:49",
+      "speaker": "User",
+      "message": "Hi! Could you help me get access for the full text of this article: Another Nail in the Coffin for Learning Styles? Disparities among Undergraduate Anatomy Students Study Strategies, Class Performance, and Reported VARK Learning Styles"
+    },
+    {
+      "timestamp": "12:49:08",
+      "speaker": "User",
+      "message": "I tried finding on our database but I can't get the full text"
+    },
+    {
+      "timestamp": "12:49:45",
+      "speaker": "Help Desk",
+      "message": "let me check whether we have this in our collection or not"
+    },
+    {
+      "timestamp": "12:49:58",
+      "speaker": "User",
+      "message": "okay thank you!"
+    },
+    {
+      "timestamp": "12:51:28",
+      "speaker": "Help Desk",
+      "message": "I'm afraid we do not have this in our collection"
+    },
+    {
+      "timestamp": "12:51:43",
+      "speaker": "User",
+      "message": "is there any other way I can get access to this article?"
+    },
+    {
+      "timestamp": "12:52:21",
+      "speaker": "Help Desk",
+      "message": "you can try our get it for me service (interlibrary loan service)"
+    },
+    {
+      "timestamp": "12:52:42",
+      "speaker": "User",
+      "message": "alright, thank you"
+    },
+    {
+      "timestamp": "12:52:52",
+      "speaker": "Help Desk",
+      "message": "or discuss with PERSON_FIRSTNAME_3, the research librarian for social science to see if you can find alternative articles"
+    },
+    {
+      "timestamp": "12:53:10",
+      "speaker": "User",
+      "message": "alright thank you!"
+    },
+    {
+      "timestamp": "12:53:29",
+      "speaker": "Help Desk",
+      "message": "is there anything else i can assist?"
+    },
+    {
+      "timestamp": "12:53:39",
+      "speaker": "User",
+      "message": "nope thank u for ur time:)"
+    },
+    {
+      "timestamp": "12:53:47",
+      "speaker": "Help Desk",
+      "message": "have a good day"
+    }
+  ]
+}

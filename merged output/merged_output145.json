@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "14:56:42",
+        "speaker": "User",
+        "message": "Hi PERSON_FIRSTNAME_2 how can we assist u?"
+    },
+    {
+        "timestamp": "14:57:26",
+        "speaker": "User",
+        "message": "Hi! Thanks for your time. I'm looking for this -- D. PERSON_LASTNAME_1, Uncertainty of Subject-Matter of Trusts (1994) 110 L.Q.R. 335."
+    },
+    {
+        "timestamp": "14:58:54",
+        "speaker": "User",
+        "message": "Yes!"
+    },
+    {
+        "timestamp": "14:58:56",
+        "speaker": "User",
+        "message": "Thank you so much"
+    },
+    {
+        "timestamp": "14:58:01",
+        "speaker": "Help Desk",
+        "message": "Sure, let me check on that..."
+    },
+    {
+        "timestamp": "14:58:34",
+        "speaker": "Help Desk",
+        "message": "I will separately email u"
+    },
+    {
+        "timestamp": "14:58:44",
+        "speaker": "Help Desk",
+        "message": "Is this yr email addy -- maxinehong.2019@law.smu.edu.sg"
+    },
+    {
+        "timestamp": "14:59:00",
+        "speaker": "Help Desk",
+        "message": "Yup okay"
+    }
+]

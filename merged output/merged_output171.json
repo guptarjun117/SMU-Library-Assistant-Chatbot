@@ -1,0 +1,15 @@
+{"messages": [
+    {"timestamp": "10:15:21", "speaker": "User", "content": "Hi PERSON_FIRSTNAME_2 can I check with you? How do I cite an online article in PDF format without page numbers if I want to use a quote from it in my paper?"},
+    {"timestamp": "10:15:47", "speaker": "User", "content": "attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107337\" target=\"_blank\" class=\"s-la-cfile\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=107337</a>"},
+    {"timestamp": "10:15:58", "speaker": "User", "content": "Article is attached."},
+    {"timestamp": "10:17:57", "speaker": "User", "content": "I can't remember. I think I retrieved it from SMU Lib"},
+    {"timestamp": "10:18:32", "speaker": "User", "content": "Yup it is from SMU Lib. I just checked."},
+    {"timestamp": "10:21:57", "speaker": "User", "content": "Is it ok if I exit the chat and then you drop me an email?"},
+    {"timestamp": "10:23:52", "speaker": "User", "content": "Thank you for your help. Bye!"},
+    {"timestamp": "10:14:52", "speaker": "Help Desk", "content": "Hello, how may I help you?"},
+    {"timestamp": "10:17:33", "speaker": "Help Desk", "content": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_3 , is this pdf document available online?"},
+    {"timestamp": "10:21:33", "speaker": "Help Desk", "content": "ok, please hold on while I check, thanks!"},
+    {"timestamp": "10:23:36", "speaker": "Help Desk", "content": "yes no prob!"},
+    {"timestamp": "10:23:42", "speaker": "Help Desk", "content": "I will email you"},
+    {"timestamp": "10:23:57", "speaker": "Help Desk", "content": "thank you!"}
+]}

@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "timestamp": "11:14:08",
+            "speaker": "User",
+            "message_content": "Hi PERSON_LASTNAME_4, may I know if smu has subscription to wall street journal?"
+        },
+        {
+            "timestamp": "11:14:31",
+            "speaker": "User",
+            "message_content": "I used to have an individual subscription provided by smu"
+        },
+        {
+            "timestamp": "11:27:34",
+            "speaker": "User",
+            "message_content": "I have successfully logged in using my smu email account on my computer. However, the account doesn't seem to work on my phone when using wsj app."
+        },
+        {
+            "timestamp": "11:27:46",
+            "speaker": "User",
+            "message_content": "do you have any idea?"
+        },
+        {
+            "timestamp": "11:38:39",
+            "speaker": "User",
+            "message_content": "I just re-installed the app, it still doesn't work"
+        },
+        {
+            "timestamp": "11:39:57",
+            "speaker": "User",
+            "message_content": "It shows my name after logging in on the app, but I cannot read the full article"
+        },
+        {
+            "timestamp": "11:40:37",
+            "speaker": "User",
+            "message_content": "yes, I can"
+        },
+        {
+            "timestamp": "11:41:16",
+            "speaker": "User",
+            "message_content": "so I can log into the app, but cannot read the full article on the app"
+        },
+        {
+            "timestamp": "11:41:31",
+            "speaker": "User",
+            "message_content": "android"
+        },
+        {
+            "timestamp": "11:43:00",
+            "speaker": "User",
+            "message_content": "I am leaving for my class now. I will check the message after my class ends. Thank you."
+        },
+        {
+            "timestamp": "11:43:36",
+            "speaker": "User",
+            "message_content": "ok. email is good."
+        },
+        {
+            "timestamp": "11:44:00",
+            "speaker": "User",
+            "message_content": "thank you. Have a good day to you too."
+        },
+        {
+            "timestamp": "11:13:23",
+            "speaker": "Help Desk",
+            "message_content": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_3"
+        },
+        {
+            "timestamp": "11:13:26",
+            "speaker": "Help Desk",
+            "message_content": "how may I assist you?"
+        },
+        {
+            "timestamp": "11:16:41",
+            "speaker": "Help Desk",
+            "message_content": "could you please try to login to WSJ with your SMU email address?"
+        },
+        {
+            "timestamp": "11:17:03",
+            "speaker": "Help Desk",
+            "message_content": "I understand that you have done a one-time registration before, with SMU address"
+        },
+        {
+            "timestamp": "11:17:12",
+            "speaker": "Help Desk",
+            "message_content": "that means you probably should still have access"
+        },
+        {
+            "timestamp": "11:17:17",
+            "speaker": "Help Desk",
+            "message_content": "<a href=\"http://libproxy.smu.edu.sg/login?url=https://partner.wsj.com/enter-redemption-code/SMU18ftgwpqx\" target=\"_blank\">One-time registration</a>is required, using your SMU email address. After you have successfully created your account, you can access the service anywhere, across devices.<br />7 year archive is available on WSJ.com, content includes magazine. 7 day archive on e-paper (US print copy) available on WSJ.com through the e-reader."
+        },
+        {
+            "timestamp": "11:17:52",
+            "speaker": "Help Desk",
+            "message_content": "if not, please let me know!"
+        },
+        {
+            "timestamp": "11:19:32",
+            "speaker": "Help Desk",
+            "message_content": "please try the link above to see if you can sign in"
+        },
+        {
+            "timestamp": "11:33:27",
+            "speaker": "Help Desk",
+            "message_content": "sorry for my delayed reply! Let me check with my colleague and get back to you"
+        },
+        {
+            "timestamp": "11:33:31",
+            "speaker": "Help Desk",
+            "message_content": "just a moment please"
+        },
+        {
+            "timestamp": "11:38:01",
+            "speaker": "Help Desk",
+            "message_content": "by right the account should also work for your phone app. If it doesnt work some files might be corrupted or something not working with the app. Could you try removing the app and installing it again?"
+        },
+        {
+            "timestamp": "11:38:51",
+            "speaker": "Help Desk",
+            "message_content": "okay let me give it a try on my end"
+        },
+        {
+            "timestamp": "11:41:07",
+            "speaker": "Help Desk",
+            "message_content": "ok let us check and get back to you on this issue."
+        },
+        {
+            "timestamp": "11:41:25",
+            "speaker": "Help Desk",
+            "message_content": "are you using iphone or android?"
+        },
+        {
+            "timestamp": "11:43:15",
+            "speaker": "Help Desk",
+            "message_content": "We'll get back to you via email on this matter"
+        },
+        {
+            "timestamp": "11:43:25",
+            "speaker": "Help Desk",
+            "message_content": "or feel free to reach out to us again on chat!"
+        },
+        {
+            "timestamp": "11:43:40",
+            "speaker": "Help Desk",
+            "message_content": "Thank you and have a good day!"
+        }
+    ]
+}

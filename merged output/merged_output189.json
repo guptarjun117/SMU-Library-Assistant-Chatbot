@@ -1,0 +1,102 @@
+[
+    {
+        "timestamp": "14:06:04",
+        "speaker": "User",
+        "message": "hi! i am looking for a book"
+    },
+    {
+        "timestamp": "14:06:05",
+        "speaker": "User",
+        "message": "<a href=\"https://ink.library.smu.edu.sg/sol_research/3190\" target=\"_blank\">https://ink.library.smu.edu.sg/sol_research/3190</a>"
+    },
+    {
+        "timestamp": "14:06:12",
+        "speaker": "User",
+        "message": "but i can't seem to find it"
+    },
+    {
+        "timestamp": "14:06:20",
+        "speaker": "User",
+        "message": "may i check if this book is available?"
+    },
+    {
+        "timestamp": "14:09:17",
+        "speaker": "User",
+        "message": "the one in the special collection seems to be another book: recognition and enforcement of foreign judgements in asia (which i have on hand)"
+    },
+    {
+        "timestamp": "14:09:31",
+        "speaker": "User",
+        "message": "but this one: Asian principles for the recognition and enforcement of foreign judgments - isn"
+    },
+    {
+        "timestamp": "14:11:18",
+        "speaker": "User",
+        "message": "yes"
+    },
+    {
+        "timestamp": "14:11:30",
+        "speaker": "User",
+        "message": "the one im looking for is on Principles"
+    },
+    {
+        "timestamp": "14:12:11",
+        "speaker": "User",
+        "message": "Ok I see"
+    },
+    {
+        "timestamp": "14:12:31",
+        "speaker": "User",
+        "message": "I see"
+    },
+    {
+        "timestamp": "14:12:33",
+        "speaker": "User",
+        "message": "thank you!!"
+    },
+    {
+        "timestamp": "14:03:33",
+        "speaker": "Help Desk",
+        "message": "Hi PERSON_FIRSTNAME_2, how can we help?"
+    },
+    {
+        "timestamp": "14:06:18",
+        "speaker": "Help Desk",
+        "message": "One moment"
+    },
+    {
+        "timestamp": "14:08:36",
+        "speaker": "Help Desk",
+        "message": "Ok if u look at the library search it says that 1 copy is currently unavailable"
+    },
+    {
+        "timestamp": "14:08:47",
+        "speaker": "Help Desk",
+        "message": "The other copy is in the special collection"
+    },
+    {
+        "timestamp": "14:10:35",
+        "speaker": "Help Desk",
+        "message": "r u saying that the one in the special copy has a different title?"
+    },
+    {
+        "timestamp": "14:11:36",
+        "speaker": "Help Desk",
+        "message": "The other copy is not there as it is currently on loan with other patron"
+    },
+    {
+        "timestamp": "14:11:59",
+        "speaker": "Help Desk",
+        "message": "In regards to the different title, I'd recommend u drop a note to library@smu.edu.sg"
+    },
+    {
+        "timestamp": "14:12:27",
+        "speaker": "Help Desk",
+        "message": "so they can look into that difference, probably my colleague in the law library can ascertain this"
+    },
+    {
+        "timestamp": "14:12:36",
+        "speaker": "Help Desk",
+        "message": "ok"
+    }
+]

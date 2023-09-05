@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "timestamp": "12:12:36",
+      "speaker": "User",
+      "message": "Hi PERSON_FIRSTNAME_1"
+    },
+    {
+      "timestamp": "12:13:08",
+      "speaker": "User",
+      "message": "I am looking for a case [1966] 2 NSWR 211"
+    },
+    {
+      "timestamp": "12:13:43",
+      "speaker": "User",
+      "message": "lawnet, Lexis, and westlaw"
+    },
+    {
+      "timestamp": "12:14:54",
+      "speaker": "User",
+      "message": "Thank you!"
+    },
+    {
+      "timestamp": "12:23:21",
+      "speaker": "User",
+      "message": "sure sure"
+    },
+    {
+      "timestamp": "12:23:24",
+      "speaker": "User",
+      "message": "yessss"
+    },
+    {
+      "timestamp": "12:23:36",
+      "speaker": "User",
+      "message": "ycchen.2021@jd.smu.edu.sg"
+    },
+    {
+      "timestamp": "12:24:12",
+      "speaker": "User",
+      "message": "thanks a lot!"
+    },
+    {
+      "timestamp": "12:24:17",
+      "speaker": "User",
+      "message": "bye bye"
+    },
+    {
+      "timestamp": "12:24:20",
+      "speaker": "User",
+      "message": "have a great one"
+    },
+    {
+      "timestamp": "12:12:42",
+      "speaker": "Help Desk",
+      "message": "hi there, how can i help"
+    },
+    {
+      "timestamp": "12:13:22",
+      "speaker": "Help Desk",
+      "message": "hold on a sec, let me check"
+    },
+    {
+      "timestamp": "12:13:34",
+      "speaker": "Help Desk",
+      "message": "which database did u try searching?"
+    },
+    {
+      "timestamp": "12:22:32",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_2 PERSON_LASTNAME_1, could i get back to you via email. I see the case in Lexis but no full text available."
+    },
+    {
+      "timestamp": "12:24:01",
+      "speaker": "Help Desk",
+      "message": "thanks, will check further and get back to you by today"
+    },
+    {
+      "timestamp": "12:24:26",
+      "speaker": "Help Desk",
+      "message": "you too, take care"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "15:10:23",
+        "speaker": "User",
+        "message": "Hello! I am having trouble accessing this E-book. <a href=\"https://link.springer.com/chapter/10.1007/978-94-011-0251-3_12\" target=\"_blank\">https://link.springer.com/chapter/10.1007/978-94-011-0251-3_12</a>"
+    },
+    {
+        "timestamp": "15:11:20",
+        "speaker": "User",
+        "message": "As well as this article: <a href=\"https://www.jstor.org/stable/25074456\" target=\"_blank\">https://www.jstor.org/stable/25074456</a>"
+    },
+    {
+        "timestamp": "15:11:31",
+        "speaker": "User",
+        "message": "both of them kept triggering bad request."
+    },
+    {
+        "timestamp": "15:13:18",
+        "speaker": "User",
+        "message": "okay it works! thanks"
+    },
+    {
+        "timestamp": "15:13:25",
+        "speaker": "User",
+        "message": "i got the jstor one working too"
+    },
+    {
+        "timestamp": "15:13:37",
+        "speaker": "User",
+        "message": "Appreciate your help :)"
+    },
+    {
+        "timestamp": "15:10:10",
+        "speaker": "Help Desk",
+        "message": "Hello, how may I help you?"
+    },
+    {
+        "timestamp": "15:12:41",
+        "speaker": "Help Desk",
+        "message": "Can you try from this link instead"
+    },
+    {
+        "timestamp": "15:12:42",
+        "speaker": "Help Desk",
+        "message": "<a href=\"https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99564648002601\" target=\"_blank\">https://search.library.smu.edu.sg/permalink/65SMU_INST/naremq/alma99564648002601</a>"
+    },
+    {
+        "timestamp": "15:12:49",
+        "speaker": "Help Desk",
+        "message": "for the springer ebook"
+    }
+]

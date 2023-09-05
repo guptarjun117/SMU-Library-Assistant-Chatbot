@@ -1,0 +1,99 @@
+{
+  "messages": [
+    {
+      "timestamp": "10:03:43",
+      "speaker": "User",
+      "content": "Hi PERSON_FIRSTNAME_1, I wish to read this: <a href=\"https://www-cambridge-org.libproxy.smu.edu.sg/core/books/abs/students-guide-to-equity-and-trusts/tracing/C5965B8C039957100B1A2D6E11F29B62#access-block\" target=\"_blank\">https://www-cambridge-org.libproxy.smu.edu.sg/core/books/abs/students-guide-to-equity-and-trusts/tracing/C5965B8C039957100B1A2D6E11F29B62#access-block</a>"
+    },
+    {
+      "timestamp": "10:03:46",
+      "speaker": "User",
+      "content": "but i am unable to"
+    },
+    {
+      "timestamp": "10:03:49",
+      "speaker": "User",
+      "content": "could u help me"
+    },
+    {
+      "timestamp": "10:09:11",
+      "speaker": "User",
+      "content": "There was a 2020 version of it actually"
+    },
+    {
+      "timestamp": "10:09:31",
+      "speaker": "User",
+      "content": "Thank you for sharing an alternative textbook though"
+    },
+    {
+      "timestamp": "10:09:38",
+      "speaker": "User",
+      "content": "I appreciate it, no worries!"
+    },
+    {
+      "timestamp": "10:10:52",
+      "speaker": "User",
+      "content": "I see!"
+    },
+    {
+      "timestamp": "10:10:59",
+      "speaker": "User",
+      "content": "Yup my bad"
+    },
+    {
+      "timestamp": "10:11:01",
+      "speaker": "User",
+      "content": "but all good!"
+    },
+    {
+      "timestamp": "10:11:08",
+      "speaker": "User",
+      "content": "thank you for your help and have a good day!"
+    },
+    {
+      "timestamp": "10:03:30",
+      "speaker": "Help Desk",
+      "content": "Hi PERSON_FIRSTNAME_2"
+    },
+    {
+      "timestamp": "10:03:35",
+      "speaker": "Help Desk",
+      "content": "how can we help you today"
+    },
+    {
+      "timestamp": "10:04:40",
+      "speaker": "Help Desk",
+      "content": "let me check regarding the access"
+    },
+    {
+      "timestamp": "10:08:00",
+      "speaker": "Help Desk",
+      "content": "Sorry, we don't have access to this text"
+    },
+    {
+      "timestamp": "10:08:08",
+      "speaker": "Help Desk",
+      "content": "might I suggest you take a look at <a href=\"https://search.library.smu.edu.sg/discovery/fulldisplay?docid=alma99468495202601&amp;context=L&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=Everything&amp;query=any%2Ccontains%2Cequity%20and%20trusts&amp;sortby=date_d&amp;facet=frbrgroupid%2Cinclude%2C9055911322217440661&amp;offset=0\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/fulldisplay?docid=alma99468495202601&amp;context=L&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Local%20Search%20Engine&amp;isFrbr=true&amp;tab=Everything&amp;query=any%2Ccontains%2Cequity%20and%20trusts&amp;sortby=date_d&amp;facet=frbrgroupid%2Cinclude%2C9055911322217440661&amp;offset=0</a>"
+    },
+    {
+      "timestamp": "10:08:20",
+      "speaker": "Help Desk",
+      "content": "or<a href=\"https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_informaworld_taylorfrancisbooks_10_4324_9781315413853_version2&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,equity%20and%20trusts&amp;sortby=rank&amp;offset=20\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/fulldisplay?docid=cdi_informaworld_taylorfrancisbooks_10_4324_9781315413853_version2&amp;context=PC&amp;vid=65SMU_INST:SMU_NUI&amp;lang=en&amp;search_scope=Everything&amp;adaptor=Primo%20Central&amp;tab=Everything&amp;query=any,contains,equity%20and%20trusts&amp;sortby=rank&amp;offset=20</a>"
+    },
+    {
+      "timestamp": "10:08:52",
+      "speaker": "Help Desk",
+      "content": "the text that you were looking at is rather dated, as it was published in 2012"
+    },
+    {
+      "timestamp": "10:10:03",
+      "speaker": "Help Desk",
+      "content": "yeah I saw that and we don't have that either"
+    },
+    {
+      "timestamp": "10:10:24",
+      "speaker": "Help Desk",
+      "content": "but I think that link that you sent me was for the 2012"
+    }
+  ]
+}

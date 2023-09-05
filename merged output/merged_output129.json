@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "16:05:42",
+    "speaker": "User",
+    "message": "hey there, when trying to access Jstor I was getting a \"400 bad request\" error"
+  },
+  {
+    "timestamp": "16:05:44",
+    "speaker": "User",
+    "message": "thanks for helping btw"
+  },
+  {
+    "timestamp": "16:06:06",
+    "speaker": "User",
+    "message": "lemme try that real quick"
+  },
+  {
+    "timestamp": "16:07:01",
+    "speaker": "User",
+    "message": "oh it's working. I just cleared the cache. Cheers man"
+  },
+  {
+    "timestamp": "16:07:01",
+    "speaker": "User",
+    "message": "thanks"
+  },
+  {
+    "timestamp": "16:05:32",
+    "speaker": "Help Desk",
+    "message": "Hello"
+  },
+  {
+    "timestamp": "16:06:01",
+    "speaker": "Help Desk",
+    "message": "have you cleared your cache?"
+  },
+  {
+    "timestamp": "16:06:30",
+    "speaker": "Help Desk",
+    "message": "even better if you want instant solution open incognito window"
+  }
+]

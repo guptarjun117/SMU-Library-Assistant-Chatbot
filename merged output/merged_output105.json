@@ -1,0 +1,97 @@
+[
+    {
+        "timestamp": "16:36:32",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : hello"
+    },
+    {
+        "timestamp": "16:36:37",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : i need to find this:"
+    },
+    {
+        "timestamp": "16:36:38",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : Pasha L. Hsieh (Hsieh 1), New Asian Regionalism in International Economic Law (Cambridge University Press 2022), <a href=\"https://www.cambridge.org/core/books/new-asian-regionalism-\" target=\"_blank\">https://www.cambridge.org/core/books/new-asian-regionalism-</a> in-international-economic-law/FECD779A1AC5AAE1EECB52948CA52519"
+    },
+    {
+        "timestamp": "16:36:44",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : but i couldn't access it"
+    },
+    {
+        "timestamp": "16:37:17",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : oki thank you"
+    },
+    {
+        "timestamp": "16:40:07",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : ok!"
+    },
+    {
+        "timestamp": "16:40:16",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : I need help with this as well"
+    },
+    {
+        "timestamp": "16:40:17",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : PERSON_FIRSTNAME_3 PERSON_LASTNAME_1 &amp; PERSON_FIRSTNAME_1 PERSON_LASTNAME_7 PERSON_FIRSTNAME_5 eds., European Union Politics (Oxford University Press, 7th ed. 2022),"
+    },
+    {
+        "timestamp": "16:40:25",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : and this"
+    },
+    {
+        "timestamp": "16:40:25",
+        "speaker": "USER",
+        "message": "PERSON_FIRSTNAME_8 PERSON_LASTNAME_3 : PERSON_FIRSTNAME_4 PERSON_LASTNAME_4 and PERSON_FIRSTNAME_2 PERSON_LASTNAME_5 eds., European Union Law (Oxford University Press 3rd ed. 2020), <a href=\"https://global.oup.com/ukhe/product/european-union-law-\" target=\"_blank\">https://global.oup.com/ukhe/product/european-union-law-</a> 9780198855750?cc=sg&amp;lang=en&amp; (Chs 5 and 6)"
+    },
+    {
+        "timestamp": "16:36:09",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : Good day! This is PERSON_FIRSTNAME_6, how can I help you?"
+    },
+    {
+        "timestamp": "16:37:02",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : ok, give me a few min to try it out. Hold on<br />"
+    },
+    {
+        "timestamp": "16:39:08",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : Hi PERSON_FIRSTNAME_8, if you are looking for 2022 version, we only have physical book<br />"
+    },
+    {
+        "timestamp": "16:39:25",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : the one online is 2021 version. <br />"
+    },
+    {
+        "timestamp": "16:40:00",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : If you are ok, can you try this link: <a href=\"https://search.library.smu.edu.sg/view/action/uresolver.do?operation=resolveService&amp;package_service_id=5082038950002601&amp;institutionId=2601&amp;customerId=2600&amp;VE=true\" target=\"_blank\">https://search.library.smu.edu.sg/view/action/uresolver.do?operation=resolveService&amp;package_service_id=5082038950002601&amp;institutionId=2601&amp;customerId=2600&amp;VE=true</a><br />"
+    },
+    {
+        "timestamp": "16:40:57",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : What issue do you have for these 2 titles?<br />"
+    },
+    {
+        "timestamp": "16:41:43",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : the first title is also a physical book<br />"
+    },
+    {
+        "timestamp": "16:42:19",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : same goes for the second one<br />"
+    },
+    {
+        "timestamp": "16:43:10",
+        "speaker": "HELP DESK",
+        "message": "PERSON_FIRSTNAME_6 PERSON_LASTNAME_2 : I will close this chat then. Bye<br />"
+    }
+]

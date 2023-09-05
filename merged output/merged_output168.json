@@ -1,0 +1,99 @@
+{
+   "data":[
+      {
+         "timestamp":"13:16:54",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Hi PERSON_FIRSTNAME_4, good day to you. Thank you for contacting SMU Libraries. My name is PERSON_FIRSTNAME_5. How may I help you today?"
+      },
+      {
+         "timestamp":"13:17:29",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : Hello, could I just double check how can I access this book?: 'Comparing media systems : three models of media and politics' Hallin, Daniel C ; PERSON_LASTNAME_4, Paolo; 2004"
+      },
+      {
+         "timestamp":"13:18:21",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : it says it is available online via SMU search portal, however, when I try to sign in, it asks me to go to campus library for access"
+      },
+      {
+         "timestamp":"13:21:27",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : This collection is using Single Sign-On for login, and Singapore Management University does not support this login method. You will need to access this collection on-campus or through your library's website."
+      },
+      {
+         "timestamp":"13:21:53",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Please let me check for you."
+      },
+      {
+         "timestamp":"13:22:08",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : noted, thank you so much!"
+      },
+      {
+         "timestamp":"13:27:19",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : hi PERSON_LASTNAME_1, the link works. thank you so much. Could I just check if i need to use this link to access it? (e.g. in case i close the tab, etc.)"
+      },
+      {
+         "timestamp":"13:27:37",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : or is this a one-time access link?"
+      },
+      {
+         "timestamp":"13:32:58",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : oh, i see it now. I was accessing via the first link (there seems to be 2 links of the same book available in the search)"
+      },
+      {
+         "timestamp":"13:33:06",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : thank you so much, problem solved"
+      },
+      {
+         "timestamp":"13:33:44",
+         "speaker":"User",
+         "message":"PERSON_FIRSTNAME_4 : Thank you!"
+      },
+      {
+         "timestamp":"13:17:48",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Thank you for your query. Please hold while I check."
+      },
+      {
+         "timestamp":"13:26:04",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Hi PERSON_FIRSTNAME_4, please try this link:<a href=\"https://www-fulcrum-org.libproxy.smu.edu.sg/concern/monographs/x059c798d\" target=\"_blank\">https://www-fulcrum-org.libproxy.smu.edu.sg/concern/monographs/x059c798d</a>"
+      },
+      {
+         "timestamp":"13:26:12",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Let me know if it works."
+      },
+      {
+         "timestamp":"13:31:44",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : When I searched using keyword 'Comparing media systems' via SMU Libraries, two links for book (and not book review) were available. Use the one showing"
+      },
+      {
+         "timestamp":"13:32:03",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : You can save the item in your Library account."
+      },
+      {
+         "timestamp":"13:32:51",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : You can also bookmark the permalink (i.e. permanent link) available."
+      },
+      {
+         "timestamp":"13:33:27",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : Yes, the other appears to be a broken link."
+      },
+      {
+         "timestamp":"13:33:39",
+         "speaker":"Help Desk",
+         "message":"PERSON_FIRSTNAME_5 PERSON_LASTNAME_3 : You're welcome. Happy reading."
+      }
+   ]
+}

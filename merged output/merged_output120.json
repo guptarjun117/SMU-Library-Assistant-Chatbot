@@ -1,0 +1,172 @@
+[
+    {
+        "timestamp": "16:49:03",
+        "speaker": "User",
+        "message": "Hi PERSON_FIRSTNAME_4 PERSON_LASTNAME_2 , this is PERSON_FIRSTNAME_4 from Library. How may I help you?"
+    },
+    {
+        "timestamp": "16:49:54",
+        "speaker": "User",
+        "message": "Good afternoon, I would like to enquire about the case capitalisation of citing newspaper title name in my essay"
+    },
+    {
+        "timestamp": "16:51:08",
+        "speaker": "User",
+        "message": "Here is what I have written: The articles are titled It Was a Bad Week for Billionaires With Delusions of Saving the World and There are no Ethical Billionaires, written by Mr PERSON_LASTNAME_3, and Miss PERSON_LASTNAME_6, respectively."
+    },
+    {
+        "timestamp": "16:51:54",
+        "speaker": "User",
+        "message": "I am unsure which words should be capitalised"
+    },
+    {
+        "timestamp": "16:54:49",
+        "speaker": "User",
+        "message": "but we have to include the full article titles in our para 1"
+    },
+    {
+        "timestamp": "16:58:35",
+        "speaker": "User",
+        "message": "may i ask how should i capitalise the article title as im unsure"
+    },
+    {
+        "timestamp": "17:03:02",
+        "speaker": "User",
+        "message": "we do not have to care about the case capitalisation rule for news title?"
+    },
+    {
+        "timestamp": "17:05:35",
+        "speaker": "User",
+        "message": "Therefore, if i am quoting it as shown below, it is not necessary for the capitalisation? The articles are titled It Was a Bad Week for Billionaires With Delusions of Saving the World and There are no Ethical Billionaires, written by Mr PERSON_LASTNAME_3, and Miss PERSON_LASTNAME_6, respectively."
+    },
+    {
+        "timestamp": "17:11:25",
+        "speaker": "User",
+        "message": "May I clarify one more question regarding in text citation of newspaper paragraph"
+    },
+    {
+        "timestamp": "17:12:53",
+        "speaker": "User",
+        "message": "If I have mentioned the author's last name and in text citation of the year at the start of the sentence and quote a sentence in a paragraph at the end. Can I just include (para. 7) at the end of the quote?"
+    },
+    {
+        "timestamp": "17:17:02",
+        "speaker": "User",
+        "message": "Thank you for your help, appreciate it"
+    },
+    {
+        "timestamp": "17:19:19",
+        "speaker": "User",
+        "message": "Oh just one quick question about the citation for New Yorks Times compared to Strait Times, why is New yorks time have to be italicised?"
+    },
+    {
+        "timestamp": "17:22:27",
+        "speaker": "User",
+        "message": "For CNA, it will be the site name CNA has to be italicised?"
+    },
+    {
+        "timestamp": "17:23:52",
+        "speaker": "User",
+        "message": "Noted, thank you for the clarification. Have a good day ahead :)"
+    },
+    {
+        "timestamp": "16:50:21",
+        "speaker": "Help Desk",
+        "message": "Ok, may I know how are you citing it?"
+    },
+    {
+        "timestamp": "16:52:10",
+        "speaker": "Help Desk",
+        "message": "We can follow the APA 7th style"
+    },
+    {
+        "timestamp": "16:52:19",
+        "speaker": "Help Desk",
+        "message": "<a href=\"https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627439#s-lg-box-21085103\" target=\"_blank\">https://researchguides.smu.edu.sg/c.php?g=421741&amp;p=6627439#s-lg-box-21085103</a>"
+    },
+    {
+        "timestamp": "16:52:55",
+        "speaker": "Help Desk",
+        "message": "If you have noticed the examples given, only the 1st letter of the 1st word needs to be in caps"
+    },
+    {
+        "timestamp": "16:54:15",
+        "speaker": "Help Desk",
+        "message": "For the in-text, you only need to cite the author's last name"
+    },
+    {
+        "timestamp": "16:57:01",
+        "speaker": "Help Desk",
+        "message": "Ok, in this case, you will have to capitalise the article title as presented to you"
+    },
+    {
+        "timestamp": "16:58:46",
+        "speaker": "Help Desk",
+        "message": "It Was a Bad Week for Billionaires With Delusions of Saving the World"
+    },
+    {
+        "timestamp": "17:03:25",
+        "speaker": "Help Desk",
+        "message": "It depends on how you write your report"
+    },
+    {
+        "timestamp": "17:03:59",
+        "speaker": "Help Desk",
+        "message": "if it is direct quotation then there is no need for it. but if you are writing as per a normal essay then the grammar rules applies"
+    },
+    {
+        "timestamp": "17:06:22",
+        "speaker": "Help Desk",
+        "message": "Yes"
+    },
+    {
+        "timestamp": "17:11:31",
+        "speaker": "Help Desk",
+        "message": "sure"
+    },
+    {
+        "timestamp": "17:13:35",
+        "speaker": "Help Desk",
+        "message": "Is it possible to show me the exact example?"
+    },
+    {
+        "timestamp": "17:16:06",
+        "speaker": "Help Desk",
+        "message": "yes, it looks alright"
+    },
+    {
+        "timestamp": "17:17:12",
+        "speaker": "Help Desk",
+        "message": "Welcome!"
+    },
+    {
+        "timestamp": "17:17:15",
+        "speaker": "Help Desk",
+        "message": "Is there anything else I can help you with?"
+    },
+    {
+        "timestamp": "17:20:40",
+        "speaker": "Help Desk",
+        "message": "This is because for both New York Times and Straits Times, they have a print edition so they are considered newspapers"
+    },
+    {
+        "timestamp": "17:21:01",
+        "speaker": "Help Desk",
+        "message": "Hence for both titles, you need to italicise them in the reference list"
+    },
+    {
+        "timestamp": "17:23:02",
+        "speaker": "Help Desk",
+        "message": "No, for CNA, its is the article title that should be in italics because CNA is a news website"
+    },
+    {
+        "timestamp": "17:24:04",
+        "speaker": "Help Desk",
+        "message": "No worries."
+    },
+    {
+        "timestamp": "17:24:08",
+        "speaker": "Help Desk",
+        "message": "Do feel free to contact us again through this chat or email us at library@smu.edu.sg for any other assistance. Have a nice day!"
+    }
+]

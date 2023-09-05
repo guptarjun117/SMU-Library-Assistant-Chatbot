@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "timestamp": "14:27:50",
+      "speaker": "User",
+      "message": "hello veronica. thank you!"
+    },
+    {
+      "timestamp": "14:27:58",
+      "speaker": "User",
+      "message": "so sorry i accidentally disconnected"
+    },
+    {
+      "timestamp": "14:31:29",
+      "speaker": "User",
+      "message": "yes"
+    },
+    {
+      "timestamp": "14:35:46",
+      "speaker": "User",
+      "message": "i see"
+    },
+    {
+      "timestamp": "14:35:54",
+      "speaker": "User",
+      "message": "how about the in-text citation?"
+    },
+    {
+      "timestamp": "14:36:52",
+      "speaker": "User",
+      "message": "oh the above is for both in-text and reference?"
+    },
+    {
+      "timestamp": "14:37:30",
+      "speaker": "User",
+      "message": "The above is for reference. In-text please use"
+    },
+    {
+      "timestamp": "14:38:37",
+      "speaker": "User",
+      "message": "okie thanks!"
+    },
+    {
+      "timestamp": "14:39:07",
+      "speaker": "User",
+      "message": "nothing as of now. thank you! have a good day ahead"
+    },
+    {
+      "timestamp": "14:27:38",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1, I am checking for you."
+    },
+    {
+      "timestamp": "14:31:22",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1, are you using APA citations for the rest of your reference?"
+    },
+    {
+      "timestamp": "14:35:05",
+      "speaker": "Help Desk",
+      "message": "Hi PERSON_FIRSTNAME_1 PERSON_LASTNAME_1, you may use the following format. [Act name] [year], [Revised edition], [sso url link], [pincite the section number]"
+    },
+    {
+      "timestamp": "14:35:29",
+      "speaker": "Help Desk",
+      "message": "Protection from Online Falsehood and Manipulation Act 2019, Rev Ed 2020, [url link], 64(5)"
+    },
+    {
+      "timestamp": "14:35:59",
+      "speaker": "Help Desk",
+      "message": "example as above. pincite is the section number followed by clause."
+    },
+    {
+      "timestamp": "14:38:27",
+      "speaker": "Help Desk",
+      "message": "or (Name of Act, Year)"
+    },
+    {
+      "timestamp": "14:38:53",
+      "speaker": "Help Desk",
+      "message": "no problem, is there anything else I can help you with?"
+    },
+    {
+      "timestamp": "14:39:31",
+      "speaker": "Help Desk",
+      "message": "Have a good day too."
+    }
+  ]
+}

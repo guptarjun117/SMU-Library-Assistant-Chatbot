@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "15:58:51",
+    "speaker": "User",
+    "message": "Hi, sorry if this is a stupid question, but can I ask if \"logical fallacies\" are considered general facts and need not be cited in my academic writing?"
+  },
+  {
+    "timestamp": "16:00:28",
+    "speaker": "User",
+    "message": "I see. Thank you for your help!"
+  },
+  {
+    "timestamp": "16:00:37",
+    "speaker": "User",
+    "message": "Have a good day!"
+  },
+  {
+    "timestamp": "15:58:21",
+    "speaker": "Help Desk",
+    "message": "Hello, how may I help you?"
+  },
+  {
+    "timestamp": "15:59:49",
+    "speaker": "Help Desk",
+    "message": "Hi PERSON_LASTNAME_2, I am sorry. For this kind of question, I am afraid you need to seek help from librarians."
+  },
+  {
+    "timestamp": "16:00:17",
+    "speaker": "Help Desk",
+    "message": "Can you drop an email to library@smu.edu.sg with your question as our librarians are busy right now"
+  },
+  {
+    "timestamp": "16:00:31",
+    "speaker": "Help Desk",
+    "message": "no problem"
+  },
+  {
+    "timestamp": "16:00:41",
+    "speaker": "Help Desk",
+    "message": "Have a good day too"
+  }
+]

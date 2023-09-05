@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "16:12:48",
+    "speaker": "helpdesk",
+    "message": "Hi PERSON_LASTNAME_1, this is PERSON_FIRSTNAME_2 from Library. How may I help you?"
+  },
+  {
+    "timestamp": "16:13:43",
+    "speaker": "helpdesk",
+    "message": "May I know what type of journals or articles are you looking for?"
+  },
+  {
+    "timestamp": "16:14:06",
+    "speaker": "helpdesk",
+    "message": "Ok, is it a generic assignment?"
+  },
+  {
+    "timestamp": "16:15:20",
+    "speaker": "helpdesk",
+    "message": "if you you can try searching for information from databases like Ebscohost and Proquest for a start"
+  },
+  {
+    "timestamp": "16:16:13",
+    "speaker": "helpdesk",
+    "message": "the first entry"
+  },
+  {
+    "timestamp": "16:16:29",
+    "speaker": "helpdesk",
+    "message": "If i wanna search for specific words"
+  },
+  {
+    "timestamp": "16:16:37",
+    "speaker": "helpdesk",
+    "message": "either one of the entry"
+  },
+  {
+    "timestamp": "16:17:25",
+    "speaker": "helpdesk",
+    "message": "Would you like to try accessing to either 1 of the databases first?"
+  },
+  {
+    "timestamp": "16:17:49",
+    "speaker": "helpdesk",
+    "message": "so it works almost like google"
+  },
+  {
+    "timestamp": "16:18:04",
+    "speaker": "helpdesk",
+    "message": "you can refer to the help file to be more specific in your search"
+  },
+  {
+    "timestamp": "16:21:03",
+    "speaker": "helpdesk",
+    "message": "usually they have a symbol of a question mark"
+  },
+  {
+    "timestamp": "16:21:32",
+    "speaker": "helpdesk",
+    "message": "Attached a file: <a href=\"https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106761&amp;preview=true\" class=\"s-la-cfile\" data-preview=\"inline\" target=\"_blank\">https://libfaq.smu.edu.sg/chat_file.php?i=28&amp;f=106761&amp;preview=true</a>"
+  },
+  {
+    "timestamp": "16:21:36",
+    "speaker": "helpdesk",
+    "message": "or like Proquest's case, look at Search tips"
+  },
+  {
+    "timestamp": "16:21:46",
+    "speaker": "helpdesk",
+    "message": "at the bottom of the search bar"
+  },
+  {
+    "timestamp": "16:22:11",
+    "speaker": "helpdesk",
+    "message": "Ok, both of these databases are pretty user friendly"
+  },
+  {
+    "timestamp": "16:22:22",
+    "speaker": "helpdesk",
+    "message": "don't be afraid to click on the links"
+  },
+  {
+    "timestamp": "16:22:58",
+    "speaker": "helpdesk",
+    "message": "if you are still not able to located the information that you are looking for, do feel free to reach out to us again either via the Chat, Email or approach your Research Librarian for help. :)"
+  },
+  {
+    "timestamp": "16:23:19",
+    "speaker": "helpdesk",
+    "message": "Is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "16:24:38",
+    "speaker": "helpdesk",
+    "message": "You're welcome!"
+  },
+  {
+    "timestamp": "16:24:52",
+    "speaker": "helpdesk",
+    "message": "Feel free to look for us again if you need help and have a good day!"
+  },
+  {
+    "timestamp": "16:25:18",
+    "speaker": "helpdesk",
+    "message": "I will end the chat for now. Thank you!"
+  }
+]

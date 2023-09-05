@@ -1,0 +1,10 @@
+[
+    {"timestamp": "13:52:19", "speaker": "helpdesk", "message": "Hello, how may I help you?"},
+    {"timestamp": "13:52:41", "speaker": "user", "message": "Hi I'm trying to get a copy of the following article: Comparative Analysis of the Singapore Convention in Light of the New York and Hague Choice of Court Conventions - but there doesnt seem to be a copy available on the law databases?"},
+    {"timestamp": "13:53:40", "speaker": "helpdesk", "message": "Hi PERSON_LASTNAME_1, do give me a few minutes to take a look."},
+    {"timestamp": "13:53:42", "speaker": "helpdesk", "message": "look*"},
+    {"timestamp": "13:57:27", "speaker": "helpdesk", "message": "Hi PERSON_LASTNAME_1, this looks to be a chapter as part of this book: [link provided]"},
+    {"timestamp": "13:57:39", "speaker": "helpdesk", "message": "Chapter 9"},
+    {"timestamp": "13:58:38", "speaker": "user", "message": "ah ok thank you!"},
+    {"timestamp": "13:58:54", "speaker": "helpdesk", "message": "You're welcome!"}
+]

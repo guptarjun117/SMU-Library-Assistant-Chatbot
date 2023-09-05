@@ -1,0 +1,64 @@
+{
+   "data":[
+      {
+         "timestamp":"17:24:23",
+         "speaker":"User",
+         "message":"hi PERSON_FIRSTNAME_2 -- sorry, i got disconnected. thank you!"
+      },
+      {
+         "timestamp":"17:24:30",
+         "speaker":"User",
+         "message":"<a href=\"https://www-tandfonline-com.libproxy.smu.edu.sg/doi/abs/10.1080/1754730X.2009.9715706\" target=\"_blank\">https://www-tandfonline-com.libproxy.smu.edu.sg/doi/abs/10.1080/1754730X.2009.9715706</a>"
+      },
+      {
+         "timestamp":"17:26:48",
+         "speaker":"User",
+         "message":"yes, i am unable to download the full-text"
+      },
+      {
+         "timestamp":"17:32:01",
+         "speaker":"User",
+         "message":"sure -- ill request for it"
+      },
+      {
+         "timestamp":"17:32:06",
+         "speaker":"User",
+         "message":"thank you PERSON_FIRSTNAME_2!"
+      },
+      {
+         "timestamp":"17:32:51",
+         "speaker":"User",
+         "message":"have a good weekend!"
+      },
+      {
+         "timestamp":"17:24:19",
+         "speaker":"Help Desk",
+         "message":"Welcome back PERSON_FIRSTNAME_1"
+      },
+      {
+         "timestamp":"17:24:39",
+         "speaker":"Help Desk",
+         "message":"Thanks for the link. Let me take a look.."
+      },
+      {
+         "timestamp":"17:26:17",
+         "speaker":"Help Desk",
+         "message":"For some reason it's not downloading. Let me see if I can try to access it another way. You were unable to download the full-text too?"
+      },
+      {
+         "timestamp":"17:30:44",
+         "speaker":"Help Desk",
+         "message":"Hmm strangely we don't have access to this article, even though it says that we do."
+      },
+      {
+         "timestamp":"17:31:36",
+         "speaker":"Help Desk",
+         "message":"We can bring it in for you though. But you will need to request it via this link:<a href=\"https://search.library.smu.edu.sg/discovery/blankIll?vid=65SMU_INST%3ASMU_NUI\" target=\"_blank\">https://search.library.smu.edu.sg/discovery/blankIll?vid=65SMU_INST%3ASMU_NUI</a>"
+      },
+      {
+         "timestamp":"17:32:24",
+         "speaker":"Help Desk",
+         "message":"You're welcome! Have a good weekend ahead :)"
+      }
+   ]
+}
