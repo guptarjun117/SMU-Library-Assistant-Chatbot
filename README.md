@@ -1,10 +1,20 @@
 # SMU-Library-Assistant-Chatbot
 
+## Aim
+The SMU Library Assistant Chatbot aims to improve the nature of SMU Library's 'Ask Library' chat with limited hours and fully human-operated to 24/7 with full automation.
+
 ## Main Capabilities
-1. libsearch: integrated chatbot with the primo API, fine-tuned the outcome with GPT3.5, to perfom book/reading materials search on library database
-2. library assistant: trained with GPT3.5 model using the library Q&A database, can answer questions in the role of SMU librarian
-3. library occupancy check: crawled the library's current occupancy level from the library's official website
+1. Open AI GPT-3.5 Integration: Users can communicate with the bot and it will act as ChatGPT.
+2. `/lksbot`: Talk to the bot's alternate version, which is finetuned on the FAQs of SMU Library website. Start your prompt with `/lksbot`
+3. `/libsearch`: Talk to the alternate version of the bot that performs a search in the SMU Database using Primo API and retrieves data structured by ChatGPT. Start your prompt with `/libsearch`
+4. `/lks` or `/kgc`: Retrieve the occupancy level in the respective libraries.
 
 
-## Files and Documetations
-See `tele-bot.ipynb` for telegram integration of all models mentioned above
+## Files
+- See `tele-bot.ipynb` for telegram integration of all models mentioned above.
+- Replace API keys in their respective placeholders.
+
+
+  ## Areas for Improvement
+  - The bot can be finetuned on the conversation history as well (see the raw data in merged output folder) that will complement the FAQs finetuning and improve the conversation. Hope to reduce hallucinations and more contexualise the conversation.
+  - Improve the Primo API search area for the bot as the current level of this part is very basic.
