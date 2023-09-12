@@ -15,6 +15,6 @@ The SMU Library Assistant Chatbot aims to improve the nature of SMU Library's 'A
 - Replace API keys in their respective placeholders.
 
 
-  ## Areas for Improvement
-  - The bot can be finetuned on the conversation history as well (see the raw data in merged output folder) that will complement the FAQs finetuning and improve the conversation. Hope to reduce hallucinations and more contexualise the conversation.
-  - Improve the Primo API search area for the bot as the current level of this part is very basic.
+## Areas for Improvement
+- The bot can be finetuned on the conversation history as well (see the raw data in the merged output folder) which will complement the FAQs finetuning and improve the conversation. Hope to reduce hallucinations and more contextualize the conversation to SMU Libraries.
+- Improve the Primo API search area for the bot as the current level of this part is very basic.
