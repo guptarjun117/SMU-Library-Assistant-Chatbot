@@ -16,5 +16,5 @@ The SMU Library Assistant Chatbot aims to improve the nature of SMU Library's 'A
 
 
 ## Areas for Improvement
-- The bot can be finetuned on the conversation history as well (see the raw data in the merged output folder) which will complement the FAQs finetuning and improve the conversation. Hope to reduce hallucinations and more contextualize the conversation to SMU Libraries.
+- The bot can be finetuned on the conversation history of the Ask Library chat which will complement the FAQs finetuning and improve the conversation. Hope to reduce hallucinations and more contextualize the conversation to SMU Libraries. The raw data wasn't uploaded due to privacy concerns.
 - Improve the Primo API search area for the bot as the current level of this part is very basic.
