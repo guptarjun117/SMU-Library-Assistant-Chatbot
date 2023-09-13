@@ -1,8 +1,0 @@
-[
-  { "timestamp": "14:13:32", "speaker": "User", "message": "hello, i'm trying to do research on the performance of individual retail malls in Singapore but am having difficulty finding any data" },
-  { "timestamp": "14:13:47", "speaker": "User", "message": "would you perhaps know of any sources i can turn to" },
-  { "timestamp": "14:13:04", "speaker": "Help desk", "message": "hi there, how can i help?" },
-  { "timestamp": "14:14:23", "speaker": "Help desk", "message": "What do mean by performance, number of visitors to the mall, revenue etc?" },
-  { "timestamp": "14:14:46", "speaker": "Help desk", "message": "You can try databases like Passport, EMIS or WARC" },
-  { "timestamp": "14:16:46", "speaker": "Help desk", "message": "you too!" }
-]
